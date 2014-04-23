@@ -10,7 +10,7 @@ anything more elaborate than that usually takes the form of a list of difference
 
 so why, after all, can't you instantiate a module? further, why do modules have 'instance' methods, eh?
 
-can we fool a module into instantiating an object for us? well, it ruby after all, so i'm going to say yes, with some jiggery pokery. here's a go:
+can we fool a module into instantiating an object for us? well, it ruby after all, so i'm going to say yes, with some jiggery pokery. here's a go at it:
 
 {% highlight ruby %}
 module MessedUpModule
@@ -20,8 +20,6 @@ module MessedUpModule
     klass.new(*args, &block)
   end
 
-  attr_accessor :a, :b
-
   def to_s
     "#<#{ self.class }:0x#{ (object_id * 2).to_s(16) }>"
   end
@@ -29,34 +27,39 @@ module MessedUpModule
   def class
     MessedUpModule
   end
-
-  private
-
-  def initialize(a, b)
-    @a = a
-    @b = b
-  end
 end
+{% endhighlight %}
 
-class SteadyClass
-end
+let's give it a road test:
 
-maya = MessedUpModule.new('foo', 'bar')
-puts maya   # => #<MessedUpModule:0x8c83590>
-puts maya.a # => foo
-puts maya.b # => bar
+{% highlight ruby %}
+class SteadyClass; end
 
-yama = SteadyClass.new
-puts yama # => #<SteadyClass:0x8c834b4>
+mum = MessedUpModule.new
+sc = SteadyClass.new
 
-p [maya.class, yama.class]             # => [MessedUpModule, SteadyClass]
-p [maya.class.class, yama.class.class] # => [Module, Class]
+p [mum, sc] # => [#<MessedUpModule:0x8c83590>, <SteadyClass:0x8c834b4>]
 
-p maya.public_methods - yama.public_methods # => [:a, :a=, :b, :b=]
-p yama.public_methods - maya.public_methods # => []
+p [mum.class, sc.class]             # => [MessedUpModule, SteadyClass]
+p [mum.class.class, sc.class.class] # => [Module, Class]
 
-p maya.private_methods - yama.private_methods # => []
-p yama.private_methods - maya.private_methods # => []
+p mum.public_methods - sc.public_methods # => []
+p sc.public_methods - mum.public_methods # => []
+
+p mum.private_methods - sc.private_methods # => []
+p sc.private_methods - mum.private_methods # => []
+
+# and later.....
+
+mum = MessedUpModule.new('foo', 'bar')
+puts mum   # => #<MessedUpModule:0x8c83590>
+puts mum.a # => foo
+puts mum.b # => bar
+
+sc = SteadyClass.new
+puts sc # => #<SteadyClass:0x8c834b4>
+
+
 {% endhighlight %}
 
 
