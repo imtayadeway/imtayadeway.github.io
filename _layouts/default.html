@@ -6,39 +6,31 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
-
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
 
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-3 col-md-offset-2 sidebar">
+            <h1><a href="/">{{ site.name }}</a></h1>
+            <p>software engineer, tea-drinker, spaceways traveller</p>
+            <p>lead developer at <a href="http://peachtreebilling.com">peachtree medical billing</a></p>
+            <hr>
+            <div class="nav nav-sidebar">
+              <p><a href="https://github.com/imtayadeway">github</a></p>
+              <p><a href="mailto:hello@mayatideway.com">email</a></p>
+            </div>
           </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                maya tideway<br />
-                software engineer, spaceways traveller<br />
-                lead developer at <a href="http://peachtreebilling.com">peachtree medical billing</a><br />
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/imtayadeway">github</a><br />
-                <a href="mailto:hello@mayatideway.com">email</a><br />
-                <a href="#">twitter</a><br />
-              </p>
-            </div>
+          <div class="col-md-5 main">
+            {{ content }}
           </div>
         </div>
-
+      </div>
     </body>
 </html>
