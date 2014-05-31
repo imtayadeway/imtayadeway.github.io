@@ -6,7 +6,7 @@ date: 2014-04-22 19:11:00
 
 probably the most frequent basic ruby interview/trivia question: what's the difference between a module and a class? most frequent answer: you can't instantiate a module!
 
-so why, after all, can't you instantiate a module? just for fun, can we fool a module into thinking it can instantiate an object for us? probably!
+so why, after all, can't you instantiate a module? just for fun, can we fool a module into thinking it can instantiate itself for us? probably!
 
 {% highlight ruby %}
 module MessedUpModule
@@ -33,4 +33,4 @@ module MessedUpModule
 end
 {% endhighlight %}
 
-applications? well, none i can think of so far. but i enjoyed the exercise. yes, it's a kind of cheat, but then part of it was deciding how much of a cheat was acceptable. a few things were learned along the way and i thought deeper about ruby's object heirarchy.
+here, i've aped some classical behavior in `#to_s`, but the rest is left to the imagination. applications? well, none i can think of so far. but i enjoyed the exercise. yes, it's a kind of cheat, but then part of it was deciding how much of a cheat was acceptable. a few things were learned along the way and i thought deeper about ruby's object heirarchy.
