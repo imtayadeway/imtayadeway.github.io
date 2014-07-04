@@ -61,7 +61,7 @@ end
 # config/boot.rb
 
 Padrino.before_load do
-  Padrino.load_paths << Padrino.root('app', workers/*.rb')
+  Padrino.load_paths << Padrino.root('app', 'workers/*.rb')
 end
 ```
 add the following to your rackup config file:
@@ -79,8 +79,8 @@ workers:
 ```ruby
 # config/workers.rb
 
-workers_path = File.expand_path('../../workers/*.rb', __FILE__)
-Dir[workers_path].each { |file| require file }
+path = File.expand_path('../../workers/*.rb', __FILE__)
+Dir[path].each { |file| require file }
 ```
 
 finally, add a Procfile with the following content:
