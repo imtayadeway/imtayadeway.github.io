@@ -77,6 +77,8 @@ add workers.rb to your config directory and tell it how to find your
 workers:
 
 ```ruby
+# config/workers.rb
+
 workers_path = File.expand_path('../../workers/*.rb', __FILE__)
 Dir[workers_path].each { |file| require file }
 ```
@@ -84,6 +86,8 @@ Dir[workers_path].each { |file| require file }
 finally, add a Procfile with the following content:
 
 ```
+# Procfile
+
 web: bundle exec thin start -p $PORT
 worker: bundle exec sidekiq -r ./config/workers.rb
 ```
