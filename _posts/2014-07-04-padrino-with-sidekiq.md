@@ -77,9 +77,8 @@ add workers.rb to your config directory and tell it how to find your
 workers:
 
 ```ruby
-Dir[File.expand_path('../../workers/*.rb', __FILE__)].each do |file|
-  require file
-end
+workers_path = File.expand_path('../../workers/*.rb', __FILE__)
+Dir[workers_path].each { |file| require file }
 ```
 
 finally, add a Procfile with the following content:
