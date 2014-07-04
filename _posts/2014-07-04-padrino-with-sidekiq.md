@@ -4,9 +4,11 @@ title: "padrino with sidekiq"
 date: 2014-07-30 14:30:00
 ---
 
-i recently added sidekiq to a padrino app. mounting the sinatra app
-wasn't completely straightforward, and i didn't find everything i
-needed in one place. so here's an attempt to do just that.
+i recently added [sidekiq](https://github.com/mperham/sidekiq) to a
+[padrino](https://github.com/padrino/padrino-framework) app. mounting
+the sinatra app wasn't completely straightforward, and i didn't find
+everything i needed in one place. so here's an attempt to do just
+that.
 
 first, add sidekiq to your gemfile, and bundle install:
 
