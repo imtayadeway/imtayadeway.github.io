@@ -85,7 +85,7 @@ Dir[path].each { |file| require file }
 
 finally, add a Procfile with the following content:
 
-```
+```yaml
 # Procfile
 
 web: bundle exec thin start -p $PORT
