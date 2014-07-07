@@ -14,7 +14,6 @@ first, add sidekiq to your gemfile, and bundle install:
 
 ```ruby
 # Gemfile
-
 # Project requirements
 gem 'sidekiq'
 ```
@@ -27,8 +26,8 @@ now, tell padrino to mount the app, and stub some methods to make it play nice:
 
 ```ruby
 # config/apps.rb
-
 require 'sidekiq/web'
+
 class Sidekiq::Web < ::Sinatra::Base
   class << self
     def dependencies; []; end
@@ -61,7 +60,6 @@ end
 
 ```ruby
 # config/boot.rb
-
 Padrino.before_load do
   Padrino.load_paths << Padrino.root('app', 'workers/*.rb')
   Padrino.dependency_paths << Padrino.root('app', 'workers/*.rb')
@@ -71,7 +69,6 @@ add the following to your rackup config file:
 
 ```ruby
 # config.ru
-
 require 'sidekiq/web'
 map('/sidekiq') { run Sidekiq::Web }
 ```
@@ -81,7 +78,6 @@ workers:
 
 ```ruby
 # config/workers.rb
-
 path = File.expand_path('../../workers/*.rb', __FILE__)
 Dir[path].each { |file| require file }
 ```
@@ -90,7 +86,6 @@ finally, add a Procfile with the following content:
 
 ```yaml
 # Procfile
-
 web: bundle exec thin start -p $PORT
 worker: bundle exec sidekiq -r ./config/workers.rb
 ```
