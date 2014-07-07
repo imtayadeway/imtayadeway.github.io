@@ -61,8 +61,7 @@ end
 ```ruby
 # config/boot.rb
 Padrino.before_load do
-  Padrino.load_paths << Padrino.root('app', 'workers/*.rb')
-  Padrino.dependency_paths << Padrino.root('app', 'workers/*.rb')
+  Padrino.dependency_paths << Padrino.root('app/workers/*.rb')
 end
 ```
 add the following to your rackup config file:
