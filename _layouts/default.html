@@ -1,37 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>maya tideway</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ site.name }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
-    </head>
-    <body>
-
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3 col-md-offset-2 sidebar">
-            <h1><a href="/">{{ site.name }}</a></h1>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-3 col-md-offset-2 sidebar">
+          <h1><a href="/">{{ site.name }}</a></h1>
             <p>software engineer, tea-drinker, spaceways traveller</p>
             <p>lead developer at <a href="http://www.peachtreebilling.com">peachtree medical billing</a></p>
-            <hr>
-            <div class="nav nav-sidebar">
-              <p><a href="https://github.com/imtayadeway">github</a></p>
-              <p><a href="mailto:hello@mayatideway.com">email</a></p>
-              <p><a href="http://bootswatch.com/lumen">theme</a></p>
-            </div>
-          </div>
-          <div class="col-md-5 main">
-            {{ content }}
-          </div>
+
+          <ul class="list-unstyled">
+            <li><a href="/archive">archive</a></li>
+            <li><a href="https://github.com/imtayadeway">github</a></li>
+            <li><a href="mailto:hello@mayatideway.com">email</a></li>
+            <li><a href="http://bootswatch.com/lumen">theme</a></li>
+          </ul>
+        </div>
+
+
+        <div class="col-md-5 main">
+          {{ content }}
         </div>
       </div>
-    </body>
+    </div>
+  </body>
 </html>
