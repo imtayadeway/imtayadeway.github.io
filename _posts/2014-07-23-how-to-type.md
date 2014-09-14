@@ -21,23 +21,25 @@ afterlife of my schooling. here are some of them:
 * greater sensitivity and range of expression
 
 what's maybe surprising is how few of these directly address any
-elements of musicality.  but what's reassuring to me is that it's
-clear someone was looking out for my well-being at a time when i
-wasn't. not injuring myself, i am finding, is increasingly appearing
-at the top of my list of goals for just about any endeavor that has a
-risk of injury.
+elements of musicality.  and it's reassuring to me is that someone was
+looking out for my well-being at a time when clearly i wasn't. not
+injuring myself, i am finding, is increasingly appearing at the top of
+my list of goals for just about any endeavor that has a risk of
+injury.
 
 if you've ever suffered an RSI as a result of typing, i'm going to
 urge you to hold a similar attitude whenever you sit at the
-keyboard. were you pairing with me, i'd want for you to experience the
-same freedom and joy i feel when playing a musical instrument, above,
-say, not violating the law of demeter or single responsibility
-principle. if that doesn't surprise you, do read on. you may even be
-interested in how i synthesized the principles of touch typing,
-[ergonomic keyboards](http://en.wikipedia.org/wiki/Ergonomic_keyboard),
-the
+keyboard. were you pairing programming with me, i'd want for you to
+experience the same freedom and joy as you type that i feel when
+playing a musical instrument. even above, say, not violating the law
+of demeter or single responsibility principle. if that doesn't
+surprise you, do read on. you may even be interested in how i
+synthesized the principles of touch typing, [ergonomic keyboards], the
+[alexander technique] and emacs in pursuit of these goals as a
+software developer.
+
+[ergonomic keyboards](http://en.wikipedia.org/wiki/Ergonomic_keyboard)
 [alexander technique](http://en.wikipedia.org/wiki/Alexander_technique)
-and emacs in pursuit of these goals as a software developer.
 
 ### the posture
 
@@ -56,14 +58,14 @@ served me well over many years as a keyboardist:
 * the hand is strong, relaxed and curved, as if formed around a ball.
 
 ### what i learned from touch typing
-* when pressing shift, control or meta in combination with another
-  key, avoid pressing both with the same hand. and by avoid i mean
-  don't ever, ever do that.
+* when pressing shift, control or meta (also known as the alt or
+  option key) in combination with another key, avoid pressing both
+  with the same hand. and by avoid i mean don't ever, ever do that.
 
 ### the keyboard
 * if your keyboard does not have a shift, control and meta key on both
   sides, then it is defective by design.  get a better keyboard, or
-  rebind the keys (i'm looking squarely at you, macbook)
+  rebind the keys (i'm looking squarely at you, macbook).
 * for greater ease in pressing the control key, use an ergonomic
   keyboard that allows you to use the palm of your hand. emacs pinkie be gone!
 * use an ergonomic/split keyboard that allows your hands and arms to
