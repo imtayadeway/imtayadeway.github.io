@@ -34,12 +34,12 @@ experience the same freedom and joy as you type that i feel when
 playing a musical instrument. even above, say, not violating the law
 of demeter or single responsibility principle. if that doesn't
 surprise you, do read on. you may even be interested in how i
-synthesized the principles of touch typing, [ergonomic keyboards], the
-[alexander technique] and emacs in pursuit of these goals as a
-software developer.
+synthesized the principles of touch typing,
+[ergonomic keyboards][ergonomic], the [alexander technique][alexander]
+and emacs in pursuit of these goals as a software developer.
 
-[ergonomic keyboards](http://en.wikipedia.org/wiki/Ergonomic_keyboard)
-[alexander technique](http://en.wikipedia.org/wiki/Alexander_technique)
+[ergonomic]: http://en.wikipedia.org/wiki/Ergonomic_keyboard
+[alexander]: http://en.wikipedia.org/wiki/Alexander_technique
 
 ### the posture
 
