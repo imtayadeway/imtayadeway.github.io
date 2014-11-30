@@ -21,11 +21,11 @@ afterlife of my schooling. here are some of them:
 * greater sensitivity and range of expression
 
 what's maybe surprising is how few of these directly address any
-elements of musicality.  and it's reassuring to me is that someone was
-looking out for my well-being at a time when clearly i wasn't. not
-injuring myself, i am finding, is increasingly appearing at the top of
-my list of goals for just about any endeavor that has a risk of
-injury.
+elements of musicality.  it's enormously reassuring to me to think
+that someone was looking out for my well-being at a time when clearly
+i wasn't. not injuring myself, i am finding, is increasingly appearing
+at the top of my list of goals for just about any endeavor that has a
+risk of injury.
 
 if you've ever suffered an RSI as a result of typing, i'm going to
 urge you to hold a similar attitude whenever you sit at the
