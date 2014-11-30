@@ -38,8 +38,8 @@ end
 
 Padrino.mount(
   'Sidekiq',
-  :app_class => 'Sidekiq::Web',
-  :app_root => Sidekiq::Web.root
+  app_class: 'Sidekiq::Web',
+  app_root: Sidekiq::Web.root
 ).to('/sidekiq')
 ```
 
