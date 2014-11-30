@@ -1,4 +1,4 @@
 name: maya tideway
 markdown: redcarpet
-pygments: true
+highlighter: 'pygments'
 paginate: 5
