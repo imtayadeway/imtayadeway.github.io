@@ -30,10 +30,6 @@ read a couple years ago to get me through the git blues.
 
 first of all, let's define a few terms:
 
-#### git _(noun)_
-
-a person who is stupid or unpleasant.
-
 #### private branch
 
 a branch that is used by just you. pushing it to a remote does not
@@ -49,26 +45,6 @@ the current revision of a given branch.
 
 ### committing
 
-<table class="table table-striped">
-    <tr>
-      <td>git</td>
-      <td>a person who is stupid or unpleasant</td>
-    </tr>
-        <tr>
-      <td>private branch</td>
-      <td>a branch that is used by just you. pushing it to a remote does not necessarily make it public</td>
-    </tr>
-    <tr>
-      <td>public branch</td>
-      <td>a branch that is shared by many</td>
-    </tr>
-    <tr>
-      <td>HEAD</td>
-      <td>the current revision of a given branch</td>
-    </tr>
-
-</table>
-
 here are some things that can generally go wrong:
 
 - putting everything into one big commit
@@ -78,5 +54,20 @@ here are some things that can generally go wrong:
   state of each commit
 
 one thing i learned early on was that it is a good idea to commit
-frequently. unfortunately that wasn't the whole story, although it
-does address antipattern #1.
+frequently. unfortunately that's not the whole story. although it does
+address antipattern #1, it will often mean trading it for #2 or
+\#3. practicing TDD is actually conducive to making frequent, small
+commits because you're concentrating on getting to green (a
+requirement for a good commit) without getting distracted or writing
+more code than is needed. essentially, it's OK to do #2 or #3 as long
+as you're working in private branch and you squash or rewrite your
+commits before merging by performing an interactive rebase (more on
+this later). squashing everything isn't necessarily a good idea
+either. the goal should be to be left with a small number of commits
+that mark a distinct progression toward some goal (adding a new
+feature, refactoring, etc.). as you become more savvy with interactive
+rebasing you may fall prey to antipattern #4. in other words, when
+you're rewriting history it's important to check the integrity of each
+commit that you're creating after the fact. if you really care about
+your history, and not just your HEAD, you'll want every commit to be
+green.
