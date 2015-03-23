@@ -28,18 +28,55 @@ more about the subject than most of my peers. i still don't consider
 myself an expert in any way. anywho, here's the guide i wish i had
 read a couple years ago to get me through the git blues.
 
-### intermediate git
-
-first of all, let's talk a few terms:
+first of all, let's define a few terms:
 
 #### git _(noun)_
-a person who is stupid or unpleasant
+
+a person who is stupid or unpleasant.
 
 #### private branch
-a branch that is used by just you
+
+a branch that is used by just you. pushing it to a remote does not
+necessarily make it public.
 
 #### public branch
-a branch that is shared by many
+
+a branch that is shared by many.
 
 #### HEAD
-the current revision of a given branch
+
+the current revision of a given branch.
+
+### committing
+
+<table class="table table-striped">
+    <tr>
+      <td>git</td>
+      <td>a person who is stupid or unpleasant</td>
+    </tr>
+        <tr>
+      <td>private branch</td>
+      <td>a branch that is used by just you. pushing it to a remote does not necessarily make it public</td>
+    </tr>
+    <tr>
+      <td>public branch</td>
+      <td>a branch that is shared by many</td>
+    </tr>
+    <tr>
+      <td>HEAD</td>
+      <td>the current revision of a given branch</td>
+    </tr>
+
+</table>
+
+here are some things that can generally go wrong:
+
+- putting everything into one big commit
+- writing an incomplete commit message
+- breaking something. committing. fixing it later.
+- (more advanced) rebasing or committing in hunks without checking the
+  state of each commit
+
+one thing i learned early on was that it is a good idea to commit
+frequently. unfortunately that wasn't the whole story, although it
+does address antipattern #1.
