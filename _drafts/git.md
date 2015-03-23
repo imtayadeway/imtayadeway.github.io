@@ -121,3 +121,23 @@ to help remind me:
 # Include a link to the ticket, if any.
 
 ```
+
+### rebasing
+
+if you only learn one thing beyond the git 101 stage it should
+probably be this. never rebase a public branch! i said never rebase a
+public branch!
+
+Linus Torvalds has said that all of git can be understood in terms of
+rebase. but i think there's another command that helps illuminate even
+further. it's sort of the basic unit of a rebase: the `cherry-pick`.
+
+### aliasing
+### some useful commands
+### references
+
+1. Linus Torvalds tech talk: https://www.youtube.com/watch?v=4XpnKHJAok8
+2. Think Like a Git: http://think-like-a-git.net/
+3. Thoughtbot rebase like a boss: http://robots.thoughtbot.com/rebase-like-a-boss
+4. Git ready: http://gitready.com
+5. Destroy all Software: https://www.destroyallsoftware.com/screencasts
