@@ -70,4 +70,54 @@ rebasing you may fall prey to antipattern #4. in other words, when
 you're rewriting history it's important to check the integrity of each
 commit that you're creating after the fact. if you really care about
 your history, and not just your HEAD, you'll want every commit to be
-green.
+green and deployable.
+
+there are actually a few reasons why you might want to take such care
+of your history. the first that comes to mind is being able to use
+git's bisect feature with more confidence. `bisect` is a very powerful
+and useful tool that i've personally seen rendered completely useless
+by careless committing. more on bisect later.
+
+another reason might be being able to generate metrics for your
+application across a range of commits.
+
+another is simply being able to read your history with relative
+ease. this is more a comment on composing good commits with good
+commit messages. (occasionally, for inspiration, i'll go spelunking
+through the history of some open source software that i love, go right
+back to the first commit and rediscover the steps of creating its
+first complete feature by a more skilled practitioner.)
+
+there are two rules i like to follow when composing a commit
+message. the first is to use the present tense imperative in the first
+line. the reason for this is that this is the tense/mood used in git's
+generated messages such as on merge commits. a nice side effect of
+this is that you will probably find that your messages are shorter and
+succinter. the second rule is never to use the `-m` flag. trying to
+fit your entire message onto the first line is just way too much
+pressure! how formal you want to get with your message after that is
+up to you. generally it's a good idea to have a short, descriptive
+first line, followed by a longer description and a link to an issue
+number or ticket if one exists. i add tim pope's template to my config
+to help remind me:
+
+```
+# ~/.gitconfig
+[commit]
+  template = ~/.gitmessage
+```
+```
+# ~/.gitmessage
+
+
+# 50-character subject line
+#
+# 72-character wrapped longer description. This should answer:
+#
+# * Why was this change necessary?
+# * How does it address the problem?
+# * Are there any side effects?
+#
+# Include a link to the ticket, if any.
+
+```
