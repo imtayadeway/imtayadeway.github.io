@@ -141,3 +141,4 @@ further. it's sort of the basic unit of a rebase: the `cherry-pick`.
 3. Thoughtbot rebase like a boss: http://robots.thoughtbot.com/rebase-like-a-boss
 4. Git ready: http://gitready.com
 5. Destroy all Software: https://www.destroyallsoftware.com/screencasts
+6. http://typicalprogrammer.com/linus-torvalds-goes-off-on-linux-and-git/
