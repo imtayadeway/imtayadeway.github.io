@@ -43,6 +43,10 @@ a branch that is shared by many.
 
 the current revision of a given branch.
 
+#### the graph
+#### merge bubble
+#### fast-forward
+
 ### committing
 
 here are some things that can generally go wrong:
@@ -106,6 +110,7 @@ to help remind me:
 [commit]
   template = ~/.gitmessage
 ```
+
 ```
 # ~/.gitmessage
 
@@ -129,16 +134,224 @@ probably be this. never rebase a public branch! i said never rebase a
 public branch!
 
 Linus Torvalds has said that all of git can be understood in terms of
-rebase. but i think there's another command that helps illuminate even
-further. it's sort of the basic unit of a rebase: the `cherry-pick`.
+`rebase`. but i think there's another command that helps illuminate even
+further: the `cherry-pick`.
 
-### aliasing
-### some useful commands
+this is what a cherry-pick looks like:
+
+```
+$ git cherry-pick <commit>
+```
+
+what it does is apply the changes introduced by a given commit to the
+HEAD of another branch. if that sounds confusing, or if you've never
+really thought about git in those terms, go back and read that a
+couple of times.
+
+`cherry-pick` is sort of the basic unit of a `rebase`. the difference
+is with `rebase` you're saying: take this series of commits and
+_replay_ them at another point in history.
+
+with interactive rebasing you have even more control over how to
+rewrite history. you can take commits out, shuffle them around, squash
+commits into other commits, stop the replay right in the middle and
+change something and continue where you left off. powerful stuff.
+
+there are two distinct benefits that you get from rebasing. one is
+that you can introduce any upstream changes into your code, address
+any breakages or refactoring that can be done, then merge all your
+changes directly onto the tip of master, without a merge 'bubble', as
+if you had just written them in some kind of coding frenzy. the other
+is that you can commit however you want while you're developing, and
+then go back and recompose your commit history into a string of coding
+pearls, squashing smaller changes, typos and errors, and writing
+beautiful commit messages with love and care/that will make you cry.
+
+### some useful things to know
+
+#### reflog
+
+for the longest time i held the reflog at arm's length. i knew it
+existed and that it could be of help if you were in serious
+trouble. maybe there was some security in thinking that if i managed
+never to use it then i could never have done anything _that_ bad.
+
+but i was wrong. the reflog is actually exciting, powerful and pretty
+straightforward.
+
+```
+$ git reflog
+$ git reflog show <branch>
+```
+
+#### ranges
+
+ranges can be pretty confusing because they can mean different things
+in different contexts. it's important to know how to use them, though.
+
+```
+# git log
+# commits that b has that a doesn't have
+$ git log <commit a>..<commit b>
+```
+
+```
+# commits in a and b but not both
+$ git log <commit a>...<commit b>
+```
+
+```
+# git diff
+# changes between commit a and commit b
+$ git diff <commit a> <commit b>
+```
+
+```
+# same
+$ git diff <commit a>..<commit b>
+```
+
+```
+# changes that occurred on a's branch since it branched off of b's
+$ git diff <commit a>...<commit b>
+```
+
+```
+# git checkout
+# checkout the merge base of a and b
+$ git checkout <commit a>...<commit b>
+```
+
+#### commit parents
+
+sometimes it can be easier to refer to commits not by their SHA1 hash
+but by their relationship with another commit. this is especially so
+when dealing with recent history and your point of reference is HEAD,
+aka the current revision, or last commit.
+
+```
+# the current commit
+$ HEAD
+$ HEAD~0
+```
+
+```
+# the 1st parent of the current commit
+$ HEAD~
+$ HEAD~1
+```
+
+```
+# the 1st parent of the 1st parent of the current commit
+$ HEAD~~
+$ HEAD~2
+$ HEAD~1~1
+```
+
+```
+# the 2nd parent of the current commit
+$ HEAD^2
+```
+
+```
+# uh...
+$ HEAD~2^2~5^2
+```
+
+#### add
+
+you already know how to do that, right? try adding in hunks.
+
+```
+# stage changes in hunks
+$ git add -p
+```
+
+#### bisect
+
+```
+# start it all off
+$ git bisect start
+
+# mark a known good commit
+$ git bisect good <commit>
+
+# mark a known bad commit
+$ git bisect bad <commit>
+
+# tell bisect the commit it checked out is good
+$ git bisect good
+
+# tell bisect the commit it checked out is bad
+$ git bisect bad
+
+# automate it
+$ git bisect run rspec spec/features/my_broken_spec.rb
+```
+
+#### blame
+
+my FAVORITE tool. in all seriousness though, this can be useful in
+situations where you have some code you really don't understand
+despite your best efforts, and you need to have a chat with its
+author.
+
+```
+$ git blame path/to/file
+```
+
+#### revert
+
+```
+# create a new commit reversing the changes
+$ git revert <commit>
+```
+
+```
+# revert a merge
+$ git revert -m 1 <merge commit>
+```
+
+#### reset
+
+Moves HEAD to the specified commit
+
+```
+# leave changes in previous HEAD in staging area
+$ git reset --soft HEAD~
+```
+
+```
+# leave changes in previous HEAD in working tree (default)
+$ git reset --mixed HEAD~
+```
+
+```
+# destroy all changes in previous HEAD
+$ git reset --hard HEAD~
+```
+
+```
+# reset to previous commit
+$ git reset --hard <commit>
+```
+
+```
+# reset to previous point in the reflog
+$ git reset --hard <branch>@{<reflog entry>}
+```
+
+```
+# reset to where you were last week
+$ git reset --hard <branch>@{one.week.ago}
+```
+
 ### references
 
 1. Linus Torvalds tech talk: https://www.youtube.com/watch?v=4XpnKHJAok8
 2. Think Like a Git: http://think-like-a-git.net/
-3. Thoughtbot rebase like a boss: http://robots.thoughtbot.com/rebase-like-a-boss
+3. thoughtbot rebase like a boss: http://robots.thoughtbot.com/rebase-like-a-boss
 4. Git ready: http://gitready.com
 5. Destroy all Software: https://www.destroyallsoftware.com/screencasts
 6. http://typicalprogrammer.com/linus-torvalds-goes-off-on-linux-and-git/
+7. tim pope's commit message template
