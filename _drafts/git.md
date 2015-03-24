@@ -6,11 +6,11 @@ title: "intermediate git"
 ### git 101
 
 my early professional career required that i knew how to do 6 things
-in git: branch, stage, commit, merge, push and pull. if something
-weird happened, there was always google, and of course that stack
-overflow page that everyone stumbles on eventually: if i fucked
-something up there was `git reset --hard HEAD`, and if i really fucked
-it up i could do `git reset --hard HEAD~`.
+in git: branch, stage, commit, merge, push and pull. beyond that there
+was always google. and of course that stack overflow page that
+everyone stumbles on eventually: if i fucked something up there was
+`git reset --hard HEAD`, and if i really fucked it up i could do `git
+reset --hard HEAD~`.
 
 to my surprise now, i got a lot of leverage out of just those 6 (or 7)
 commands. but that was probably because no-one else really minded what
@@ -23,10 +23,9 @@ meant doing more committing and pushing. fortunately this didn't last
 for too long as i decided at some point that i needed to understand
 git a little better.
 
-i just gave a talk at work on git and was surprised to find i knew
-more about the subject than most of my peers. i still don't consider
-myself an expert in any way. anywho, here's the guide i wish i had
-read a couple years ago to get me through the git blues.
+i still don't consider myself an expert in any way. nonetheless,
+here's the guide i wish i had read a couple years ago to get me
+through the git blues.
 
 first of all, let's define a few terms:
 
@@ -105,6 +104,7 @@ first line, followed by a longer description and a link to an issue
 number or ticket if one exists. i add tim pope's template to my config
 to help remind me:
 
+
 ```
 # ~/.gitconfig
 [commit]
@@ -152,10 +152,22 @@ couple of times.
 is with `rebase` you're saying: take this series of commits and
 _replay_ them at another point in history.
 
+this is what a rebase looks like:
+
+```
+$ git rebase master
+```
+
 with interactive rebasing you have even more control over how to
 rewrite history. you can take commits out, shuffle them around, squash
 commits into other commits, stop the replay right in the middle and
 change something and continue where you left off. powerful stuff.
+
+this is what an interactive rebase looks like:
+
+```
+$ git rebase -i master
+```
 
 there are two distinct benefits that you get from rebasing. one is
 that you can introduce any upstream changes into your code, address
