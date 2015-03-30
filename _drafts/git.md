@@ -127,6 +127,8 @@ to help remind me:
 
 ```
 
+### more on your gitconfig
+
 ### rebasing
 
 if you only learn one thing beyond the git 101 stage it should
@@ -178,6 +180,33 @@ is that you can commit however you want while you're developing, and
 then go back and recompose your commit history into a string of coding
 pearls, squashing smaller changes, typos and errors, and writing
 beautiful commit messages with love and care/that will make you cry.
+
+one thing you might notice is that if you were pushing your topic
+branch before you rebased, when you try to push after the remote will
+refuse and complain about it too. this is normal and to be
+expected. it just means that you have to 'force' push your branch.
+
+the reason for this is that you changed history by rebasing. these
+words are often thrown around when people are talking about rebasing,
+but the explanation can be a little vague. the more precise reason
+that it fails can be elucidated by example. when you rebase a branch
+onto another commit, you take that first commit you made when you
+first diverged and point it to a different commit (typically the HEAD
+of the base branch). doing so changes the commit SHA1 hash. the next
+commit in your project branch is now pointing at a ghost commit,
+i.e. one that is no longer part of the graph. it needs to be updated
+to point to it's parent. and so on. as the rebase replays all your
+changes, it changes every commit hash in the branch. the changes in
+content on your local branch and the remote are still the same. but
+none of the hashes are the same. this is why git gives you the
+somewhat confusing indication to pull your changes down before trying
+to push. what you need to do instead is tell the remote to forget
+everything and just accept your local branch in place of whatever it
+has. and that looks like this:
+
+```
+$ git push -f origin <branch>
+```
 
 why do i have to force push?
 
