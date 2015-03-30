@@ -179,6 +179,8 @@ then go back and recompose your commit history into a string of coding
 pearls, squashing smaller changes, typos and errors, and writing
 beautiful commit messages with love and care/that will make you cry.
 
+why do i have to force push?
+
 ### some useful things to know
 
 #### reflog
