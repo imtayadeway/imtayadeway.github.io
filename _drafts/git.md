@@ -5,27 +5,30 @@ title: "intermediate git"
 
 ### git 101
 
-my early professional career required that i knew how to do 6 things
+my early professional career required that i knew how to do six things
 in git: branch, stage, commit, merge, push and pull. beyond that there
 was always google. and of course that stack overflow page that
 everyone stumbles on eventually: if i fucked something up there was
 `git reset --hard HEAD`, and if i really fucked it up i could do `git
 reset --hard HEAD~`.
 
-to my surprise now, i got a lot of leverage out of just those 6 (or 7)
-commands. but that was probably because no-one else really minded what
-i was doing. we committed to master and dealt with problems as they
-came up. no-one read the history. we pushed to a gitolite server,
-which, as great as that is, is so far away from the world of github
-that to any novice it was something of a black box. code got committed
-and pushed. who knows what happened after that? if something broke, it
-meant doing more committing and pushing. fortunately this didn't last
-for too long as i decided at some point that i needed to understand
-git a little better.
+to my surprise now, i got a lot of leverage out of just those six (or
+seven) commands. but that was probably because no-one else really
+minded what i was doing. we committed to master and dealt with
+problems as they came up. no-one read the history. we pushed to a
+gitolite server, which, as great as that is, is so far away from the
+world of github that to any novice it was something of a black
+box. code got committed and pushed. who knows what happened after
+that? if something broke, it meant doing more committing and
+pushing.
 
-i still don't consider myself an expert in any way. nonetheless,
-here's the guide i wish i had read a couple years ago to get me
-through the git blues.
+fortunately this didn't last for too long as i decided at some point
+that i needed to understand git a little better.
+
+i still don't consider myself an expert in any way. i did give a talk
+on the subject at work recently which i enjoyed, and wanted to
+summarize more formally here. so, here it is: the guide i wish i had
+read a couple years ago to get me through the git blues.
 
 first of all, let's define a few terms:
 
@@ -36,17 +39,53 @@ necessarily make it public.
 
 #### public branch
 
-a branch that is shared by many.
+a branch that is shared (read: committed against) by many.
 
 #### HEAD
 
-the current revision of a given branch.
+i always wondered if you were supposed to scream this. i might less
+formally refer to it as simply 'head' or the 'head of such and so a
+branch'. it is simply the current revision of a given branch.
 
 #### the graph
+
+a lot can be said about the graph, and it's probably beyond the scope
+of this article to talk about this in any detail. let's just say that
+a requirement for understanding git's internals is some rudimentary
+knowledge about graph theory. i really do mean rudimentary, so don't
+let that put you off. there is a great resource on explaining git in
+terms of graph theory here[think-like-a-git], which i would highly
+recommend.
+
+in terms of graph theory, your git history is essentially a graph
+composed of commit 'nodes'. the commits at the HEAD of branches are
+your 'leaf' nodes. HEAD in this sense refers to the series of changes
+(i.e. commit nodes) that are 'reachable' (i.e. pointed to by HEAD, or
+pointed to by commits that are pointed to by HEAD, an on and on).
+
 #### merge bubble
+
+when you merge two branches, you will get a merge 'bubble' by creating
+a new commit in the target branch that retains the integrity of both
+branches. this is a special 'merge commit', and it's special because
+it points to two different in the history - the tip of the target
+branch, and the tip of the source branch. you wouldn't create this
+commit by hand, it will happen automatically depending on how you've
+set up your `.gitconfig`.
+
 #### fast-forward
 
-### committing
+this is what happens when you merge without creating a merge
+bubble. git will merge your changes in at the top of your target
+branch as if you had just been committing to it (e.g. `master`) all
+along. no merge commit is created.
+
+#### squashing
+
+this is a technique used for combining commits that have already been
+made into bigger, more consolidated ones.
+
+### some committing anti-patterns
 
 here are some things that can generally go wrong:
 
@@ -58,28 +97,32 @@ here are some things that can generally go wrong:
 
 one thing i learned early on was that it is a good idea to commit
 frequently. unfortunately that's not the whole story. although it does
-address antipattern #1, it will often mean trading it for #2 or
+address anti-pattern #1, it will often mean trading it for #2 or
 \#3. practicing TDD is actually conducive to making frequent, small
 commits because you're concentrating on getting to green (a
 requirement for a good commit) without getting distracted or writing
 more code than is needed. essentially, it's OK to do #2 or #3 as long
-as you're working in private branch and you squash or rewrite your
+as you're working in a private branch and you squash or rewrite your
 commits before merging by performing an interactive rebase (more on
-this later). squashing everything isn't necessarily a good idea
-either. the goal should be to be left with a small number of commits
-that mark a distinct progression toward some goal (adding a new
-feature, refactoring, etc.). as you become more savvy with interactive
-rebasing you may fall prey to antipattern #4. in other words, when
-you're rewriting history it's important to check the integrity of each
-commit that you're creating after the fact. if you really care about
-your history, and not just your HEAD, you'll want every commit to be
-green and deployable.
+this later).
+
+squashing everything isn't necessarily a good idea either. the goal
+should be to be left with a small number of commits that mark a
+distinct progression toward some goal (adding a new feature,
+refactoring, etc.). as you become more savvy with rebasing
+interactively you may fall prey to antipattern #4. in other words,
+when you're rewriting history it's important to check the integrity of
+each commit that you're creating after the fact. if you really care
+about your history, and not just your HEAD, you'll want every commit
+to be green and deployable.
 
 there are actually a few reasons why you might want to take such care
 of your history. the first that comes to mind is being able to use
-git's bisect feature with more confidence. `bisect` is a very powerful
-and useful tool that i've personally seen rendered completely useless
-by careless committing. more on bisect later.
+git's `bisect` feature with more confidence. `bisect` is a tool used
+for examing a portion of your history, typically for locating a commit
+that introduced some regression. it is a very powerful and useful tool
+that i've personally seen rendered completely useless by careless
+committing. more on `bisect` later.
 
 another reason might be being able to generate metrics for your
 application across a range of commits.
@@ -129,6 +172,58 @@ to help remind me:
 
 ### more on your gitconfig
 
+there are a couple more things that you may want to consider adding or
+tweaking in your gitconfig. often you'll see official advice telling
+you to use the git command line interface to accomplish this, but i
+prefer to edit my `.gitconfig` by hand. you can do that by typing:
+
+```
+$ <editor of choice> ~/.gitconfig
+```
+
+here are a few things i recommend playing with:
+
+```
+[alias]
+  a = add
+  br = branch
+  ci = commit
+  co = checkout
+  st = status
+```
+
+these are a few simple and common aliases that have become more or
+less standard (see that git wiki article for others). i won't
+enumerate all the ones i use here, but feel free to check out my
+[dotfiles]. aliasing is essential to being productive if you
+interacting with git at the command line. feel free to create aliases
+in your `.bashrc` too. alias `git` to `g`, and more common commands
+such as `git status` to `gs`. it might seem trivial at first, but you
+type `git status` about 200 times a day as do i, you are going to be
+saving quite a few keystrokes by the end of the week. and that's time
+you could be spending thinking about your design, or even going for a
+walk in the park.
+
+```
+[push]
+  default = current
+```
+words go here.
+
+```
+[merge]
+  ff = only
+```
+
+and here.
+
+```
+[branch]
+  autosetuprebase = always
+```
+
+here also.
+
 ### rebasing
 
 if you only learn one thing beyond the git 101 stage it should
@@ -146,7 +241,7 @@ $ git cherry-pick <commit>
 ```
 
 what it does is apply the changes introduced by a given commit to the
-HEAD of another branch. if that sounds confusing, or if you've never
+head of another branch. if that sounds confusing, or if you've never
 really thought about git in those terms, go back and read that a
 couple of times.
 
@@ -179,7 +274,7 @@ if you had just written them in some kind of coding frenzy. the other
 is that you can commit however you want while you're developing, and
 then go back and recompose your commit history into a string of coding
 pearls, squashing smaller changes, typos and errors, and writing
-beautiful commit messages with love and care/that will make you cry.
+beautiful commit messages with love and care.
 
 one thing you might notice is that if you were pushing your topic
 branch before you rebased, when you try to push after the remote will
@@ -188,27 +283,29 @@ expected. it just means that you have to 'force' push your branch.
 
 the reason for this is that you changed history by rebasing. these
 words are often thrown around when people are talking about rebasing,
-but the explanation can be a little vague. the more precise reason
-that it fails can be elucidated by example. when you rebase a branch
-onto another commit, you take that first commit you made when you
-first diverged and point it to a different commit (typically the HEAD
-of the base branch). doing so changes the commit SHA1 hash. the next
-commit in your project branch is now pointing at a ghost commit,
-i.e. one that is no longer part of the graph. it needs to be updated
-to point to it's parent. and so on. as the rebase replays all your
-changes, it changes every commit hash in the branch. the changes in
-content on your local branch and the remote are still the same. but
-none of the hashes are the same. this is why git gives you the
-somewhat confusing indication to pull your changes down before trying
-to push. what you need to do instead is tell the remote to forget
-everything and just accept your local branch in place of whatever it
-has. and that looks like this:
+but the explanation can be a little vague.
+
+when you rebase a branch onto another commit, you take that first
+commit you made when you first branched off and point it to a
+different commit (typically the HEAD of the base branch). doing so
+actually creates a new commit with a distinct SHA1 hash, and points
+HEAD to it. your original commit is still there, it's just not visible
+in your log any more because it's not reachable from HEAD.
+
+the next commit in your project branch is now pointing at this ghost
+commit. it needs to be updated to point to its new parent. the process
+begins again. a new commit is created, HEAD is moved, and on and
+on. as the rebase replays all your changes, it effectively changes
+every commit hash in the branch. your local branch and origin now have
+two different copies of the same changes but none of the hashes is the
+same. this is why git gives you the somewhat confusing indication to
+pull your changes down before trying to push. what you need to do
+instead is tell the remote to forget everything and just accept your
+local branch in place of whatever it has. and that looks like this:
 
 ```
 $ git push -f origin <branch>
 ```
-
-why do i have to force push?
 
 ### some useful things to know
 
