@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "intermediate git"
+date: 2015-04-24 14:44:21
 ---
 
 ### git 101
