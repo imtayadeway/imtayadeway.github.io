@@ -10,7 +10,7 @@ in git: branch, stage, commit, merge, push and pull. beyond that there
 was always google. and of course that stack overflow page that
 everyone stumbles on eventually: if i fucked something up there was
 `git reset --hard HEAD`, and if i really fucked it up i could do `git
-reset --hard HEAD~`.
+reset --hard HEAD~`. or was it the other way round?
 
 to my surprise now, i got a lot of leverage out of just those six (or
 seven) commands. but that was probably because no-one else really
@@ -27,8 +27,9 @@ point that i needed to understand git a little better.
 
 now, i still don't consider myself an expert in any way. i did give a
 talk on the subject at work recently which i enjoyed, and wanted to
-summarize more formally here. so here it is. it's the guide i wish i
-had read a couple years ago to get me through the git 101 blues.
+summarize more formally the contents of that here. so here it
+is. something like the guide i wish i had read a couple years ago to
+get me through the git 101 blues.
 
 first of all, let's define a few terms. i won't define every term,
 just a few that are either vague or that i will use frequently
@@ -74,7 +75,10 @@ branches. this is a special 'merge commit', and it's special because
 it points to two different commits in the history - the tip of the
 target (typically `master`) branch, and the tip of the topic
 branch. you wouldn't create this commit by hand, it will happen
-automatically depending on how you've set up your `.gitconfig`.
+automatically depending on how you've set up your
+`.gitconfig`. typically, if you're working on a team and you haven't
+configured git at all, or if you're using the github web interface to
+merge branches, you will end up with lots of merge bubbles.
 
 #### fast-forward
 
@@ -198,7 +202,7 @@ less standard (see that [kernel wiki article] for others). i won't
 enumerate all the ones i use here, but feel free to check out my
 [dotfiles]. aliasing is essential to being productive if you're
 interacting with git at the command line. feel free to create aliases
-in your `.bashrc` too. alias `git` to `g`, and more common commands
+in your `~/.bashrc` too. alias `git` to `g`, and more common commands
 such as `git status` to `gs`. it might seem trivial at first, but if
 you type `git status` about 200 times a day as do i, you are going to
 be saving quite a few keystrokes by the end of the week. and that's
@@ -355,8 +359,9 @@ using `reset` (more below).
 
 #### ranges
 
-ranges can be pretty confusing because they can mean different things
-in different contexts. it's important to know how to use them, though.
+ranges, which is to say the `..` and `...` syntax, can be pretty
+confusing because they can mean different things in different
+contexts. it's important to know how to use them, though.
 
 in the context of logs:
 
@@ -369,6 +374,11 @@ $ git log <commit a>..<commit b>
 ```
 # commits in a and b but not both
 $ git log <commit a>...<commit b>
+```
+
+```
+# the last n commits
+$ git log -<n>
 ```
 
 in the context of diffs:
@@ -558,8 +568,8 @@ topics if you're interested in learning more. being an intermediate
 git only really requires some curiosity and practice using the tools
 and techniques above. once you get them, you'll want to use most of
 them every day, and you'll have internalized everything. and being an
-intermediate git will actually set you apart from the rest (most of
-the time).
+intermediate git won't merely bring you up to scratch - it will
+actually set you apart from the rest (most of the time).
 
 ### references
 
