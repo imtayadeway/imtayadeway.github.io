@@ -178,7 +178,7 @@ remind me:
 
 ```
 
-[thoughtbot's template](https://github.com/thoughtbot/dotfiles/blob/master/gitmessage)
+[thoughtbot's template]:(https://github.com/thoughtbot/dotfiles/blob/master/gitmessage)
 
 ### more on your gitconfig
 
