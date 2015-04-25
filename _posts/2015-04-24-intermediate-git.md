@@ -500,7 +500,7 @@ great stuff!
 my FAVORITE tool. in all seriousness though, this can be useful in
 situations where you have some code you really don't understand
 despite your best efforts, and you need to have a chat with its
-author. alternatively, you may want to credit someone for revision
+author. alternatively, you may want to credit someone for a revision
 that was really good. it looks like this:
 
 ```
