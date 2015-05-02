@@ -9,8 +9,8 @@ date: 2015-04-24 14:44:21
 my early professional career required that i knew how to do six things
 in git: branch, stage, commit, merge, push and pull. beyond that there
 was always google. and of course that stack overflow page that
-everyone stumbles on eventually: if i fucked something up there was
-`git reset --hard HEAD`, and if i really fucked it up i could do `git
+everyone stumbles on eventually: if i effed something up there was
+`git reset --hard HEAD`, and if i really effed it up i could do `git
 reset --hard HEAD~`. or was it the other way round?
 
 to my surprise now, i got a lot of leverage out of just those six (or
