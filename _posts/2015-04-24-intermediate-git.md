@@ -30,7 +30,17 @@ now, i still don't consider myself an expert in any way. i did give a
 talk on the subject at work recently which i enjoyed, and wanted to
 summarize more formally the contents of that here. so here it
 is. something like the guide i wish i had read a couple years ago to
-get me through the git 101 blues.
+get me through the git 101 blues. it will cover:
+
+* some standard and some not-so-standard terms
+* how to write a better commit message (that old chestnut)
+* how to make better commits
+* some ways to configure git to make your life easier
+* what the hell rebasing is
+* a few odd parts of git's syntax
+* some lesser-used tools that you might like
+
+### terms!
 
 first of all, let's define a few terms. i won't define every term,
 just a few that are either vague or that i will use frequently
@@ -43,7 +53,7 @@ necessarily make it public.
 
 #### public branch
 
-a branch that is shared (read: committed against) by many.
+a branch that is shared (read: committed to) by many.
 
 #### HEAD
 
@@ -236,12 +246,12 @@ get shoved to the front, and no merge commit is made.
 ### rebasing
 
 if you only learn one thing beyond the git 101 stage it should
-probably be this. never rebase a public branch! as a rule, i don't
-like making hard and fast rules with exclamatory remarks like that,
+probably be this. never rebase a public branch! now, i don't like
+making hard and fast rules with exclamatory remarks like that,
 particularly because i think they contribute to the fear and
 trepidation that surrounds rebasing, and the reluctance to use git's
 most powerful feature. please don't let that put you off. it really is
-the only thing you need to remember. everything else is easy to fix :smile:
+the only thing you need to remember. everything else is easy to fix =)
 
 Linus Torvalds has said that all of git can be understood in terms of
 `rebase`. but i think there's another command that helps illuminate even
@@ -254,12 +264,14 @@ $ git cherry-pick <commit>
 ```
 
 what it does is apply the changes introduced by a given commit
-anywhere else in your history to the tip of your current branch. if
-that sounds confusing, or if you've never really thought about git in
-those terms, go back and read that a couple of times.
+anywhere else in your history to the tip of your current branch. you
+can tell it to apply it somewhere else if you want, but that's what it
+does with no other args. if that sounds confusing, or if you've never
+really thought about git in those terms, go back and read that a
+couple of times.
 
 `cherry-pick` is sort of the basic unit of a `rebase`. the difference
-is with `rebase` you're saying: take this series of commits and
+is with `rebase` you're saying: take this _series_ of commits and
 _replay_ them all, starting at another point in history.
 
 this is what a rebase looks like:
@@ -268,7 +280,7 @@ this is what a rebase looks like:
 # rebase against local master
 $ git rebase master
 
-# rebase against upstream master
+# rebase against remote master
 $ git fetch origin
 $ git rebase origin/master
 ```
@@ -457,7 +469,15 @@ $ git add -p
 
 this allows you to add interactively. git will try to present you with
 smaller 'hunks' of your code to stage one by one. if it's not granular
-enough for you, you can just tell git to get more granular.
+enough for you, you can just tell git to get more granular by
+splitting it. here's what it looks like:
+
+```
+Stage this hunk [y,n,q,a,d,/,j,J,g,s,e,?]?
+```
+
+the most useful options to remember are `y` for yes, `n` for no, and
+`s` for split.
 
 #### bisect
 
@@ -497,11 +517,11 @@ great stuff!
 
 #### blame
 
-my FAVORITE tool. in all seriousness though, this can be useful in
-situations where you have some code you really don't understand
-despite your best efforts, and you need to have a chat with its
-author. alternatively, you may want to credit someone for a revision
-that was really good. it looks like this:
+my FAVORITE tool. mwahaha! in all seriousness though (ahem), this can
+be useful in situations where you have some code you really don't
+understand despite your best efforts, and you need to have a chat with
+its author. alternatively, you may want to credit someone for a
+revision that was really good. it looks like this:
 
 ```sh
 $ git blame path/to/file
