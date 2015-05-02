@@ -249,7 +249,7 @@ further: the `cherry-pick`.
 
 this is what a cherry-pick looks like:
 
-```
+```sh
 $ git cherry-pick <commit>
 ```
 
@@ -264,7 +264,7 @@ _replay_ them all, starting at another point in history.
 
 this is what a rebase looks like:
 
-```
+```sh
 # rebase against local master
 $ git rebase master
 
@@ -280,7 +280,7 @@ change something and continue where you left off. powerful stuff.
 
 this is what an interactive rebase looks like:
 
-```
+```sh
 $ git rebase -i master
 ```
 
@@ -322,7 +322,7 @@ pull your changes down before trying to push. what you need to do
 instead is tell the remote to forget everything and just accept your
 local branch in place of whatever it has. and that looks like this:
 
-```
+```sh
 $ git push -f origin <branch>
 ```
 
@@ -338,7 +338,7 @@ never to use it then i could never have done anything _that_ bad.
 but i was wrong. the reflog is actually exciting, powerful and pretty
 straightforward.
 
-```
+```sh
 $ git reflog
 $ git reflog show <branch>
 ```
@@ -366,43 +366,43 @@ contexts. it's important to know how to use them, though.
 
 in the context of logs:
 
-```
+```sh
 # git log
 # commits that b has that a doesn't have
 $ git log <commit a>..<commit b>
 ```
 
-```
+```sh
 # commits in a and b but not both
 $ git log <commit a>...<commit b>
 ```
 
-```
+```sh
 # the last n commits
 $ git log -<n>
 ```
 
 in the context of diffs:
 
-```
+```sh
 # git diff
 # changes between commit a and commit b
 $ git diff <commit a> <commit b>
 ```
 
-```
+```sh
 # same
 $ git diff <commit a>..<commit b>
 ```
 
-```
+```sh
 # changes that occurred on a's branch since it branched off of b's
 $ git diff <commit a>...<commit b>
 ```
 
 in the context of checking out:
 
-```
+```sh
 # git checkout
 # checkout the merge base of a and b
 $ git checkout <commit a>...<commit b>
@@ -416,31 +416,31 @@ when dealing with recent history and your point of reference is
 HEAD. There are a number of different ways of saying the same thing,
 and you can combine them too:
 
-```
+```sh
 # the current commit
 $ HEAD
 $ HEAD~0
 ```
 
-```
+```sh
 # the 1st parent of the current commit
 $ HEAD~
 $ HEAD~1
 ```
 
-```
+```sh
 # the 1st parent of the 1st parent of the current commit
 $ HEAD~~
 $ HEAD~2
 $ HEAD~1~1
 ```
 
-```
+```sh
 # the 2nd parent of the current commit
 $ HEAD^2
 ```
 
-```
+```sh
 # uh...
 $ HEAD~2^2~5^2
 ```
@@ -450,7 +450,7 @@ $ HEAD~2^2~5^2
 you already know how to do that. but have you tried adding in hunks?
 it looks like this:
 
-```
+```sh
 # stage changes in hunks
 $ git add -p
 ```
@@ -467,7 +467,7 @@ requires only that can identify some point in your history that you
 know was good, and another point that is bad. working with bisect will
 typically look like this:
 
-```
+```sh
 # start it all off
 $ git bisect start
 
@@ -488,7 +488,7 @@ you then repeat steps 4-5 until you're down to one commit.
 
 you can even automate the process:
 
-```
+```sh
 # automate it
 $ git bisect run rspec path/to/broken_spec.rb
 ```
@@ -503,7 +503,7 @@ despite your best efforts, and you need to have a chat with its
 author. alternatively, you may want to credit someone for a revision
 that was really good. it looks like this:
 
-```
+```sh
 $ git blame path/to/file
 ```
 
@@ -512,7 +512,7 @@ $ git blame path/to/file
 creates a 'mirror image' of another commit that backs out the changes
 it introduced:
 
-```
+```sh
 # create a new commit reversing the changes
 $ git revert <commit>
 ```
@@ -522,7 +522,7 @@ parent that you want to keep. typically this will just be `1`,
 indicating `master` in situations where you merged a topic branch into
 it. the topic branch would be `2`:
 
-```
+```sh
 # revert a merge
 $ git revert -m 1 <merge commit>
 ```
@@ -536,27 +536,27 @@ new, specified commit. unless you're resetting to a point way back in
 history, it's usually easier to provide a commit relative to HEAD.
 Here are a few options you want in your tool-belt:
 
-```
+```sh
 # leave changes not in target in staging area
 $ git reset --soft HEAD~
 ```
 
-```
+```sh
 # leave changes not in target in working tree (default)
 $ git reset --mixed HEAD~
 ```
 
-```
+```sh
 # destroy all changes not included in target
 $ git reset --hard HEAD~
 ```
 
-```
+```sh
 # reset to previous point in the reflog
 $ git reset --hard <branch>@{<reflog entry>}
 ```
 
-```
+```sh
 # reset to where you were last week (!!!)
 $ git reset --hard <branch>@{one.week.ago}
 ```
