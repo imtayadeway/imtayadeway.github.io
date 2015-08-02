@@ -3,4 +3,4 @@ markdown: kramdown
 highlighter: 'rouge'
 paginate: 5
 exclude: ["vendor"]
-gems: ["jekyll-paginate"]
+plugins: ["jekyll-paginate"]
