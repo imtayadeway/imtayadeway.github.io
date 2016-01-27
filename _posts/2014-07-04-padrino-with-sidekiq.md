@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "padrino with sidekiq"
+title: "Padrino with Sidekiq"
 date: 2014-07-30 14:30:00
 ---
 
-i recently added [sidekiq](https://github.com/mperham/sidekiq) to a
-[padrino](https://github.com/padrino/padrino-framework) app. mounting
-the sinatra app wasn't completely straightforward, and i didn't find
-everything i needed in one place. so here's an attempt to do just
+I recently added [sidekiq](https://github.com/mperham/sidekiq) to a
+[padrino](https://github.com/padrino/padrino-framework) app. Mounting
+the sinatra app wasn't completely straightforward, and I didn't find
+everything I needed in one place. So here's an attempt to do just
 that.
 
-first, add sidekiq to your gemfile, and bundle install:
+First, add sidekiq to your gemfile, and bundle install:
 
 ```ruby
 # Gemfile
@@ -22,7 +22,7 @@ gem 'sidekiq'
 bundle install
 ```
 
-now, tell padrino to mount the app, and stub some methods to make it play nice:
+Now, tell padrino to mount the app, and stub some methods to make it play nice:
 
 ```ruby
 # config/apps.rb
@@ -43,7 +43,7 @@ Padrino.mount(
 ).to('/sidekiq')
 ```
 
-now, create a workers directory in your app, and add all workers to
+Now, create a workers directory in your app, and add all workers to
 the load paths:
 
 ```ruby
@@ -65,7 +65,7 @@ Padrino.before_load do
   Padrino.set_load_paths('app/workers')
 end
 ```
-add the following to your rackup config file:
+Add the following to your rackup config file:
 
 ```ruby
 # config.ru
@@ -73,7 +73,7 @@ require 'sidekiq/web'
 map('/sidekiq') { run Sidekiq::Web }
 ```
 
-add workers.rb to your config directory and tell it how to find your
+Add workers.rb to your config directory and tell it how to find your
 workers:
 
 ```ruby
@@ -82,7 +82,7 @@ path = File.expand_path('../../workers/*.rb', __FILE__)
 Dir[path].each { |file| require file }
 ```
 
-finally, add a Procfile with the following content:
+Finally, add a Procfile with the following content:
 
 ```yaml
 # Procfile
