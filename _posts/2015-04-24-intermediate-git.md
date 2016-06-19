@@ -134,7 +134,7 @@ to be green and deployable.
 
 There are actually a few reasons why you might want to take such care
 of your history. The first that comes to mind is being able to use
-git's `bisect` feature with more confidence. `Bisect` is a tool used
+git's `bisect` feature with more confidence. `bisect` is a tool used
 for examing a portion of your history, typically for locating a commit
 that introduced some regression. It is a very powerful and useful tool
 that I've personally seen rendered completely useless by careless
