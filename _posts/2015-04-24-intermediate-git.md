@@ -164,13 +164,13 @@ number or ticket if one exists. I add [thoughtbot's template] to help
 remind me:
 
 
-```
+```conf
 # ~/.gitconfig
 [commit]
   template = ~/.gitmessage
 ```
 
-```
+```conf
 # ~/.gitmessage
 
 
@@ -197,7 +197,7 @@ prefer to edit my `~/.gitconfig` by hand.
 
 Here are a few things I recommend playing with:
 
-```
+```conf
 [alias]
   a = add
   br = branch
@@ -221,7 +221,7 @@ for a walk in the park.
 [Kernel wiki article]: https://git.wiki.kernel.org/index.php/Aliases
 [dotfiles]: https://github.com/imtayadeway/dotfiles
 
-```
+```conf
 [merge]
   ff = only
 ```
@@ -231,7 +231,7 @@ specifically asked to do so. If your branch can't be fast-forwarded,
 it won't be merged either until you rebase, or you pass a flag
 overriding the above.
 
-```
+```conf
 [branch]
   autosetuprebase = always
 ```
