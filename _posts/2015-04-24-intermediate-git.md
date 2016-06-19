@@ -589,13 +589,3 @@ and techniques above. Once you get them, you'll want to use most of
 them every day, and you'll have internalized everything. And being an
 intermediate git won't merely bring you up to scratch - it will
 actually set you apart from the rest (most of the time).
-
-### References
-
-1. [Linus Torvalds tech talk](https://www.youtube.com/watch?v=4XpnKHJAok8)
-2. [Think Like a Git](http://think-like-a-git.net/)
-3. thoughtbot's [rebase like a boss](http://robots.thoughtbot.com/rebase-like-a-boss)
-4. [Git ready](http://gitready.com)
-5. [Destroy all Software](https://www.destroyallsoftware.com/screencasts)
-6. [Linus Torvalds goes off on Linux and Git](http://typicalprogrammer.com/linus-torvalds-goes-off-on-linux-and-git/)
-7. Tim Pope's [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
