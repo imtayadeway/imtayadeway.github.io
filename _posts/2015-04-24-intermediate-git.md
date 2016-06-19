@@ -32,13 +32,13 @@ summarize more formally the contents of that here. So here it
 is. Something like the guide I wish I had read a couple years ago to
 get me through the git 101 blues. It will cover:
 
-* some standard and some not-so-standard terms
-* how to write a better commit message (that old chestnut)
-* how to make better commits
-* some ways to configure git to make your life easier
-* what the hell rebasing is
-* a few odd parts of git's syntax
-* some lesser-used tools that you might like
+* Some standard and some not-so-standard terms
+* How to write a better commit message (that old chestnut)
+* How to make better commits
+* Some ways to configure git to make your life easier
+* What the hell rebasing is
+* A few odd parts of git's syntax
+* Some lesser-used tools that you might like
 
 ### Terms!
 
@@ -105,9 +105,9 @@ made into bigger, more consolidated ones.
 
 Here are some things that can generally go wrong:
 
-- putting everything into one big commit
-- writing an incomplete commit message
-- breaking something. Committing. Fixing it later.
+- Putting everything into one big commit
+- Writing an incomplete commit message
+- Breaking something. Committing. Fixing it later.
 - (More advanced) rebasing or committing in hunks without checking the
   state of each commit
 
