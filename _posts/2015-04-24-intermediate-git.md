@@ -46,41 +46,38 @@ First of all, let's define a few terms. I won't define every term,
 just a few that are either vague or that I will use frequently
 throughout.
 
-#### Private branch
-
-A branch that is used by just you. Pushing it to a remote does not
-necessarily make it public.
-
-#### Public branch
-
-A branch that is shared (read: committed to) by many.
-
-#### Head
-
-I always wondered if you were supposed to scream this. I might less
-formally refer to it as simply as the 'head' or 'tip'. It is simply
-the current revision of a given branch.
-
-#### The graph
-
-A lot can be said about the graph, and it's probably beyond the scope
-of this article to talk about this in any detail. Let's just say that
-a requirement for understanding git's internals is some rudimentary
-knowledge about graph theory. I really do mean rudimentary, so don't
-let that put you off. There is a great resource on explaining git in
-terms of graph theory [here](http://think-like-a-git.net), which i
-would highly recommend.
-
-In terms of graph theory, your git history is essentially a graph
-composed of commit 'nodes'. The commits at the HEAD of branches are
-your 'leaf' nodes. Your current revision in this sense refers to the
-series of changes (i.e. Commit nodes) that are 'reachable'
-(i.e. Pointed to by HEAD, or pointed to by commits that are pointed to
-by HEAD, and on and on).
-
-#### Merge bubble
-
-When you merge two branches, you will get a merge 'bubble' by creating
+<dl class="dl-horizontal">
+  <dt>Private branch</dt>
+  <dd>
+    A branch that is used by just you. Pushing it to a remote does not
+    necessarily make it public.
+  </dd>
+  <dt>Public branch</dt>
+  <dd>A branch that is shared (read: committed to) by many.</dd>
+  <dt>HEAD</dt>
+  <dd>
+    I always wondered if you were supposed to scream this. I might less
+    formally refer to it as simply as the 'head' or 'tip'. It is simply
+    the current revision of a given branch.
+  </dd>
+  <dt>The graph</dt>
+  <dd>
+    <p>A lot can be said about the graph, and it's probably beyond the scope
+    of this article to talk about this in any detail. Let's just say that
+    a requirement for understanding git's internals is some rudimentary
+    knowledge about graph theory. I really do mean rudimentary, so don't
+    let that put you off. There is a great resource on explaining git in
+    terms of graph theory <a href="http://think-like-a-git.net">here</a>,
+    which I would highly recommend.</p>
+    <p>In terms of graph theory, your git history is essentially a graph
+    composed of commit 'nodes'. The commits at the HEAD of branches are
+    your 'leaf' nodes. Your current revision in this sense refers to the
+    series of changes (i.e. Commit nodes) that are 'reachable'
+    (i.e. Pointed to by HEAD, or pointed to by commits that are pointed to
+    by HEAD, and on and on).</p>
+  </dd>
+  <dt>Merge bubble</dt>
+  <dd>When you merge two branches, you will get a merge 'bubble' by creating
 a new commit in the target branch that retains the integrity of both
 branches. This is a special 'merge commit', and it's special because
 it points to two different commits in the history - the tip of the
@@ -90,18 +87,19 @@ automatically depending on how you've set up your
 `.gitconfig`. Typically, if you're working on a team and you haven't
 configured git at all, or if you're using the github web interface to
 merge branches, you will end up with lots of merge bubbles.
-
-#### Fast-forward
-
-This is what happens when you merge without creating a merge
+</dd>
+  <dt>Fast-forward</dt>
+  <dd>This is what happens when you merge without creating a merge
 bubble. Git will merge your changes in at the top of your target
 branch as if you had just been committing to it all along. No merge
 commit is created.
-
-#### Squashing
-
+</dd>
+  <dt>Squashing</dt>
+  <dd>
 This is a technique used for combining commits that have already been
 made into bigger, more consolidated ones.
+</dd>
+</dl>
 
 ### Some committing anti-patterns
 
