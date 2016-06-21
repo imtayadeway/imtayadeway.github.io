@@ -16,14 +16,14 @@ title: tim wade
 <!-- Pagination links -->
 <ul class="pager">
   {% if paginator.previous_page %}
-  <li class="previous"><a href="/page{{ paginator.previous_page }}">&larr; older</a></li>
+  <li class="previous"><a href="/page{{ paginator.previous_page }}">&larr; newer</a></li>
   {% else %}
-  <li class="previous disabled"><a href="#">&larr; older</a></li>
+  <li class="previous disabled"><a href="#">&larr; newer</a></li>
   {% endif %}
 
   {% if paginator.next_page %}
-  <li class="next"><a href="/page{{ paginator.next_page }}">newer &rarr;</a></li>
+  <li class="next"><a href="/page{{ paginator.next_page }}">older &rarr;</a></li>
   {% else %}
-  <li class="next disabled"><a href="#">newer &rarr;</a></li>
+  <li class="next disabled"><a href="#">older &rarr;</a></li>
   {% endif %}
 </ul>
