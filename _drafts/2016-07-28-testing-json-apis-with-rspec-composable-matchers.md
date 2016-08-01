@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing JSON APIs with RSpec Composable Matchers
-date: 2016-07-28
+date: 2016-08-01 15:03:08
 ---
 
 Testing JSON structures with arbitarily deep nesting can be
