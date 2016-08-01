@@ -40,9 +40,8 @@ One way to get around the expectation order problem is to use failure
 aggregation, a feature first introduced in RSpec 3.3. Examples that
 are configured to aggregate failures will execute all the expectations
 and report on all the failures so you aren't stuck with just the
-rather opaque "expected 200, got 500" message from your HTTP status
-expectation. You can enable this in a few ways, including in the
-example itself:
+rather opaque "expected 200, got 500". You can enable this in a few
+ways, including in the example itself:
 
 ```ruby
 it "will report on both these expectations should they fail", aggregate_failures: true do
@@ -76,7 +75,7 @@ response object to do this for you. You'll see me using
 I've outlined a few common scenarios below, indicating which matchers
 to use when they come up.
 
-#### Use `eq` when you want to verify everything.
+#### Use `eq` when you want to verify everything
 
 ```ruby
 expected = {
@@ -127,7 +126,7 @@ things are there in the response body.
 
 <br />
 
-#### Use `match` when you want to be more flexible.
+#### Use `match` when you want to be more flexible
 
 ```ruby
 expected = {
@@ -236,8 +235,8 @@ expect(response.parsed_body).to include(expected)
 ```
 
 Guess what? `a_collection_including` is just another alias for the
-incredibly flexible `include`, but can be used to declare an array for
-expressiveness.
+incredibly flexible `include`, but can be used to indicate an array
+for expressiveness.
 
 <br />
 
