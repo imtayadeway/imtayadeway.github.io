@@ -8,13 +8,14 @@ Testing JSON structures with arbitarily deep nesting can be
 hard. Fortunately RSpec comes with some lesser-known composable
 matchers that not only make for some very readable expectations but
 can be built up quite arbitrarily too mirroring the structure of your
-JSON.
+JSON. They can provide you with a single expectation on your response
+body that is diffable and will give you a pretty decent report on what
+failed.
 
 While I don't necessarily recommend you test every aspect of your API
 through full-stack request specs, you are probably going to have to
-write some of them, and they can be painful to write. Fortunately, if
-you don't care about every single key/value pair you're responding
-with RSpec offers a few ways to make your life easier.
+write a few of them, and they can be painful to write. Fortunately
+RSpec offers a few ways to make your life easier.
 
 First, though, I'd like to touch on a couple of other things I do when
 writing request specs to get the best possible experience when working
@@ -23,12 +24,12 @@ with these slow, highly integrated tests.
 ### Order of expectations
 
 Because request specs are expensive, you'll often want to combine a
-few expectations if they are essentially testing the same
-behavior. You'll commonly see expectations on the response body,
-headers and status within a single test. If you do this, however, it's
-important to bear in mind that the first expectation to fail will
-short circuit the others by default. You'll want to put the
-expectations that provide the best feedback on what went wrong
+few expectations into a single example if they are essentially testing
+the same behavior. You'll commonly see expectations on the response
+body, headers and status within a single test. If you do this,
+however, it's important to bear in mind that the first expectation to
+fail will short circuit the others by default. So you'll want to put
+the expectations that provide the best feedback on what went wrong
 first. I've found the expectation on the status to be least useful, so
 always put this last. I'm usually most interested in the response
 body, so I'll put that first.
@@ -37,15 +38,14 @@ body, so I'll put that first.
 
 One way to get around the expectation order problem is to use failure
 aggregation, a feature first introduced in RSpec 3.3. Examples that
-are set to aggregate failures will execute all the expectations and
-report on all the failures so you aren't stuck with just the rather
-opaque "expected 200, got 500" message from your HTTP status
+are configured to aggregate failures will execute all the expectations
+and report on all the failures so you aren't stuck with just the
+rather opaque "expected 200, got 500" message from your HTTP status
 expectation. You can enable this in a few ways, including in the
 example itself:
 
 ```ruby
-it "does something", aggregate_failures: true do
-  # Should these expectations fail RSpec will report on both
+it "will report on both these expectations should they fail", aggregate_failures: true do
   expect(response.parsed_body).to eq("foo" => "bar")
   expect(response).to have_http_status(:ok)
 end
@@ -58,11 +58,7 @@ API specs:
 # spec/rails_helper.rb
 
 RSpec.configure do |c|
-  # Specs placed in spec/api/ are recognized as request specs
-  c.infer_spec_type_from_file_location!
-
-  # Aggregate failures in all specs in spec/api/
-  c.define_derived_metadata(:api) do |meta|
+  c.define_derived_metadata(:file_path => %r{spec/api}) do |meta|
     meta[:aggregate_failures] = true
   end
 end
@@ -71,43 +67,63 @@ end
 ### Using response.parsed_body
 
 Since I've been testing APIs I've always written my own JSON parsing
-helper. Since version 5.0.0.beta3 Rails can now do this for you. So
-use:
-
-```ruby
-expect(response.parsed_body).to include(:data => "thing")
-```
-
-Now, on with the show....
+helper. But in version 5.0.0.beta3 Rails added a method to the
+response object to do this for you. You'll see me using
+`response.parsed_body` throughout the examples below.
 
 ### Using RSpec composable matchers to test nested structures
 
-I've outlined a few common scenarios below, and which matchers to use
-when they come up.
+I've outlined a few common scenarios below, indicating which matchers
+to use when they come up.
 
 #### Use `eq` when you want to verify everything.
 
 ```ruby
 expected = {
   "data" => [
-    # ...
+    {
+      "type" => "posts",
+      "id" => "1",
+      "attributes" => {
+        "title" => "Post the first"
+      },
+      "links" => {
+        "self" => "http://example.com/posts/1"
+      }
+    }
   ]
   "links" => {
-    # ...
+    "self" => "http://example.com/posts",
+    "next" => "http://example.com/posts?page[offset]=2",
+    "last" => "http://example.com/posts?page[offset]=10"
   }
   "included" => [
-    # ...
+    {
+      "type" => "comments",
+      "id" => "1",
+      "attributes" => {
+      "body" => "Comment the first"
+      },
+      "relationships" => {
+        "author" => {
+          "data" => { "type" => "people", "id" => "2" }
+        }
+      },
+      "links" => {
+        "self" => "http://example.com/comments/1"
+      }
+    }
   ]
 }
 expect(response.parsed_body).to eq(expected)
 ```
 
 Not a composable matcher, but shown here to contrast with the examples
-that follow. I typically don't want to to use this, however - it can
-make for some painfully longwinded tests. If I wanted to check every
-aspect of the serialization, I'd probably want to write a unit test on
-the serializer anyway. Most of the time I just want to check that a
-few things are there in the response body.
+that follow. I typically don't want to to use this - it can make for
+some painfully long-winded tests. If I wanted to check every aspect of
+the serialization, I'd probably want to write a unit test on the
+serializer anyway. Most of the time I just want to check that a few
+things are there in the response body.
 
 <br />
 
@@ -123,10 +139,13 @@ expect(response.parsed_body).to match(expected)
 ```
 
 `match` is a bit fuzzier than `eq`, but not as fuzzy as `include`
-(below). The above will fail if there are keys/values in the response
-body not specified. Note that it allows us to start composing
-expectations out of other matchers such as `kind_of` and `anything`
-(see below), something we couldn't do with `eq`.
+(below). `match` verifies that the expected values are not only
+correct but also that they are sufficient - any superfluous attributes
+will fail the above example.
+
+Note that `match` allows us to start composing expectations out of
+other matchers such as `kind_of` and `anything` (see below), something
+we couldn't do with `eq`.
 
 <br />
 
@@ -143,6 +162,10 @@ expected = {
 }
 expect(response.parsed_body).to include(expected)
 ```
+
+`include` is similar to `match` but doesn't care about superfluous
+attributes. As we'll see, it's incredibly flexible and is my go-to
+matcher for testing JSON APIs.
 
 `a_hash_including` is just an alias for `include` added for
 readability. It will probably make most sense to use `include` at the
@@ -167,10 +190,14 @@ key/value pairs.
 expected = {
   "data" => [
     {
+      "type" => "posts",
+      "id" => "1",
       "attributes" => {
-        "title" => "Post the first",
+        "title" => "Post the first"
       },
-      # ...
+      "links" => {
+        "self" => "http://example.com/posts/1"
+      }
     }
   ]
 }
@@ -187,8 +214,8 @@ Here we only care about the root node `"data"` since we are using the
 ```ruby
 expected = {
   "data" => a_collection_containing_exactly(
-    a_hash_including("id" => 1),
-    a_hash_including("id" => 2)
+    a_hash_including("id" => "1"),
+    a_hash_including("id" => "2")
   )
 }
 expect(response.parsed_body).to include(expected)
@@ -201,8 +228,8 @@ expect(response.parsed_body).to include(expected)
 ```ruby
 expected = {
   "data" => a_collection_including(
-    a_hash_including("id" => 1),
-    a_hash_including("id" => 2)
+    a_hash_including("id" => "1"),
+    a_hash_including("id" => "2")
   )
 }
 expect(response.parsed_body).to include(expected)
@@ -219,8 +246,8 @@ expressiveness.
 ```ruby
 expected = {
   "data" => [
-    a_hash_including("id" => 1),
-    a_hash_including("id" => 2)
+    a_hash_including("id" => "1"),
+    a_hash_including("id" => "2")
   ]
 }
 expect(response.parsed_body).to include(expected)
@@ -242,13 +269,22 @@ do want to make sure they all have some things in common.
 
 <br />
 
-#### Use `anything` when you care about some of the values but all of the keys
+#### Use `anything` when you don't care about some of the values, but do care about the keys
 
 ```ruby
 expected = {
   "data" => [
-    # ...
-  ],
+    {
+      "type" => "posts",
+      "id" => "1",
+      "attributes" => {
+        "title" => "Post the first"
+      },
+      "links" => {
+        "self" => "http://example.com/posts/1"
+      }
+    }
+  ]
   "links" => anything,
   "included" => anything
 }
@@ -278,7 +314,7 @@ Yep, another alias for `include`.
 expected = {
   "data" => [
     a_hash_including(
-      "id" => kind_of(Integer)
+      "id" => kind_of(String)
     )
   ]
 }
