@@ -7,7 +7,7 @@ date: 2016-08-01 15:03:08
 Testing JSON structures with arbitarily deep nesting can be
 hard. Fortunately RSpec comes with some lesser-known composable
 matchers that not only make for some very readable expectations but
-can be built up quite arbitrarily too mirroring the structure of your
+can be built up quite arbitrarily too, mirroring the structure of your
 JSON. They can provide you with a single expectation on your response
 body that is diffable and will give you a pretty decent report on what
 failed.
