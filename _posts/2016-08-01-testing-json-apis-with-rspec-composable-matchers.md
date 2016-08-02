@@ -118,9 +118,9 @@ expect(response.parsed_body).to eq(expected)
 ```
 
 Not a composable matcher, but shown here to contrast with the examples
-that follow. I typically don't want to to use this - it can make for
-some painfully long-winded tests. If I wanted to check every aspect of
-the serialization, I'd probably want to write a unit test on the
+that follow. I typically don't want to use this - it can make for some
+painfully long-winded tests. If I wanted to check every aspect of the
+serialization, I'd probably want to write a unit test on the
 serializer anyway. Most of the time I just want to check that a few
 things are there in the response body.
 
