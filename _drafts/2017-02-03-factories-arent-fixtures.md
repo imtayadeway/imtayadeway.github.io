@@ -149,7 +149,8 @@ end
 Problem solved! We have some sensible defaults in the factory method,
 meaning that we don't have to specify attributes that are not relevant
 in every test, and we've overridden the one that we're testing -
-`date_of_birth` - in those tests on adulthood.
+`date_of_birth` - in those tests on adulthood. If new validations are
+added, we have one place to update to make our tests pass again.
 
 I'm going to pause here for some reflection before we complete our
 refactoring. There is another thing that I regret about the way I
