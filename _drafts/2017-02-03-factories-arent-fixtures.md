@@ -278,8 +278,8 @@ You'll also notice that the test provides little value in not testing
 around the edges (in this case dates of birth around 21 years
 ago).
 
-Let's go back to our mid-way example, and examine it in a little more
-detail:
+Let's compare with our earlier example (the one before things started
+to go wrong):
 
 ```ruby
 # spec/factories/user.rb
@@ -314,9 +314,9 @@ exercised.
 Like a lot of sharp tools in Ruby, Factory Girl is rich with features
 that are very powerful and expressive. But in my opinion, its more
 advanced features are prone to overuse. It's also easy to confuse
-Factory Girl for a library for creating shared fixtures. Neither of
-these are faults of Factory Girl, rather they are faults in the way we
-teach testing.
+Factory Girl for a library for creating shared fixtures - Rails
+already comes with one. Neither of these are faults of Factory Girl,
+rather I believe they are faults in the way we teach testing.
 
 In summary, don't use Factory Girl to create shared fixtures - if
 that's the style you like then you may want to consider going back to
