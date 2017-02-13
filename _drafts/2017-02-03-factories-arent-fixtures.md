@@ -9,7 +9,7 @@ date: 2017-02-03 19:17:46
 <p> Disclaimer! The title of this piece is actually a bit of a lie,
 because factories, or rather the things that they build, are
 technically fixtures, depending on your definition of "fixture". In
-the language of Gerard Meszaros, author of <em> xUnit Test
+the terminology of Gerard Meszaros, author of <em> xUnit Test
 Patterns</em>, the default Rails fixtures are more specifically
 <em>shared fixtures</em>, meaning they are created in the database at
 the start of your test suite and hang around until the end. Factories,
