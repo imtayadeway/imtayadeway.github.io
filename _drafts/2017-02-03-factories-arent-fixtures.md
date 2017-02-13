@@ -198,9 +198,8 @@ wasn't anything to do with fixtures, since it's straightforward to
 create your own factory methods. It was presumably the problem of
 having cumbersome factory methods that you had to write yourself.
 
-What I am finding increasingly, though, is that the above does not
-represent the end of the story for some people, and that there's a
-further refactoring we can seize upon:
+However. Where we arrived above is not quite the end of the story for
+some folks, and that there's a further refactoring we can seize upon:
 
 ```ruby
 # spec/factories/user.rb
