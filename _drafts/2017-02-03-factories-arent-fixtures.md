@@ -320,4 +320,4 @@ teach testing.
 
 In summary, don't use Factory Girl to create shared fixtures - if
 that's the style you like then you may want to consider going back to
-Rails fixtures instead.
+Rails' fixtures instead.
