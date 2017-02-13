@@ -241,9 +241,9 @@ tests look fundamentally the same as the ones that we started
 with.
 
 Used in this way, factories are just a different kind of shared
-fixture. It will have the same drawback of leading to obscure tests,
-with the bonus of making your test suite slower because these objects
-have to be built afresh for every single test. What was the point?
+fixture. We have the same drawback of obscure tests, and we've taken
+the penalty of slower tests because these objects have to be built
+afresh for every single example. What was the point?
 
 Traits are more of an advanced feature in Factory Girl. They might be
 useful, but they don't solve any problems that we have at this
