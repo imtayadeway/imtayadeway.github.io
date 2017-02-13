@@ -116,11 +116,11 @@ behavior exhibited by them.
 Unfortunately, we have a new problem. Because a user requires a
 `:name` attribute, we have to specify a name in order to build a valid
 user object in each test (we might in certain instances be able to get
-away with using invalid objects, but...). Here, the fact that we've
-had to give our users names has given us another obscure test smell -
-we have introduced some noise in that it's not clear at a glance
-_which_ attributes were relevant to the behavior that's getting
-exercised.
+away with using invalid objects, but it is probably not a good
+idea). Here, the fact that we've had to give our users names has given
+us another obscure test smell - we have introduced some noise in that
+it's not clear at a glance _which_ attributes were relevant to the
+behavior that's getting exercised.
 
 Another problem that might emerge is if we added a new attribute to
 `User` that was validated against - every test that builds a user
