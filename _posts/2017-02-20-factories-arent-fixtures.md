@@ -185,7 +185,7 @@ specify "a person of > 21 years is an adult" do
 end
 
 specify "a person of < 21 years is not an adult" do
-  user = create_user(:user, date_of_birth: 21.years.ago - 1.day)
+  user = create(:user, date_of_birth: 21.years.ago - 1.day)
   expect(user).not_to be_adult
 end
 ```
@@ -231,7 +231,7 @@ specify "a person of > 21 years is an adult" do
 end
 
 specify "a person of < 21 years is not an adult" do
-  user = create_user(:user, :minor)
+  user = create(:user, :minor)
   expect(user).not_to be_adult
 end
 ```
@@ -308,7 +308,7 @@ specify "a person of > 21 years is an adult" do
 end
 
 specify "a person of < 21 years is not an adult" do
-  user = create_user(:user, date_of_birth: 21.years.ago - 1.day)
+  user = create(:user, date_of_birth: 21.years.ago - 1.day)
   expect(user).not_to be_adult
 end
 ```
