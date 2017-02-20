@@ -175,7 +175,9 @@ FactoryGirl.define do
     date_of_birth 30.years.ago
   end
 end
+```
 
+```ruby
 # spec/models/user_spec.rb
 specify "a person of > 21 years is an adult" do
   user = create(:user, date_of_birth: 21.years.ago)
@@ -219,7 +221,9 @@ FactoryGirl.define do
     end
   end
 end
+```
 
+```ruby
 # spec/models/user_spec.rb
 specify "a person of > 21 years is an adult" do
   user = create(:user, :adult)
@@ -259,7 +263,9 @@ FactoryGirl.define do
     date_of_birth 30.years.ago
   end
 end
+```
 
+```ruby
 # spec/models/user_spec.rb
 it "tests adulthood" do
   user = create(:user)
@@ -292,7 +298,9 @@ FactoryGirl.define do
     date_of_birth 30.years.ago
   end
 end
+```
 
+```ruby
 # spec/models/user_spec.rb
 specify "a person of > 21 years is an adult" do
   user = create(:user, date_of_birth: 21.years.ago)
