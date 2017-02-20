@@ -51,7 +51,7 @@ class User < ApplicationRecord
   validates :date_of_birth, presence: true
 
   def adult?
-    (Date.today - date_of_birth) >= 21.years
+    date_of_birth + 21.years >= Date.today
   end
 end
 ```
