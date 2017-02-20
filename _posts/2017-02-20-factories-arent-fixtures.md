@@ -281,7 +281,7 @@ validation with the minimum number of required attributes, so you
 don't have to keep specifying every required attribute in every single
 test you write. But if you're depending on the specific value of any
 of those attributes set in the factory in your test, you're Doing It
-Wrong :tm:.
+Wrong ™️.
 
 You'll also notice that the test provides little value in not testing
 around the edges (in this case dates of birth around 21 years
