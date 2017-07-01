@@ -17,10 +17,11 @@ other considerations, to improve ergonomics and comfort while typing.
 
 This came as a bit of a surprise to me as I have always felt somewhat
 opposed to learning a new keyboard layout. This may have stemmed from
-my own frustration in the past in doubling on Clarinet and
-Saxophone. While the two are keyed similarly, they correspond to
-different "notes" as they are written down. Though it is very common
-for people to do this, I really don't enjoy the feeling of
+my own frustration in the past
+in [doubling](https://en.wikipedia.org/wiki/Woodwind_Doubler) on
+Clarinet and Saxophone. While the two are keyed similarly, they
+correspond to different "notes" as they are written down. Though it is
+very common for people to do this, I really don't enjoy the feeling of
 disorientation at all.
 
 The drawbacks I identified as:
