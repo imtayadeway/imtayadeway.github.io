@@ -27,11 +27,17 @@ disorientation at all.
 The drawbacks I identified as:
 
 - the initial effort of learning
-- the confusion of having to "double" when I had to use someone else's computer
-- the awkwardness of having to pair with someone on my computer
+- having to "double" when confronted with a QWERTY keyboard
+- really, having to collaborate with anyone on anything ever again
 
 The supposed benefits of faster typing speed and prevention of RSI I
-never saw as a net gain.
+never saw as a net gain. Which is not to say that I don't care about
+those things (I take injury prevention very seriously,
+having
+[blogged about this before](http://timjwade.com/2014/08/25/how-to-type.html)). It's
+just such an inexact science that I would welcome both of those
+benefits if they came, but couldn't reasonably expect them as
+guaranteed.
 
 But I think there was one other factor that has completely swung this
 for me that has probably not been present at any other time that I've
