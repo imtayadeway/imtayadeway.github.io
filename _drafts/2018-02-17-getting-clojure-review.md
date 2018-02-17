@@ -84,3 +84,8 @@ and did this and am so glad that I did - I feel like I have gained a
 much deeper understanding of computer programs in general, something
 that may have been lacking in my not coming from a Computer Science
 background.
+
+I have no doubt that this book will appeal to many from different
+backgrounds to myself. But I can confidently say that if any parts of
+my background or education are at all familiar, *Getting Clojure* gets
+the highest possible recommendation.
