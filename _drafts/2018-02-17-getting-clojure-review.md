@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Clojure - Review
+title: Getting Clojure
 tags: ["review", "books"]
 date: 2018-02-17 12:06:31
 ---
@@ -14,8 +14,6 @@ metaprogramming and then burnt my fingers. I went back and read it a
 third time, now with the understanding that some of the things in the
 back were dangerous.
 
-# my success owes a lot to this book
-
 Up until *Eloquent Ruby*, the resources I had used to learn all had
 the same agenda: how to tell the computer to do stuff. In other words,
 they would describe the *features* of things without spending too much
@@ -27,31 +25,33 @@ the idea that there were not just rules that make up a language, but
 idioms too, attitudes that might change over time. I loved idea that I
 could learn to speak Ruby not just adequately but like a native.
 
-By this time I felt bold enough to call myself a Rubyist. I bought
-another of Olsen's books on design patterns and read it cover to
-cover, again, multiple times. I was ambitious and knew that "good"
-programmers have experience and expertise working in different
-programming paradigms, but still not sure in what direction I would
-go. So I learned with great interest that Olsen was either working on,
-or had declared an intention to write, a book about Clojure.
+By this time I felt bold enough to call myself a Rubyist, and I owed
+much of the enthusiasm I felt toward the language, and the success I
+had early on in my career, to this book. I bought another of Olsen's
+books on design patterns and read it cover to cover, again, multiple
+times. I was ambitious and knew that "good" programmers have
+experience and expertise working in different programming paradigms
+while still not sure in what direction I would go. So I learned with
+great interest that he was either working on, or had declared an
+intention to write, a book about Clojure.
 
-I had no idea at this point what Clojure was, but Russ had gained my
-trust enough for me to want to read about his new book, whatever it
-was about.
+I had no idea at this point what Clojure was, but the author had
+gained my trust enough for me to want to read about his new book,
+whatever it was about.
 
-Of course I had no idea at the time that this book would be in the
-pipeline for years. I understand; these things take time. But,
-impatient as I was, I started learning about Clojure anyway. I have
-now played with it for about 3 years, have pored through some books
-that were good at what they set out to do (exhaustively survey the
-features of the language), have built some things of a certain
-size. Alas, not getting to code and think in my second language every
-day, I have never felt that I really "got" Clojure, that I really knew
-it under the skin in the same way that I knew Ruby. I could not
-properly call myself a Clojurist.
+Of course I had no clue at the time that this book would be in the
+pipeline for years. I understand; these things take time. When I felt
+confident enough to start learning another language, I decided to go
+ahead with Clojure anyway. I have now played with it for about 3
+years, have pored through some books that were good at what they set
+out to do (exhaustively survey the features of the language), have
+built some things of a certain size. Alas, not getting to code and
+think in my second language every day, I have never felt that I really
+"got" Clojure, that I really knew it the same way that I knew Ruby. I
+could not properly call myself a Clojurist.
 
 So I was pretty excited when I learned that Russ' book was nearing
-completion, and that its title is, perfectly, *Getting
+completion, and that its title was, perfectly, *Getting
 Clojure*. When it came out in beta form, I did something I almost
 never do - I bought the eBook (I like to do my reading away from the
 computer).
