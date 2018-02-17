@@ -58,19 +58,29 @@ computer).
 
 And it has not disappointed. I am so happy that all the elements of
 Olsen's style are present - his gentle humor, his writing with
-compassion for the learner, knowing what to leave out, what to
-illustrate and to explain deeper, even if you think you know it. There
-are examples that are made up yet so much more compelling than most
-(it's hard to find ones that solve real problems and that are
-sufficiently complex). There are lots of details on *why* you might
-want to use a particular thing, or more importantly, why you might not
-want to, aka "staying out of trouble". And there are examples of real
-Clojure in use, often pulled from the Clojure source itself, that not
-only illustrate but give me the confidence to dive in myself.
+compassion for the learner. He knows what to leave out and what to
+explain deeper, to illustrate, even if you think you know it. There
+are examples that contrived yet so much more compelling than most
+(it's hard to formulate new examples that are sufficiently complex yet
+small and interesting enough to sustain interest). There are lots of
+details on *why* you might want to use a particular thing, or more
+importantly, why you might not want to - in Olsen's words "staying out
+of trouble" - details that are so vital to writing good, idiomatic
+code in whatever language. And there are examples of real Clojure in
+use, often pulled from the Clojure source itself, that not only
+illustrate but give me the confidence to dive in myself, something
+that wouldn't have occurred to me by myself.
 
 It seems strangely ironic that *Getting Clojure* isn't the book I
-wanted way back then, but is the book that I need now. It is not a
-book for beginners, though I did enjoy going over the earlier
-chapters, cementing knowledge along the way, forming a new narrative
-that keeps the things I don't need to know at arms length, while
-emphasising/giving me the tools to ... find out more.
+wanted way back when I first heard about it, but is the book that I
+need now. It is not a book for beginners, though I did enjoy going
+over the earlier chapters, cementing knowledge along the way, forming
+new narratives that simplify the surface area of the language while
+giving me everything I need to know to find out more. And it gave me
+the confidence to dive way deeper than I thought would be
+comfortable. Olsen encourages you to write your own Lisp
+implementation while looking at the core of Clojure's. I went ahead
+and did this and am so glad that I did - I feel like I have gained a
+much deeper understanding of computer programs in general, something
+that may have been lacking in my not coming from a Computer Science
+background.
