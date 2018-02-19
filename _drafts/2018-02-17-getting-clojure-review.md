@@ -60,10 +60,10 @@ the eBook (I typically like to do my reading away from the computer).
 
 And it has not disappointed. I am so happy that all the elements of
 Olsen's style are present and on top form - his gentle humor, his
-writing with compassion for the learner. He knows what to leave out
-and what to explain deeper, to illustrate. There are examples,
-contrived, yet so much more compelling than most (it's hard to
-formulate new examples that are sufficiently complex yet small and
+writing with compassion for the learner. He knows crucially what to
+leave out and what to explain deeper, to illustrate. There are
+examples, contrived, yet so much more compelling than most (it's hard
+to formulate new examples that are sufficiently complex yet small and
 interesting enough to sustain interest). There are lots of details on
 *why* you might want to use a particular thing, or more importantly,
 why you might not want to - in Olsen's words "staying out of
@@ -91,6 +91,6 @@ different backgrounds, different places in their development. But I
 can confidently say that if, like myself, you are self taught, or
 don't come from a "traditional" background, perhaps Ruby or a similar
 dynamic language is your bread and butter but you are trying to expand
-your knowledge, if you need materials that focus on the learner and
+your horizons, if you need materials that focus on the learner and
 building up understanding in a more structured way, *Getting Clojure*
 gets my highest possible recommendation.
