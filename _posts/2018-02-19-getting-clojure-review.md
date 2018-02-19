@@ -2,7 +2,7 @@
 layout: post
 title: Getting Clojure
 tags: ["review", "books"]
-date: 2018-02-17 12:06:31
+date: 2018-02-19 10:14:24
 ---
 
 When I started my first job I was programming in Ruby *sans* Rails,
