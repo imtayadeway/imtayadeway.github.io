@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Testing JSON APIs with RSpec Composable Matchers
+tags:
+- testing
+- ruby
 date: 2016-08-01 15:03:08
 ---
 

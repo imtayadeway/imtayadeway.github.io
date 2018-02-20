@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Intermediate Git"
+tags:
+- computer science
 date: 2015-04-24 14:44:21
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to Type"
+tags:
+- ergonomics
 date: 2014-08-25 20:07:27
 ---
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Factories aren't Fixtures
+tags:
+- testing
+- ruby
 date: 2017-02-20 11:48:07
 ---
 

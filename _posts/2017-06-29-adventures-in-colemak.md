@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Adventures in Colemak"
+tags:
+- ergonomics
+- debian
 date: 2017-07-01
 ---
 

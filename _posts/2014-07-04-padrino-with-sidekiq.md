@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Padrino with Sidekiq"
+tags:
+- ruby
 date: 2014-07-30 14:30:00
 ---
 

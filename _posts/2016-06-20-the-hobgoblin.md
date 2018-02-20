@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Hobgoblin
+tags:
+- moomin
 date: 2016-06-20 19:47:59
 ---
 

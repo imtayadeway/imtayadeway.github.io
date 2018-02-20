@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Getting Clojure
-tags: ["review", "books"]
+tags:
+- review
+- books
 date: 2018-02-19 10:14:24
 ---
 
