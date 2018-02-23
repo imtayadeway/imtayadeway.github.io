@@ -11,6 +11,7 @@ title: Archive
 - The Road Less Traveled, by M. Scott Peck
 - [The Sarah Book][the sarah book], by Scott McClanahan
 - [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
+- [Caca Dolce][caca dolce], by Chelsea Martin
 
 ### 2018
 
@@ -19,6 +20,7 @@ title: Archive
 
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 
+[caca dolce]: https://softskull.com/dd-product/caca-dolce/
 [getting clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [picture perfect lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [the amateur's mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
