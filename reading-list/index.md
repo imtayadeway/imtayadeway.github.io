@@ -6,7 +6,6 @@ title: Archive
 ### Currently Reading
 
 - [The Amateur's Mind][the amateur's mind], by Jeremy Silman
-- [The Pragmatic Programmer][the pragmatic programmer], by Andrew Hunt and David Thomas
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
 - The Road Less Traveled, by M. Scott Peck
@@ -14,6 +13,7 @@ title: Archive
 
 ### 2018
 
+- [The Pragmatic Programmer][the pragmatic programmer], by Andrew Hunt and David Thomas
 - [Getting Clojure][getting clojure], by Russ Olsen ([read my review][getting clojure review])
 
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
