@@ -12,6 +12,8 @@ title: Archive
 - [The Sarah Book][the sarah book], by Scott McClanahan
 - [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
 - [Caca Dolce][caca dolce], by Chelsea Martin
+- XUnit Test Patterns, by Gerard Meszaros
+- Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2018
 
