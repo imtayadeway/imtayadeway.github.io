@@ -17,6 +17,7 @@ title: Archive
 ### 2018
 
 - [The Sarah Book][the sarah book], by Scott McClanahan
+- [The Tyranny of Structurelessness][the tyranny of structurelessness], by Jo Freeman
 - [The Pragmatic Programmer][the pragmatic programmer], by Andrew Hunt and David Thomas
 - [Getting Clojure][getting clojure], by Russ Olsen ([read my review][getting clojure review])
 
@@ -28,3 +29,4 @@ title: Archive
 [the amateur's mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [the pragmatic programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [the sarah book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
+[the tyranny of structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
