@@ -9,7 +9,6 @@ title: Archive
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
 - The Road Less Traveled, by M. Scott Peck
-- [The Sarah Book][the sarah book], by Scott McClanahan
 - [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
 - [Caca Dolce][caca dolce], by Chelsea Martin
 - XUnit Test Patterns, by Gerard Meszaros
@@ -17,6 +16,7 @@ title: Archive
 
 ### 2018
 
+- [The Sarah Book][the sarah book], by Scott McClanahan
 - [The Pragmatic Programmer][the pragmatic programmer], by Andrew Hunt and David Thomas
 - [Getting Clojure][getting clojure], by Russ Olsen ([read my review][getting clojure review])
 
