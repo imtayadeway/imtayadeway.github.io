@@ -9,13 +9,13 @@ title: Archive
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
 - The Road Less Traveled, by M. Scott Peck
-- [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
 - [Caca Dolce][caca dolce], by Chelsea Martin
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2018
 
+- [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
 - [The Sarah Book][the sarah book], by Scott McClanahan
 - [The Tyranny of Structurelessness][the tyranny of structurelessness], by Jo Freeman
 - [The Pragmatic Programmer][the pragmatic programmer], by Andrew Hunt and David Thomas
