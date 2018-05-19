@@ -36,10 +36,9 @@ a lens through which I began to look at the world.
 
 I saw that a preoccupation with being right was essentially an
 expression of power and that asserting rightness was about exerting
-power over others. I also saw, to a lesser degree, that this
-preoccupation was perhaps more to do with the appearance of being
-right, and that the cost of maintaining it was missed opportunities
-for learning.
+power over others. I also saw that this preoccupation was perhaps more
+to do with the appearance of being right, and that missed
+opportunities for learning would be the cost of maintaining it.
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
@@ -47,25 +46,23 @@ goal to continue to examine and dismantle the ways in which I assert
 create a culture of "rightness", the effects that has, and what we can
 do to limit some of the more harmful effects.
 
-What I'm especially interested in right now is the fact that I don't
-believe I've ever seen such a high concentration of people who are
-utterly driven by the need to be right _all the time_ as in the tech
-industry, and I want to talk about it. It'll also be unavoidably about
-my own relationship to the tech industry, and my own need to be right.
-
-Allegedly I come from a long line of know-alls. Unsurprisingly, it's a
-behavior that was passed down the male side of my family. Of course, I
-don't really believe this is a genetic disposition, and it's quite
-easy to see how this might work: as a child I remember being praised
-for being 'brainy', got positive feedback for being 'right', learned
-to hide my ignorance of things so as never to appear wrong. I was,
-after all, a boy and was expected to be good at Science and
-Mathematics.
+Allegedly I come from a long line of *know-it-alls*. Unsurprisingly,
+it's a behavior that passes down the male side of my family. Of
+course, I don't really believe this is a genetic disposition, and it's
+easy to see how this might work. As a child I remember my family's
+praising me for being 'brainy'. They gave me positive feedback for
+being 'right' and I learned to hide my ignorance of things so as never
+to appear wrong.
 
 As long as I appeared to be right all the time I felt like I was
 winning, but I was actually losing. I've had a whole lifetime missing
 answers to questions I didn't ask. I became lazy, unconsciously
-thinking that my smarts would allow me to coast through life. Wrong!
+thinking that my smarts would allow me to coast through life.
+
+Once I was free of a culture that was concerned primarily with
+measuring and rewarding rightness (you guessed it - School), I had a
+hard time knowing how to fit in, and it would take many years of
+adjustments before I felt any kind of success.
 
 Please don't raise your child to think that. As I've come to realize
 way too late in life, children who are praised for the level of effort
@@ -73,18 +70,14 @@ in which they apply themselves (as opposed to their cleverness, or
 natural talent) will be more successful. (* see richard wiseman, 59
 seconds, praise be!)
 
-So I'm aware that I have a problem. Trying to combat it every day is
-the way that I choose to deal with it.
+But things get more interesting when you examine rightness in
+interactions of people. What I'm especially interested in right now is
+the fact that I don't believe I've ever seen such a high concentration
+of people who are utterly driven by the need to be right _all the
+time_ as in the tech industry.
 
 What are the important ways that being right manifest itself
 negatively in the workplace?
-
-There is a story about Kurt Vonnegut, who, at one point toward the end
-of his relationship with his wife, realized that in a crucial moment
-he could say something incredibly funny (which he had a knack for
-doing) and upon doing so end his marriage, or refrain from saying
-anything and thereby save it. Which option do you think he took? Being
-right has the same mechanics.
 
 * The dog/god thing
 * celebrating being wrong - amelia bedelia?
