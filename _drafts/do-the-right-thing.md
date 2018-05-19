@@ -3,37 +3,49 @@ layout: post
 title: "Do the Right Thing"
 ---
 
-I once knew a wise, old yogi. Before being a wise, old yogi he had
-been a wise, middle-aged Jew. And in a previous occupation he had been
-a Freudian psycho-analyst. I knew he was wise because of these things
-and because he had a gray beard and a wry smile and would say some
-interesting and funny things. And at other times he would smile and
-nod and say nothing at all. I can't remember if he ever stroked his
-beard.
+I once knew a wise, old man. I knew he was a wise, old man because he
+embodied certain stereotypes about wise old men. First, he was a gray-bearded
+yogi. Before this he was a New York Jew and a practicing Freudian
+psychoanalyst. He had a wry smile and would say some interesting and funny
+things. And at other times he would smile and nod and say nothing at
+all. I can't remember if he ever stroked his beard. And his name was
+Ramya.
 
-One day he said to me, "Asoka," which was the name under which I was
-going at the time. "Asoka," he said, "do you know what is the single
-driving force of all our desires, motives and actions?" I thought
+One day he said to me, "Asoka," (which was the name under which I was
+going at the time). "Asoka," he said, "do you know what is the single
+driving force behind all our desires, motives and actions?" I thought
 about this for some time. I had my own ideas but, knowing he was a
-Freudian, suspected that the answer was going to be something about
+Freudian, suspected that the answer was going to be something to do with
 the libido.
 
-"You probably suspect that the answer is going to be something about
-the libido," he said. "But it's not." I listened patiently. "It's the
-need, to be right." I laughed. While I wasn't totally surprised to
+"You probably suspect that the answer is going to be something to do
+with the libido," he said. "But it's not." I listened patiently. "It's
+the need … to be right." I laughed. While I wasn't totally surprised to
 have heard a different answer, this one for some reason blew me away,
 but not straight away. I wasn't prepared. I had never thought about
 human nature in those terms before. And years ahead I would continue
 to analyze my interactions and recast my past experiences in these
 terms, and things started to make more sense.
 
-But was he right? Maybe, I don't know. That's not the point I'm trying
-to make here. But I am interested in what humanity looks like when you
-put it under this lens. It doesn't make us look any better. But it is
-in some way more agreeable. Maybe because this kind of behavior is
-often reduced simply to "assholes", and it kind of hurts me every time
-I call someone or think of them as an asshole. Being an asshole is
-also a harder problem to solve.
+I wouldn't expect anyone else to have the same reaction. I suspect
+others would find this to be either obvious, banal, or plainly
+wrong to them, and if this you, I don't intend to try to convince you
+otherwise (there might be a certain irony in doing so). What I want to
+do instead is to document what became for me a personal manifesto, and
+a lens through which I began to look at the world.
+
+I saw that a preoccupation with being right was essentially an
+expression of power and that asserting rightness was about exerting
+power over others. I also saw, to a lesser degree, that this
+preoccupation was perhaps more to do with the appearance of being
+right, and that the cost of maintaining it was missed opportunities
+for learning.
+
+I was the principle subject of my examination, and it has become a
+goal to continue to examine and dismantle the ways in which I assert
+"rightness". But I also want to look at how groups of people can
+create a culture of "rightness", the effects that has, and what we can
+do to limit some of the more harmful effects.
 
 What I'm especially interested in right now is the fact that I don't
 believe I've ever seen such a high concentration of people who are
