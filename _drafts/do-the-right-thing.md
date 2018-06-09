@@ -91,10 +91,48 @@ opinion of yourself, I can't imagine what you'd think of me.
 
 * The dog/god thing
 
+There is a well-known meme about the experience of being a programmer
+and it looks like this:
+
 <img src="/assets/two-states.png" class="img-responsive" alt="The two states of every programmer">
 
+While neither one of these are true, it is true that everyone is much
+closer to the first state than the second. The problem with separating
+out this duality is that the two abstract states all to easily become
+concretized (transposed?! something?) in individuals, creating a
+culture of 10x developers and, well, everyone else.
+
+In my personal experience I have felt a strong feeling of teamwork and
+commeraderie when I'm working with people who all humbly admit they
+don't know what they're doing. There is the sense that we don't have
+all the answers, but we will nonetheless figure it out together. It
+promotes a culture of learning, of strong teamwork and kinship. When
+everyone makes themselves vulnerable in this way magical things can
+happen. The problem is that it only takes one person to fuck all that
+up. .... This is commonly what we call "leadership", and while I don't
+want to suggest that leadership and teamwork are
+antagonistic/orthogonal to each other, I do want to suggest that a
+certain style of leadership is toxic to it, the kind that is concerned
+mainly with exerting rightness (and therefore power) downwards.
+
+....
+
+A good leader will make decisions (sometimes bold) to move forward
+in some direction, even if that turns out to be the wrong direction.
+
 * celebrating being wrong
-** Failure Fridays
+
+What can we do instead? Perhaps instead of fostering a culture of
+self-chastisement we can instead celebrate our wrongness. We know that
+failure can sometimes come at great cost for others, but it's almost
+always because of the systems we have in place that are
+flawed. Personal failure really is a cause for celebration because it
+is also a learning, and celebrating creates an opportunity to share
+that learning with others while simultaneously promoting a learning
+culture destygmatized of wrongness (???). (I once suggested to a
+colleague that we add some ceremony to this by making weekly sharings
+of wrongness ("Failure Fridays") but it never took off....)
+
 * being right stands in the way of development
 * being wrong - team work and commeraderie (let's figure this out
   together) vs "leadership"
@@ -103,3 +141,8 @@ opinion of yourself, I can't imagine what you'd think of me.
 ** Well actually - the onramp to a mansplanation
 * trying to be helpful
 * refactoring hypnosis vs kent beck's tradeoffs
+
+### On Leadership and Teamwork
+### On Productivity
+### On Culture
+### On Learning
