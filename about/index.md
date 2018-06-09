@@ -5,8 +5,7 @@ title: about me
 
 My name is Tim.
 
-I'm a software engineer at Red Hat working on the
-[ManageIQ](http://manageiq.org) team.
+I'm a software engineer at [Heroku](https://www.heroku.com).
 
 I like to make music with pianos, guitars, woodwinds and electronics.
 
