@@ -92,7 +92,7 @@ opinion of yourself, I can't imagine what you'd think of me.
 * The dog/god thing
 
 <img src="/assets/two-states.png" class="img-responsive"
-alt="The two states of every programmer" style="height: 40%; width: 40%">
+alt="The two states of every programmer">
 
 * celebrating being wrong
 ** Failure Fridays
