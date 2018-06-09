@@ -77,13 +77,30 @@ What are the important ways that being right manifest itself
 negatively in the workplace?
 
 * self chastising (idiot, etc..)
+
+One sentiment that I've seen commonly expressed is the idea that no
+one, even experienced a celebrated engineers, really knows what they
+are doing. I think that there is both humor and truth in that but
+that, while I believe the sentiment is well-intentioned, words are
+important and can sometimes undermine what's being expressed
+here. I've seen people I admire and look up to utter something of the
+form, look, I wrote [some technology you've probably heard of], and I
+still do [something stupid/dumb] - what an idiot! This doesn't
+reassure me at all, all I think is, wow, if you have such a hostile
+opinion of yourself, I can't imagine what you'd think of me.
+
 * The dog/god thing
+
+<img src="/assets/two-states.png" class="img-responsive"
+alt="The two states of every programmer" style="height: 40%; width: 40%">
+
 * celebrating being wrong
+** Failure Fridays
 * being right stands in the way of development
 * being wrong - team work and commeraderie (let's figure this out
   together) vs "leadership"
 * creates hostile discussions (PRs, etc..)
 * mansplaining
+** Well actually - the onramp to a mansplanation
 * trying to be helpful
-* the gender problem in tech
 * refactoring hypnosis vs kent beck's tradeoffs
