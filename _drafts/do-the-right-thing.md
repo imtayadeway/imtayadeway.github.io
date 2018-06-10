@@ -113,9 +113,6 @@ in some direction, even if that turns out to be the wrong direction.
 
 ### On Productivity
 
-* being right stands in the way of development
-** refactoring hypnosis vs kent beck's tradeoffs
-
 A preoccupation with being right can have a directly negative effect
 on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
@@ -138,6 +135,9 @@ that perhaps the only thing we can agree on is that a codebase be
 consistent. Where it lacks consistency there lie opportunities to
 rectify, but this is almost always a bad idea. Important historical
 details get obscured by trivial wankery.
+
+Finally, being right stands in opposition to notions like agile and
+TDD.
 
 ### On Culture
 
