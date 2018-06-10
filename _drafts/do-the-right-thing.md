@@ -164,11 +164,12 @@ colleague that we add some ceremony to this by making weekly sharings
 of wrongness ("Failure Fridays") but it never took off....)
 
 * creates hostile discussions (PRs, etc..)
-* mansplaining
-** Well actually - the onramp to a mansplanation
 
 It is very telling to me that the standard introduction to any
 mansplanation, _well, actually...._, is almost the ultimate expression
-of declaring rightness, or rectifying. It is rectifying behavior.
-
-* trying to be helpful
+of declaring rightness, or rectifying. It is rectifying behavior. It
+is appropriate that we have identified this behavior as an expression
+of masculine insecurity whose compliment finds the male trying to
+exert power through rectifying. More innocent mansplanations - without
+contradicting a man may simply declare that he is right, believing
+this bloviation to be helpful to the person whose ignorance is assumed.
