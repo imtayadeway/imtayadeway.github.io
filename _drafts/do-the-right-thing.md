@@ -172,4 +172,5 @@ is appropriate that we have identified this behavior as an expression
 of masculine insecurity whose compliment finds the male trying to
 exert power through rectifying. More innocent mansplanations - without
 contradicting a man may simply declare that he is right, believing
-this bloviation to be helpful to the person whose ignorance is assumed.
+this bloviation to be helpful to the person whose ignorance is assumed
+- still work in the same way.
