@@ -130,7 +130,7 @@ are the fewest agreements over what is considered good style or
 in the Ruby Style Guide but it has been known to go back and forth on
 some of its specifics (or merely to state that there are competing
 styles), and the fact that teams and organizations eventually grow
-their own style guides (AirBnb, GitHub, Thoughtbot, Seattle.rb) show
+their own style guides (AirBnb, GitHub, thoughtbot, Seattle.rb) show
 that perhaps the only thing we can agree on is that a codebase be
 consistent. Where it lacks consistency there lie opportunities to
 rectify, but this is almost always a bad idea. Important historical
@@ -166,4 +166,9 @@ of wrongness ("Failure Fridays") but it never took off....)
 * creates hostile discussions (PRs, etc..)
 * mansplaining
 ** Well actually - the onramp to a mansplanation
+
+It is very telling to me that the standard introduction to any
+mansplanation, _well, actually...._, is almost the ultimate expression
+of declaring rightness, or rectifying. It is rectifying behavior.
+
 * trying to be helpful
