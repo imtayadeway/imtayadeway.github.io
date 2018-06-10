@@ -76,20 +76,11 @@ time_ as in the tech industry.
 What are the important ways that being right manifest itself
 negatively in the workplace?
 
-* self chastising (idiot, etc..)
 
-One sentiment that I've seen commonly expressed is the idea that no
-one, even experienced a celebrated engineers, really knows what they
-are doing. I think that there is both humor and truth in that but
-that, while I believe the sentiment is well-intentioned, words are
-important and can sometimes undermine what's being expressed
-here. I've seen people I admire and look up to utter something of the
-form, look, I wrote [some technology you've probably heard of], and I
-still do [something stupid/dumb] - what an idiot! This doesn't
-reassure me at all, all I think is, wow, if you have such a hostile
-opinion of yourself, I can't imagine what you'd think of me.
 
-* The dog/god thing
+
+
+### On Leadership and Teamwork
 
 There is a well-known meme about the experience of being a programmer
 and it looks like this:
@@ -120,7 +111,46 @@ mainly with exerting rightness (and therefore power) downwards.
 A good leader will make decisions (sometimes bold) to move forward
 in some direction, even if that turns out to be the wrong direction.
 
-* celebrating being wrong
+### On Productivity
+
+* being right stands in the way of development
+** refactoring hypnosis vs kent beck's tradeoffs
+
+A preoccupation with being right can have a directly negative effect
+on productivity. One obvious way is what I will call refactoring
+hypnosis - a state wherein the programmer forgets the original intent
+of their refactoring efforts and continue to rework code into a more
+"right" state, often with no benefit while risking breakages in the
+case of legacy code.
+
+Style is another area that is particularly prone to pointless
+exertions of rightness. It is not unusual for developers to have a
+preference for a certain style in whatever language they are using,
+and it is interesting that while opposing styles can seem utterly
+wrong to the developer it seems that this is the area in which there
+are the fewest agreements over what is considered good style or
+"right". In Ruby there have been attempts to unify divergent opinion
+in the Ruby Style Guide but it has been known to go back and forth on
+some of its specifics (or merely to state that there are competing
+styles), and the fact that teams and organizations eventually grow
+their own style guides (AirBnb, GitHub, Thoughtbot, Seattle.rb) show
+that perhaps the only thing we can agree on is that a codebase be
+consistent. Where it lacks consistency there lie opportunities to
+rectify, but this is almost always a bad idea. Important historical
+details get obscured by trivial wankery.
+
+### On Culture
+
+One sentiment that I've seen commonly expressed is the idea that no
+one, even experienced a celebrated engineers, really knows what they
+are doing. I think that there is both humor and truth in that but
+that, while I believe the sentiment is well-intentioned, words are
+important and can sometimes undermine what's being expressed
+here. I've seen people I admire and look up to utter something of the
+form, look, I wrote [some technology you've probably heard of], and I
+still do [something stupid/dumb] - what an idiot! This doesn't
+reassure me at all, all I think is, wow, if you have such a hostile
+opinion of yourself, I can't imagine what you'd think of me.
 
 What can we do instead? Perhaps instead of fostering a culture of
 self-chastisement we can instead celebrate our wrongness. We know that
@@ -133,16 +163,7 @@ culture destygmatized of wrongness (???). (I once suggested to a
 colleague that we add some ceremony to this by making weekly sharings
 of wrongness ("Failure Fridays") but it never took off....)
 
-* being right stands in the way of development
-* being wrong - team work and commeraderie (let's figure this out
-  together) vs "leadership"
 * creates hostile discussions (PRs, etc..)
 * mansplaining
 ** Well actually - the onramp to a mansplanation
 * trying to be helpful
-* refactoring hypnosis vs kent beck's tradeoffs
-
-### On Leadership and Teamwork
-### On Productivity
-### On Culture
-### On Learning
