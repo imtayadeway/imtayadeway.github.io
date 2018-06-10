@@ -33,10 +33,11 @@ do instead is to document what became for me a personal manifesto, and
 a lens through which I began to look at the world.
 
 Eventually I saw that a preoccupation with being right was essentially
-an expression of power and that asserting rightness was about exerting
-power over others. I also saw that this preoccupation was perhaps more
-to do with the appearance of being right, and that the cost of
-maintaining it would be in missing opportunities for learning.
+an expression of power and that asserting rightness ("rectifying") was
+about exerting power over others. I also saw that this preoccupation
+was perhaps more to do with the appearance of being right, and that
+the cost of maintaining it would be in missing opportunities for
+learning.
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
