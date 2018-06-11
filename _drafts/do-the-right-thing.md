@@ -3,27 +3,26 @@ layout: post
 title: "Do the Right Thing"
 ---
 
-When I was living in an Ashram in rural Virginia....
-
-I once knew a wise, old man. I knew he was a wise, old man because he
+Some years ago when I was living in an Ashram in rural Virginia, I got
+to know a wise, old man. I knew he was a wise, old man because he
 embodied certain stereotypes about wise old men. First, he was a
 Gray-Bearded Yogi. Before this he was a New York Jew and a practicing
-Freudian Psychoanalyst. He had a wry smile and would say some
-interesting and funny things. And at other times he would smile and
+Freudian Psychoanalyst. Sometimes he had would say a lot of
+interesting and funny things, and at other times he would smile and
 nod and say nothing at all. I can't remember if he ever stroked his
 beard. And his name was Ramya.
 
-One day he said to me, "Asoka," (which was the name under which I was
-going at the time). "Asoka," he said, "do you know what is the single
-driving force behind all our desires, motives and actions?" I thought
-about this for some time. I had my own ideas but, knowing he was a
-Freudian, suspected that the answer was going to be something to do with
-the libido.
+One day he said to me, "Asoka," (the name under which I was going at
+the time). "Asoka," he said, "do you know what is the driving force
+behind all our desires, motives and actions?" I thought about this for
+some time. I had my own ideas but, knowing he was a Freudian,
+suspected that the answer was going to be something to do with the
+libido.
 
 "You probably suspect that the answer is going to be something to do
 with the libido," he said. "But it's not." I listened patiently. "It's
 the need … to be right." I laughed. While I wasn't totally surprised
-to have heard a different answer, this one for some reason blew me
+not to have got it, this particular answer for some reason blew me
 away, but not straight away. I wasn't prepared. I had never framed
 human nature in those terms before.
 
@@ -35,11 +34,12 @@ do instead is to document what became for me a personal manifesto, and
 a lens through which I began to look at the world.
 
 Eventually I saw that a preoccupation with being right was essentially
-an expression of power and that asserting rightness ("rectifying") was
-about exerting power over others. I also saw that this preoccupation
-was perhaps more to do with the appearance of being right, and that
-the cost of maintaining it would be in missing opportunities for
-learning.
+an expression of power and that asserting rightness (what I will
+sometimes call "rectifying") was about exerting power over others. I
+also saw that this preoccupation had perhaps more to do with the
+appearance of being right, and that the cost of maintaining it would
+be in missing opportunities for learning. (does this belong below in
+the learning section?)
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
