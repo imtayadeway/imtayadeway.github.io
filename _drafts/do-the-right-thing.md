@@ -175,3 +175,6 @@ exert power through rectifying. More innocent mansplanations - without
 contradicting a man may simply declare that he is right, believing
 this bloviation to be helpful to the person whose ignorance is assumed
 - still work in the same way.
+
+* Not to say that being right is wrong, just the desire to be right
+  that colors our judgement?
