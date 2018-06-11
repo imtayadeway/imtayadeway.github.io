@@ -3,6 +3,8 @@ layout: post
 title: "Do the Right Thing"
 ---
 
+When I was living in an Ashram in rural Virginia....
+
 I once knew a wise, old man. I knew he was a wise, old man because he
 embodied certain stereotypes about wise old men. First, he was a
 Gray-Bearded Yogi. Before this he was a New York Jew and a practicing
