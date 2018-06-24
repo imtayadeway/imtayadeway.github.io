@@ -135,39 +135,40 @@ A preoccupation with being right can have a directly negative effect
 on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
 of their refactoring efforts and continue to rework code into a more
-"right" state, often with no benefit while risking breakages in the
-case of legacy code.
+"right" state, often with no tangible benefit while risking breakages
+in the case of legacy code.
 
 Style is another area that is particularly prone to pointless
 exertions of rightness. It is not unusual for developers to have a
-preference for a certain style in whatever language they are using,
-and it is interesting that while opposing styles can seem utterly
-wrong to the developer it seems that this is the area in which there
-are the fewest agreements over what is considered good style or
-"right". In Ruby there have been attempts to unify divergent opinion
-in the Ruby Style Guide but it has been known to go back and forth on
-some of its specifics (or merely to state that there are competing
-styles), and the fact that teams and organizations eventually grow
-their own style guides (AirBnb, GitHub, thoughtbot, Seattle.rb) show
-that perhaps the only thing we can agree on is that a codebase be
-consistent. Where it lacks consistency there lie opportunities to
-rectify, but this is almost always a bad idea. Important historical
-details get obscured by trivial wankery.
+preference for a certain style in whatever language they are using.
+It is interesting that while opposing styles can seem utterly wrong to
+the developer it seems that this is the area of software development
+in which there are the fewest agreements over what is considered good
+or "right". In Ruby there have been attempts to unify divergent
+opinion in the Ruby Style Guide but it has been known to go back and
+forth on some of its specifics (or merely to state that there are
+competing styles), and the fact that teams and organizations
+eventually grow their own style guides (AirBnb, GitHub, thoughtbot,
+Seattle.rb) show that perhaps the only thing we can agree on is that a
+codebase be consistent. Where it lacks consistency there lie
+opportunities to rectify, but this is almost always a bad
+idea. Important historical details get obscured by trivial wankery.
 
 Finally, being right stands in opposition to notions like agile and
-TDD.
+TDD. <more on this>
 
 ### On Culture
 
-One sentiment that I've seen commonly expressed is the idea that no
-one, even experienced a celebrated engineers, really knows what they
-are doing. I think that there is both humor and truth in that but
-that, while I believe the sentiment is well-intentioned, words are
+As I've asserted above, none of us *really* knows what they are doing
+(for different values of "really"), and indeed this sentiment has been
+commonly expressed even among some of the most experienced and
+celebrated engineers. I think that there is both humor and truth in
+this but, while I believe the sentiment is well-intentioned, words are
 important and can sometimes undermine what's being expressed
 here. I've seen people I admire and look up to utter something of the
 form, look, I wrote [some technology you've probably heard of], and I
 still do [something stupid/dumb] - what an idiot! This doesn't
-reassure me at all, all I think is, wow, if you have such a hostile
+reassure me at all. All I think is, wow, if you have such a negative
 opinion of yourself, I can't imagine what you'd think of me.
 
 What can we do instead? Perhaps instead of fostering a culture of
@@ -177,9 +178,9 @@ always because of the systems we have in place that are
 flawed. Personal failure really is a cause for celebration because it
 is also a learning, and celebrating creates an opportunity to share
 that learning with others while simultaneously promoting a learning
-culture destygmatized of wrongness (???). (I once suggested to a
-colleague that we add some ceremony to this by making weekly sharings
-of wrongness ("Failure Fridays") but it never took off....)
+culture destygmatized of wrongness. I am very happy that we have just
+started doing this collectively as a team as part of our
+retrospectives - I would encourage everyone to do this.
 
 * creates hostile discussions (PRs, etc..)
 
