@@ -50,8 +50,7 @@ that we have identified this behavior as an expression of masculine
 insecurity as an exertion of power through rectifying. More innocent
 mansplanations - without contradicting a man may simply declare that
 he is right, believing his bloviation to be helpful to the person
-whose ignorance is assumed
-- still work in the same way.)
+whose ignorance is assumed - still work in the same way.)
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
