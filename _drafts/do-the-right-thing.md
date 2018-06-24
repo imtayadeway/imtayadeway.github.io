@@ -98,30 +98,36 @@ and it looks like this:
 
 <img src="/assets/two-states.png" class="img-responsive" alt="The two states of every programmer">
 
-While neither one of these are true, it is true that everyone is much
-closer to the first state than the second. The problem with separating
-out this duality is that the two abstract states all too easily become
-concretized as individuals, creating a culture of 10x developers and,
-well, everyone else.
+While neither one of these are true, it is true that *everyone* is
+much closer to the first state than the second. The problem with
+separating out this duality is that the two abstract states all too
+easily become concretized as individuals, creating a culture of 10x
+developers and, well, everyone else.
 
 In my personal experience I have felt a strong feeling of teamwork and
 commeraderie when I'm working with people who all humbly admit they
-don't *really* know what they're doing. There is the sense that we
-don't have all the answers, but we will nonetheless figure it out
+don't *really* know what they're doing. Note the qualification there -
+nobody is saying they are incompetent, just that there are distinct
+limits to their knowledge and understanding. There is the sense that
+we don't have all the answers, but we will nonetheless figure it out
 together. It promotes a culture of learning, of strong teamwork and
 kinship. When everyone makes themselves vulnerable in this way great
-things can happen. The problem is that it only takes one person to
-fuck all that up. .... This is commonly what we call "leadership", and
-while I don't want to suggest that leadership and teamwork are
-antagonistic/orthogonal to each other, I do want to suggest that a
-certain style of leadership is harmful to it, the kind that is
-concerned mainly with exerting rightness (and therefore power)
-downwards.
+things can happen. The problem is that it only takes one asshole to
+fuck all that up.
 
-....
+When a team loses its collective vulnerability as one person starts to
+exert rightness (and therefore power) downwards onto it, all the
+positive effects I've listed above are lost. When rightness is
+rewarded people become competitive and sometimes downright
+hostile. Ultimately it rewards the loudest individuals who can make
+the most convincing semblance of rightness and stifles all other voices.
 
-A good leader will make decisions (sometimes bold) to move forward
-in some direction, even if that turns out to be the wrong direction.
+This is commonly what we call "leadership", and while I don't want to
+suggest that leadership and teamwork are antagonistic to each other, I
+do want to suggest that a certain style of leadership, one concerned
+principally with correctness, is harmful to it. A good leader will
+make decisions (sometimes bold) to move forward in some direction,
+even if that turns out to be the wrong direction.
 
 ### On Productivity
 
