@@ -66,9 +66,8 @@ knowing how to fit in or do well, and it would take years of
 adjustments before I felt any kind of success. It came as a small
 comfort to learn that I was not alone - in fact it is well understood
 now that children who are praised for hard work will be more
-successful than those that are praised for correctness or cleverness
-(Wiseman, R. 59 seconds, Praise Be!), and for precisely the reasons
-outlined above.
+successful than those that are praised for correctness or cleverness,
+and for precisely the reasons outlined above.
 
 But things get more interesting when you examine rightness in the
 interactions between people. What I'm especially interested in right now is
