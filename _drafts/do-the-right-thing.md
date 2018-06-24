@@ -43,7 +43,15 @@ the appearance of being right, and that the cost of maintaining it
 would be in missing opportunities for learning. I also saw that, while
 the rectification obsession was not a uniquely male problem, there
 seemed to be a general movement of rightness from that direction, and
-we would do well to examine that too.
+we would do well to examine that too. (It is very telling to me that
+the standard introduction to any mansplanation, _well, actually...._,
+is almost the ultimate expression of rectification. It is appropriate
+that we have identified this behavior as an expression of masculine
+insecurity as an exertion of power through rectifying. More innocent
+mansplanations - without contradicting a man may simply declare that
+he is right, believing his bloviation to be helpful to the person
+whose ignorance is assumed
+- still work in the same way.)
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
@@ -184,15 +192,6 @@ retrospectives - I would encourage everyone to do this.
 
 * creates hostile discussions (PRs, etc..)
 
-It is very telling to me that the standard introduction to any
-mansplanation, _well, actually...._, is almost the ultimate expression
-of declaring rightness, or rectifying. It is rectifying behavior. It
-is appropriate that we have identified this behavior as an expression
-of masculine insecurity whose compliment finds the male trying to
-exert power through rectifying. More innocent mansplanations - without
-contradicting a man may simply declare that he is right, believing
-this bloviation to be helpful to the person whose ignorance is assumed
-- still work in the same way.
 
 * Not to say that being right is wrong, just the desire to be right
   that colors our judgement?
