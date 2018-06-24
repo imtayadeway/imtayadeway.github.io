@@ -165,6 +165,11 @@ idea. Important historical details get obscured by trivial wankery.
 Finally, being right stands in opposition to notions like agile and
 TDD. <more on this>
 
+* creates hostile discussions (PRs, etc..)
+
+* Not to say that being right is wrong, just the desire to be right
+  that colors our judgement?
+
 ### On Culture
 
 As I've asserted above, none of us *really* knows what they are doing
@@ -190,8 +195,6 @@ culture destygmatized of wrongness. I am very happy that we have just
 started doing this collectively as a team as part of our
 retrospectives - I would encourage everyone to do this.
 
-* creates hostile discussions (PRs, etc..)
+### Conclusion
 
-
-* Not to say that being right is wrong, just the desire to be right
-  that colors our judgement?
+...
