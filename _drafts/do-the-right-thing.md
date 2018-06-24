@@ -3,49 +3,51 @@ layout: post
 title: "Do the Right Thing"
 ---
 
-Some years ago when I was living in an Ashram in rural Virginia, I got
-to know a wise, old man. I knew he was a wise, old man because he
-embodied certain stereotypes about wise old men. First, he was a
-Gray-Bearded Yogi. Before this he was a New York Jew and a practicing
-Freudian Psychoanalyst. Sometimes he had would say a lot of
-interesting and funny things, and at other times he would smile and
-nod and say nothing at all. I can't remember if he ever stroked his
-beard. And his name was Ramya.
+Some years ago when I was living in an Ashram in rural Virginia, I met
+a wise, old man. I knew he was a wise, old man because he embodied
+certain stereotypes about wise old men. First, he was a Gray-Bearded
+Yogi. Before this he was a New York Jew and a practicing Freudian
+Psychoanalyst. Sometimes he had would say a lot of interesting and
+funny things, and at other times he would smile and nod and say
+nothing at all. I can't remember if he ever stroked his beard.
 
 One day he said to me, "Asoka," (the name under which I was going at
-the time). "Asoka," he said, "do you know what is the driving force
-behind all our desires, motives and actions?" I thought about this for
-some time. I had my own ideas but, knowing he was a Freudian,
+the time). "Asoka," he said, "do you know what is the single driving
+force behind all our desires, motives and actions?" I thought about
+this for some time. I had my own ideas but, knowing he was a Freudian,
 suspected that the answer was going to be something to do with the
 libido.
 
 "You probably suspect that the answer is going to be something to do
 with the libido," he said. "But it's not." I listened patiently. "It's
 the need … to be right." I laughed. While I wasn't totally surprised
-not to have got it, this particular answer for some reason blew me
-away, but not straight away. I wasn't prepared. I had never framed
-human nature in those terms before.
+not to have got the right answer, this particular one for some reason
+blew me away. I wasn't prepared. I had never framed human nature in
+those terms before.
 
 I wouldn't expect anyone else to have the same reaction. I suspect
-others would find this to be either obvious, banal, or plainly
-wrong to them, and if this you, I don't intend to try to convince you
+others would find this to be either obvious, banal, or plainly wrong
+to them, and if this is you, I don't intend to try to convince you
 otherwise (there might be a certain irony in doing so). What I want to
 do instead is to document what became for me a personal manifesto, and
-a lens through which I began to look at the world.
+a lens through which I began to look at the world. As a lens, you are
+free to pick it up, take a look through it, and ultimately discard it
+if you wish. But I rather like it a lot.
 
-Eventually I saw that a preoccupation with being right was essentially
-an expression of power and that asserting rightness (what I will
-sometimes call "rectifying") was about exerting power over others. I
-also saw that this preoccupation had perhaps more to do with the
-appearance of being right, and that the cost of maintaining it would
-be in missing opportunities for learning. (does this belong below in
-the learning section?)
+What happened that day was really only the start of a long
+process. Eventually I saw that a preoccupation with being right was
+essentially an expression of power and that asserting rightness (what
+I will sometimes call "rectifying") was about exerting power over
+others. I also saw that this preoccupation had perhaps more to do with
+the appearance of being right, and that the cost of maintaining it
+would be in missing opportunities for learning. I also saw that, while
+the rectification obsession was not a uniquely male problem, there
+seemed to be a general movement of rightness from that direction, and
+we would do well to examine that too.
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
-"rightness" in the world. But I also want to look at how groups of
-people can create a culture of "rightness", the effects that has, and
-what we can do to limit some of the more harmful effects.
+"rightness" in the world.
 
 Allegedly I come from a long line of *know-it-alls*. Unsurprisingly,
 it's a behavior that passes down the male side of my family. Of
@@ -53,34 +55,41 @@ course, I don't really believe this is a genetic disposition, and it's
 easy to see how this might work.
 
 As a child I remember my family's praising me for being 'brainy'. They
-gave me positive feedback for being 'right' and I learned to hide my
+gave me positive feedback for being right and I learned to hide my
 ignorance of things so as never to appear wrong. As long as I appeared
 to be right all the time I felt like I was winning, but I was actually
-losing. I've had a whole lifetime missing answers to questions I
+losing. I've spent most of my life missing answers to questions I
 didn't ask. I became lazy, unconsciously thinking that my smarts would
 allow me to coast through life.
 
-Once I was free of a culture principally concerned with measuring and
-rewarding rightness (you guessed it - School), I had a hard time
-knowing how to fit in or do well, and it would take years of
-adjustments before I felt any kind of success. It came as a small
-comfort to learn that I was not alone - in fact it is well understood
-now that children who are praised for hard work will be more
-successful than those that are praised for correctness or cleverness,
-and for precisely the reasons outlined above.
+Once I was done with School, and with it a culture principally
+concerned with measuring and rewarding rightness, I had a hard time
+knowing how to fit in or do well. It would take years of
+adjustments before I felt any kind of success. Whenever something
+became hard, I'd try something new, and I was always disappointed to
+find that opportunities were not handed to me simply because I was
+'smart'.
 
-But things get more interesting when you examine rightness in the
-interactions between people. What I'm especially interested in right now is
-the fact that I don't believe I've ever seen such a high concentration
-of people who are utterly driven by the need to be right _all the
-time_ as in the tech industry.
+It came as a small comfort to learn that I was not alone - in fact it
+is well understood now that children who are praised for hard work
+will be more successful than those that are praised for correctness or
+cleverness.
 
-What are the important ways that being right manifest itself
-negatively in the workplace?
+I still don't fully grasp the extent to which these experiences have
+shaped my thinking and my behavior, but I have understood it well
+enough to have turned things around somewhat, applied myself, and have
+some awareness of my rectifying behavior, even if I can't always
+anticipate it.
 
+None of this can happen in isolation, however, and it is most
+interesting when we examine cultures of rightness as groups of people.
+What I'm especially interested in right now is the fact that I don't
+believe I've ever seen such a high concentration of people who are
+utterly driven by the need to be right _all the time_ as in the tech
+industry.
 
-
-
+Let's look at some of the different ways that being right has manifest
+itself negatively in the workplace.
 
 ### On Leadership and Teamwork
 
@@ -91,22 +100,23 @@ and it looks like this:
 
 While neither one of these are true, it is true that everyone is much
 closer to the first state than the second. The problem with separating
-out this duality is that the two abstract states all to easily become
-concretized (transposed?! something?) in individuals, creating a
-culture of 10x developers and, well, everyone else.
+out this duality is that the two abstract states all too easily become
+concretized as individuals, creating a culture of 10x developers and,
+well, everyone else.
 
 In my personal experience I have felt a strong feeling of teamwork and
 commeraderie when I'm working with people who all humbly admit they
-don't know what they're doing. There is the sense that we don't have
-all the answers, but we will nonetheless figure it out together. It
-promotes a culture of learning, of strong teamwork and kinship. When
-everyone makes themselves vulnerable in this way magical things can
-happen. The problem is that it only takes one person to fuck all that
-up. .... This is commonly what we call "leadership", and while I don't
-want to suggest that leadership and teamwork are
+don't *really* know what they're doing. There is the sense that we
+don't have all the answers, but we will nonetheless figure it out
+together. It promotes a culture of learning, of strong teamwork and
+kinship. When everyone makes themselves vulnerable in this way great
+things can happen. The problem is that it only takes one person to
+fuck all that up. .... This is commonly what we call "leadership", and
+while I don't want to suggest that leadership and teamwork are
 antagonistic/orthogonal to each other, I do want to suggest that a
-certain style of leadership is toxic to it, the kind that is concerned
-mainly with exerting rightness (and therefore power) downwards.
+certain style of leadership is harmful to it, the kind that is
+concerned mainly with exerting rightness (and therefore power)
+downwards.
 
 ....
 
