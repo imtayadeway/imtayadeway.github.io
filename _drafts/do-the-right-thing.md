@@ -112,7 +112,7 @@ else. In reality, I believe that *everyone* is much closer to the
 second state than the first. All of us.
 
 In my personal experience I have felt a strong feeling of teamwork and
-commeraderie when I'm working with people who all humbly admit they
+camaraderie when I'm working with people who all humbly admit they
 don't *really* know what they're doing. Note the qualification there -
 nobody is saying they are incompetent, just that there are distinct
 limits to their knowledge and understanding. There is the sense that
