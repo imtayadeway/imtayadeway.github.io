@@ -6,7 +6,7 @@ title: "Do the Right Thing"
 Some years ago when I was living in an Ashram in rural Virginia, I met
 a wise, old man. I knew he was a wise, old man because he embodied
 certain stereotypes about wise old men. First, he was a Gray-Bearded
-Yogi. Before this he was a New York Jew and a practicing Freudian
+Yogi. Before this he was a New Yorker and a practicing Freudian
 Psychoanalyst. Sometimes he had would say a lot of interesting and
 funny things, and at other times he would smile and nod and say
 nothing at all. I can't remember if he ever stroked his beard.
