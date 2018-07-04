@@ -117,24 +117,26 @@ don't *really* know what they're doing. Note the qualification there -
 nobody is saying they are incompetent, just that there are distinct
 limits to their knowledge and understanding. There is the sense that
 we don't have all the answers, but we will nonetheless figure it out
-together. It promotes a culture of learning, of strong teamwork and
-kinship. When everyone makes themselves vulnerable in this way great
-things can happen. The problem is that it only takes one asshole to
-fuck all that up.
+together. It promotes a culture of learning and teamwork. When
+everyone makes themselves vulnerable in this way great things can
+happen. The problem is that it only takes one asshole to fuck all that
+up.
 
 When a team loses its collective vulnerability as one person starts to
 exert rightness (and therefore power) downwards onto it, all the
 positive effects I've listed above are lost. When rightness is
 rewarded people become competitive and sometimes downright
 hostile. Ultimately it rewards the loudest individuals who can make
-the most convincing semblance of rightness and stifles all other voices.
+the most convincing semblance of being right and stifles all other
+voices.
 
 This is commonly what we call "leadership", and while I don't want to
 suggest that leadership and teamwork are antagonistic to each other, I
 do want to suggest that a certain style of leadership, one concerned
 principally with correctness, is harmful to it. A good leader will
-make decisions (sometimes bold) to move forward in some direction,
-even if that turns out to be the wrong direction.
+make bold decisions, informed by their team, to move forward in some
+direction, even if sometimes that turns out to be the wrong
+direction. It's OK to acknowledge this and turn things around.
 
 ### On Productivity
 
@@ -143,7 +145,8 @@ on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
 of their refactoring efforts and continue to rework code into a more
 "right" state, often with no tangible benefit while risking breakages
-in the case of legacy code.
+in the case of legacy code. Believe it or not, reader, I have been
+known to cruise in this area at different points in my career.
 
 Style is another area that is particularly prone to pointless
 exertions of rightness. It is not unusual for developers to have a
@@ -158,8 +161,9 @@ competing styles), and the fact that teams and organizations
 eventually grow their own style guides (AirBnb, GitHub, thoughtbot,
 Seattle.rb) show that perhaps the only thing we can agree on is that a
 codebase be consistent. Where it lacks consistency there lie
-opportunities to rectify, but this is almost always a bad
-idea. Important historical details get obscured by trivial wankery.
+opportunities to rectify, but this is almost always a bad idea if done
+for its own sake. Important historical details get obscured by trivial
+wankery.
 
 Finally, being right stands in opposition to notions like agile and
 TDD. <more on this>
