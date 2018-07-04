@@ -88,11 +88,11 @@ some awareness of my rectifying behavior, even if I can't always
 anticipate it.
 
 None of this can happen in isolation, however, and it is most
-interesting when we examine cultures of rightness as groups of people.
-What I'm especially interested in right now is the fact that I don't
-believe I've ever seen such a high concentration of people who are
-utterly driven by the need to be right _all the time_ as in the tech
-industry.
+interesting when we examine the dynamics of rightness in groups of
+people.  What I'm especially interested in right now is the fact that
+I don't believe I've ever seen such a high concentration of people who
+are utterly driven by the need to be right _all the time_ as in the
+tech industry.
 
 Let's look at some of the different ways that being right has manifest
 itself negatively in the workplace.
@@ -100,15 +100,16 @@ itself negatively in the workplace.
 ### On Leadership and Teamwork
 
 There is a well-known meme about the experience of being a programmer
-and it looks like this:
+that looks like this:
 
 <img src="/assets/two-states.png" class="img-responsive" alt="The two states of every programmer">
 
-While neither one of these are true, it is true that *everyone* is
-much closer to the first state than the second. The problem with
-separating out this duality is that the two abstract states all too
-easily become concretized as individuals, creating a culture of 10x
-developers and, well, everyone else.
+While it is true that we have all felt this way, neither one of these
+are true in themselves. The two abstract states are not meant to
+represent individuals but a continuous part of us all. When we act
+like they do we end up with 10x developers and, well, everyone
+else. In reality, I believe that *everyone* is much closer to the
+second state than the first. All of us.
 
 In my personal experience I have felt a strong feeling of teamwork and
 commeraderie when I'm working with people who all humbly admit they
