@@ -43,18 +43,13 @@ the appearance of being right, and that the cost of maintaining it
 would be in missing opportunities for learning. I also saw that, while
 the rectification obsession was not a uniquely male problem, there
 seemed to be a general movement of rightness from that direction, and
-we would do well to examine that too. (It is very telling to me that
-the standard introduction to any mansplanation, _well, actually...._,
-is almost the ultimate expression of rectification. It is appropriate
-that we have identified this behavior as an expression of masculine
-insecurity as an exertion of power through rectifying. More innocent
-mansplanations - without contradicting a man may simply declare that
-he is right, believing his bloviation to be helpful to the person
-whose ignorance is assumed - still work in the same way.)
+we would do well to examine that too.
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
 "rightness" in the world.
+
+### A little bit about myself
 
 Allegedly I come from a long line of *know-it-alls*. Unsurprisingly,
 it's a behavior that passes down the male side of my family. Of
@@ -62,20 +57,23 @@ course, I don't really believe this is a genetic disposition, and it's
 easy to see how this might work.
 
 As a child I remember my family's praising me for being 'brainy'. They
-gave me positive feedback for being right and I learned to hide my
-ignorance of things so as never to appear wrong. As long as I appeared
-to be right all the time I felt like I was winning, but I was actually
-losing. I've spent most of my life missing answers to questions I
-didn't ask. I became lazy, unconsciously thinking that my smarts would
-allow me to coast through life.
+gave me constant positive feedback for being right. As long as I
+appeared to be right all the time I felt like I was winning, but I was
+actually losing. I learned to hide my ignorance of things so as never
+to appear wrong. I've spent most of my life missing answers to questions
+I didn't ask. I became lazy, unconsciously thinking that my smarts
+would allow me to coast through life.
 
 Once I was done with School, and with it a culture principally
 concerned with measuring and rewarding rightness, I had a hard time
-knowing how to fit in or do well. It would take years of
-adjustments before I felt any kind of success. Whenever something
-became hard, I'd try something new, and I was always disappointed to
-find that opportunities were not handed to me simply because I was
-'smart'.
+knowing how to fit in or do well. It would take years of adjustments
+before I felt any kind of success. Whenever something became hard, I'd
+try something new, and I was always disappointed to find that
+opportunities were not handed to me simply because I was 'smart'. I
+was devastated when I didn't get into the top colleges I applied to,
+would later drop out of a very good college, got by on minimum wage
+jobs when I was lucky enough to be employed, failed to understand why
+I didn't get any of the much better jobs I applied for.
 
 It came as a small comfort to learn that I was not alone - in fact it
 is well understood now that children who are praised for hard work
@@ -194,6 +192,16 @@ culture destygmatized of wrongness. I am very happy that we have just
 started doing this collectively as a team as part of our
 retrospectives - I would encourage everyone to do this.
 
-### Conclusion
+### On Mansplaining
+(It is very telling to me that
+the standard introduction to any mansplanation, _well, actually...._,
+is almost the ultimate expression of rectification. It is appropriate
+that we have identified this behavior as an expression of masculine
+insecurity as an exertion of power through rectifying. More innocent
+mansplanations - without contradicting a man may simply declare that
+he is right, believing his bloviation to be helpful to the person
+whose ignorance is assumed - still work in the same way.)
 
-...
+<p style="text-align:center;">&middot; &middot; &middot;</p>
+
+None of this is to suggest a feeling of superiority....
