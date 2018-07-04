@@ -7,9 +7,9 @@ Some years ago when I was living in an Ashram in rural Virginia, I met
 a wise, old man. I knew he was a wise, old man because he embodied
 certain stereotypes about wise old men. First, he was a Gray-Bearded
 Yogi. Before this he was a New Yorker and a practicing Freudian
-Psychoanalyst. Sometimes he had would say a lot of interesting and
-funny things, and at other times he would smile and nod and say
-nothing at all. I can't remember if he ever stroked his beard.
+Psychoanalyst. Sometimes he would say a lot of interesting and funny
+things, and at other times he would smile and nod and say nothing at
+all. I can't remember if he ever stroked his beard.
 
 One day he said to me, "Asoka," (the name under which I was going at
 the time). "Asoka," he said, "do you know what is the single driving
@@ -168,11 +168,6 @@ wankery.
 Finally, being right stands in opposition to notions like agile and
 TDD. <more on this>
 
-* creates hostile discussions (PRs, etc..)
-
-* Not to say that being right is wrong, just the desire to be right
-  that colors our judgement?
-
 ### On Culture
 
 As I've asserted above, none of us *really* knows what they are doing
@@ -198,6 +193,9 @@ culture destygmatized of wrongness. I am very happy that we have just
 started doing this collectively as a team as part of our
 retrospectives - I would encourage everyone to do this.
 
+* the language and the medium
+* creates hostile discussions (PRs, etc..)
+
 ### On Mansplaining
 (It is very telling to me that
 the standard introduction to any mansplanation, _well, actually...._,
@@ -211,3 +209,7 @@ whose ignorance is assumed - still work in the same way.)
 <p style="text-align:center;">&middot; &middot; &middot;</p>
 
 None of this is to suggest a feeling of superiority....
+
+* Not to say that being right is wrong, just the desire to be right
+  that colors our judgement?
+* Doing the right thing
