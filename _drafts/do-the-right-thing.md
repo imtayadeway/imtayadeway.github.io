@@ -75,10 +75,11 @@ would later drop out of a very good college, got by on minimum wage
 jobs when I was lucky enough to be employed, failed to understand why
 I didn't get any of the much better jobs I applied for.
 
-It came as a small comfort to learn that I was not alone - in fact it
-is well understood now that children who are praised for hard work
-will be more successful than those that are praised for correctness or
-cleverness.
+I stumbled upon a section in Richard Wiseman's _59 Seconds: Think a
+Little, Change a Lot_ that claimed that research has shown that
+children who are praised for hard work will be more successful than
+those that are praised for correctness or cleverness. It came as a
+small comfort to learn that I was not alone.
 
 I still don't fully grasp the extent to which these experiences have
 shaped my thinking and my behavior, but I have understood it well
