@@ -205,9 +205,9 @@ GitHub) is not well set up for managing feelings when providing close
 criticism of one's work. This can be exacerbated by an obsession with
 being right, especially when there are multiple contenders.
 
-I have been on teams where an obsession with being right, for the PR
-to be "perfect" in order to be merged, seems to be more of an
-indicator of the difficulty of getting changes merged
+I have been on teams where an obsession with being right, for the pull
+request or PR to be "perfect" in order to be merged, seems to be more
+of an indicator of the difficulty of getting changes merged
 subsequently. Ironically the reason for this seems to stem from the
 fact that the core codebase has a high maintainability cost in the
 first place - quite far from perfect. Having your work routinely
