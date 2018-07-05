@@ -3,6 +3,8 @@ layout: post
 title: "Do the Right Thing"
 ---
 
+# DO NOT MERGE THIS WITHOUT RUNNING WRITEGOOD
+
 Some years ago when I was living in an Ashram in rural Virginia, I met
 a wise, old man. I knew he was a wise, old man because he embodied
 certain stereotypes about wise old men. First, he was a Gray-Bearded
@@ -162,11 +164,15 @@ eventually grow their own style guides (AirBnb, GitHub, thoughtbot,
 Seattle.rb) show that perhaps the only thing we can agree on is that a
 codebase be consistent. Where it lacks consistency there lie
 opportunities to rectify, but this is almost always a bad idea if done
-for its own sake. Important historical details get obscured by trivial
-wankery.
+for its own sake.
 
-Finally, being right stands in opposition to notions like agile and
-TDD. <more on this>
+Finally, being right simply isn't agile. One of the core tenets of the
+Agile Manifesto that while there is value in following a plan,
+there is more value in responding to change. This seems to suggest
+that our plans, while useful, will inevitably be wrong in crucial
+ways. An obsession with rightness is bound to waste time - accepting
+that we will be wrong encourages us to get feedback early and iterate
+to build the right thing in the shortest time.
 
 ### On Culture
 
