@@ -199,18 +199,43 @@ culture destygmatized of wrongness. I am very happy that we have just
 started doing this collectively as a team as part of our
 retrospectives - I would encourage everyone to do this.
 
-* the language and the medium
-* creates hostile discussions (PRs, etc..)
+One of the most harmful ways I've seen the rightness obsession play
+out is in code reviews. The very medium of the code review (typically
+GitHub) is not well set up for managing feelings when providing close
+criticism of one's work. This can be exacerbated by an obsession with
+being right, especially when there are multiple contenders.
+
+I have been on teams where an obsession with being right, for the PR
+to be "perfect" in order to be merged, seems to be more of an
+indicator of the difficulty of getting changes merged
+subsequently. Ironically the reason for this seems to stem from the
+fact that the core codebase has a high maintainability cost in the
+first place - quite far from perfect. Having your work routinely
+nitpicked can be a gruelling experience - worse so when multiple
+timezones are involved and discussions go back and forth over multiple
+days or even weeks. Personally, I've been much happier when the team's
+standard for merging is "good enough", encouraging iterative changes
+and follow up work for anything less crucial.
+
+It is hard to overstate the importance of language when looking at
+these interactions. There has been much talk recently about the use of
+the word "just" (as in "just do it this way") in code review, and I am
+glad that this is undergoing scrutiny. It seems to suggest that not
+only is the recipient wrong, but deeply misguided - the "right" way is
+really quite simple. This serves to exert power in a humiliating way,
+one that diminishes our effort and intellect along the way, and we
+would do good to be extremely wary of this insidious word.
 
 ### On Mansplaining
-(It is very telling to me that
-the standard introduction to any mansplanation, _well, actually...._,
-is almost the ultimate expression of rectification. It is appropriate
-that we have identified this behavior as an expression of masculine
-insecurity as an exertion of power through rectifying. More innocent
-mansplanations - without contradicting a man may simply declare that
-he is right, believing his bloviation to be helpful to the person
-whose ignorance is assumed - still work in the same way.)
+
+It is very telling to me that the standard introduction to any
+mansplanation, _well, actually...._, is almost the ultimate expression
+of rectification. It is appropriate that we have identified this
+behavior as an expression of masculine insecurity as an exertion of
+power through rectifying. More innocent mansplanations - without
+contradicting a man may simply declare that he is right, believing his
+bloviation to be helpful to the person whose ignorance is assumed -
+still work in the same way.
 
 <p style="text-align:center;">&middot; &middot; &middot;</p>
 
