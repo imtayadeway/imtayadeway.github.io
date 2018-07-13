@@ -11,6 +11,7 @@ title: Archive
 - The Road Less Traveled, by M. Scott Peck
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
+- [Sabrina][sabrina], by Nick Drnaso
 
 ### 2018
 
@@ -26,6 +27,7 @@ title: Archive
 [caca dolce]: https://softskull.com/dd-product/caca-dolce/
 [getting clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [picture perfect lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
+[sabrina]: https://www.drawnandquarterly.com/sabrina
 [the amateur's mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [the pragmatic programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [the sarah book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
