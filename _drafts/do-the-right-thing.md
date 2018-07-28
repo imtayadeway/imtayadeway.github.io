@@ -3,8 +3,6 @@ layout: post
 title: "Do the Right Thing"
 ---
 
-# DO NOT MERGE THIS WITHOUT RUNNING WRITEGOOD
-
 Some years ago when I was living in an Ashram in rural Virginia, I met
 a wise, old man. I knew he was a wise, old man because he embodied
 certain stereotypes about wise old men. First, he was a Gray-Bearded
@@ -149,18 +147,18 @@ A preoccupation with being right can have a directly negative effect
 on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
 of their refactoring efforts and continue to rework code into a more
-"right" state, often with no tangible benefit while risking breakages
-in the case of legacy code. Believe it or not, reader, I have been
-known to cruise in this area at different points in my career.
+"right" state, often with no tangible benefit while risking
+breakages. Believe it or not, reader, I have been known to cruise in
+this area at different points in my career.
 
 Style is another area that is particularly prone to pointless
 exertions of rightness. It is not unusual for developers to have a
 preference for a certain style in whatever language they are using.
 It is interesting that while opposing styles can seem utterly wrong to
 the developer it seems that this is the area of software development
-in which there are the fewest agreements over what is considered good
-or "right". In Ruby there have been attempts to unify divergent
-opinion in the Ruby Style Guide but it has been known to go back and
+in which there are the fewest agreements over what we consider to be
+good or "right". In Ruby there have been attempts to unify divergent
+opinion in the [Ruby Style Guide][] but it has been known to go back and
 forth on some of its specifics (or merely to state that there are
 competing styles), and the fact that teams and organizations
 eventually grow their own style guides (AirBnb, GitHub, thoughtbot,
@@ -170,16 +168,16 @@ opportunities to rectify, but this is almost always a bad idea if done
 for its own sake.
 
 Finally, being right simply isn't agile. One of the core tenets of the
-Agile Manifesto that while there is value in following a plan,
+Agile Manifesto is that while there is value in following a plan,
 there is more value in responding to change. This seems to suggest
 that our plans, while useful, will inevitably be wrong in crucial
-ways. An obsession with rightness is bound to waste time - accepting
-that we will be wrong encourages us to get feedback early and iterate
-to build the right thing in the shortest time.
+ways. An obsession with rightness will inevitably waste time -
+accepting that we will be wrong encourages us to get feedback early on
+and iterate to build the right thing in the shortest time.
 
 ### On Culture
 
-As I've asserted above, none of us *really* knows what they are doing
+As I've asserted above, none of us *really* knows what we are doing
 (for different values of "really"), and indeed this sentiment has been
 commonly expressed even among some of the most experienced and
 celebrated engineers. I think that there is both humor and truth in
@@ -191,34 +189,34 @@ still do [something stupid/dumb] - what an idiot! This doesn't
 reassure me at all. All I think is, wow, if you have such a negative
 opinion of yourself, I can't imagine what you'd think of me.
 
-What can we do instead? Perhaps instead of fostering a culture of
-self-chastisement we can instead celebrate our wrongness. We know that
-failure can sometimes come at great cost for others, but it's almost
-always because of the systems we have in place that are
-flawed. Personal failure really is a cause for celebration because it
-is also a learning, and celebrating creates an opportunity to share
-that learning with others while simultaneously promoting a learning
-culture destygmatized of wrongness. I am very happy that we have just
-started doing this collectively as a team as part of our
+Perhaps instead of fostering a culture of self-chastisement we can
+instead celebrate our wrongness. We know that failure can sometimes
+come at great cost for others, but it's almost always because of flaws
+in the systems we have in place. Personal failure really is a cause
+for celebration because it is also a learning, and celebrating creates
+an opportunity to share that learning with others while simultaneously
+destigmatizing its discovery. I am happy that at Heroku we have
+recently formalized this process as part of our weekly
 retrospectives - I would encourage everyone to do this.
 
 One of the most harmful ways I've seen the rightness obsession play
 out is in code reviews. The very medium of the code review (typically
 GitHub) is not well set up for managing feelings when providing close
-criticism of one's work. This can be exacerbated by an obsession with
-being right, especially when there are multiple contenders.
+criticism of one's work. We can exacerbate this with an obsession with
+being right, especially when there are multiple contenders in the
+conversation.
 
-I have been on teams where an obsession with being right, for the pull
-request or PR to be "perfect" in order to be merged, seems to be more
-of an indicator of the difficulty of getting changes merged
-subsequently. Ironically the reason for this seems to stem from the
-fact that the core codebase has a high maintainability cost in the
-first place - quite far from perfect. Having your work routinely
-nitpicked can be a gruelling experience - worse so when multiple
-timezones are involved and discussions go back and forth over multiple
-days or even weeks. Personally, I've been much happier when the team's
-standard for merging is "good enough", encouraging iterative changes
-and follow up work for anything less crucial.
+I have been on teams where the rightness obsession extends into code
+review to the point where, in order for one to get one's code merged,
+a reviewer has to deem it "perfect". Ironically, this seems less an
+indicator of high code quality in the codebase and more of the
+difficulty of ever making changes to the code subsequently.  Having
+your work routinely nitpicked can be a gruelling experience - worse so
+when they take place in multiple timezones and discussions go back and
+forth over multiple days or even weeks. Personally, I've been much
+happier when the team's standard for merging is "good enough",
+encouraging iterative changes and follow up work for anything less
+crucial.
 
 It is hard to overstate the importance of language when looking at
 these interactions. There has been much talk recently about the use of
@@ -227,23 +225,42 @@ glad that this is undergoing scrutiny. It seems to suggest that not
 only is the recipient wrong, but deeply misguided - the "right" way is
 really quite simple. This serves to exert power in a humiliating way,
 one that diminishes our effort and intellect along the way, and we
-would do good to be extremely wary of this insidious word.
+would do good to be wary of its use. Of course, there are countless
+more ways that we can do harm through poorly chosen words, but I am
+glad that we have started to examine this.
 
 ### On Mansplaining
 
-It is very telling to me that the standard introduction to any
+It is telling to me that the standard introduction to any
 mansplanation, _well, actually...._, is almost the ultimate expression
 of rectification. It is appropriate that we have identified this
-behavior as an expression of masculine insecurity as an exertion of
-power through rectifying. More innocent mansplanations - without
-contradicting a man may simply declare that he is right, believing his
-bloviation to be helpful to the person whose ignorance is assumed -
-still work in the same way.
+behavior as an expression of masculine insecurity - the man uses sheer
+volume and insistence to counter a position he poorly
+understands. More innocent mansplanations still work in the same way -
+without contradicting a man may simply offer some explanation (I am
+right!), believing this to be helpful to the person whose ignorance he
+has assumed.
+
+I am aware that there could be some irony in trying to frame the whole
+of this phenomenon in terms of my manifesto, but it is not my
+intention to do so. It is rather that mansplaining reveals a great
+deal about the harm done and intentions behind rectifying behavior.
 
 <p style="text-align:center;">&middot; &middot; &middot;</p>
 
-None of this is to suggest a feeling of superiority....
+None of this is to suggest a feeling of superiority - just about every
+harmful behavior I have described above I have engaged in at some
+point or other. I know I will continue to do so, too. But I want this
+to be better, and I want to work with people who are also committed to
+these goals.
 
-* Not to say that being right is wrong, just the desire to be right
-  that colors our judgement?
-* Doing the right thing
+None of this is to say that *being* right is *wrong*, or to celebrate
+incompetence or reckless behavior. Rather, it is the *desire* to be
+right that colors our judgment, that leads us on the wrong path. It
+is a strange paradox.
+
+Ultimately, being right is not the same thing as doing the right
+thing, and I want to focus more of my efforts now on the latter, and
+to stop rewarding myself for the former.
+
+[Ruby Style Guide]: https://github.com/rubocop-hq/ruby-style-guide
