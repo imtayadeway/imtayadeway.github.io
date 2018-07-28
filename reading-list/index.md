@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: Reading List
 ---
 
 ### Currently Reading
