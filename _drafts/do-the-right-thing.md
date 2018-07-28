@@ -28,24 +28,25 @@ blew me away. I wasn't prepared. I had never framed human nature in
 those terms before.
 
 I wouldn't expect anyone else to have the same reaction. I suspect
-others would find this to be either obvious, banal, or plainly wrong
-to them, and if this is you, I don't intend to try to convince you
-otherwise (there might be a certain irony in doing so). What I want to
-do instead is to document what became for me a personal manifesto, and
-a lens through which I began to look at the world. As a lens, you are
+others would find this to be either obvious, banal, or plainly wrong,
+and if this is you, I don't intend to try to convince you otherwise
+(there might be a certain irony in doing so). What I want to do
+instead is to document what became for me a personal manifesto, and a
+lens through which I began to look at the world. As a lens, you are
 free to pick it up, take a look through it, and ultimately discard it
 if you wish. But I rather like it a lot.
 
 What happened that day was really only the start of a long
-process. Eventually I saw that a preoccupation with being right was
-essentially an expression of power and that asserting rightness (what
-I will sometimes call "rectifying") was about exerting power over
-others. I also saw that this preoccupation had perhaps more to do with
-the appearance of being right, and that the cost of maintaining it
-would be in missing opportunities for learning. I also saw that, while
-the rectification obsession was not a uniquely male problem, there
-seemed to be a general movement of rightness from that direction, and
-we would do well to examine that too.
+process. Eventually I would see that a preoccupation with being right
+was essentially an expression of power and that asserting rightness
+(what I will sometimes call "rectifying") was about exerting power
+over others. I would also see that this preoccupation had perhaps more
+to do with the appearance of being right, and that the cost of
+maintaining it would be in missing opportunities for learning. And I
+would also see that, while the rectification obsession was not a
+uniquely male problem, there seemed to be a general movement of
+rightness from that direction, and we would do well to examine that
+too.
 
 I was the principle subject of my examination, and it has become a
 goal to continue to examine and dismantle the ways in which I assert
@@ -66,22 +67,22 @@ to appear wrong. I've spent most of my life missing answers to questions
 I didn't ask. I became lazy, unconsciously thinking that my smarts
 would allow me to coast through life.
 
-Once I was done with School, and with it a culture principally
-concerned with measuring and rewarding rightness, I had a hard time
-knowing how to fit in or do well. It would take years of adjustments
-before I felt any kind of success. Whenever something became hard, I'd
-try something new, and I was always disappointed to find that
-opportunities were not handed to me simply because I was 'smart'. I
-was devastated when I didn't get into the top colleges I applied to,
-would later drop out of a very good college, got by on minimum wage
-jobs when I was lucky enough to be employed, failed to understand why
-I didn't get any of the much better jobs I applied for.
+Once I left School, and with it a culture principally concerned with
+measuring and rewarding rightness, I had a hard time knowing how to
+fit in or do well. It would take years of adjustments before I felt
+any kind of success. Whenever something became hard, I'd try something
+new, and I was always disappointed to find that opportunities were not
+handed to me simply because I was 'smart'. When I didn't get into the
+top colleges I applied to it devastated me, and would later drop out
+of a perfectly good college, got by on minimum wage jobs when I was
+lucky enough to even have one, failed to understand why I didn't get
+any of the much better jobs I applied for.
 
 I stumbled upon a section in Richard Wiseman's _59 Seconds: Think a
-Little, Change a Lot_ that claimed that research has shown that
-children who are praised for hard work will be more successful than
-those that are praised for correctness or cleverness. It came as a
-small comfort to learn that I was not alone.
+Little, Change a Lot_ that claimed that children who are praised for
+hard work will be more successful than those that are praised for
+correctness or cleverness (there is some research that supports
+this). It came as a small comfort to learn that I was not alone.
 
 I still don't fully grasp the extent to which these experiences have
 shaped my thinking and my behavior, but I have understood it well
@@ -101,17 +102,20 @@ itself negatively in the workplace.
 
 ### On Leadership and Teamwork
 
-There is a well-known meme about the experience of being a programmer
-that looks like this:
+There is a well-known meme about the experience of being a programmer,
+and it looks like this:
 
 <img src="/assets/two-states.png" class="img-responsive" alt="The two states of every programmer">
 
-While it is true that we have all felt this way, neither one of these
-are true in themselves. The two abstract states are not meant to
-represent individuals but a continuous part of us all. When we act
-like they do we end up with 10x developers and, well, everyone
-else. In reality, I believe that *everyone* is much closer to the
-second state than the first. All of us.
+There is some truth to this illustration of the polarization of
+feelings felt through coding. However, it is plainly false to think
+that we are every truly one or the other. The two abstract states
+represent a continuous and exaggerated part of us all. Having said
+that, I believe that *everyone* is much closer to the second state
+than the first. All of us. It is all too tempting for us to think that
+these states can become concretized in individuals, and when we do
+this we end up with a culture dominated by rock stars, 10x developers
+and, well, everyone else.
 
 In my personal experience I have felt a strong feeling of teamwork and
 camaraderie when I'm working with people who all humbly admit they
@@ -125,12 +129,11 @@ happen. The problem is that it only takes one asshole to fuck all that
 up.
 
 When a team loses its collective vulnerability as one person starts to
-exert rightness (and therefore power) downwards onto it, all the
-positive effects I've listed above are lost. When rightness is
-rewarded people become competitive and sometimes downright
-hostile. Ultimately it rewards the loudest individuals who can make
-the most convincing semblance of being right and stifles all other
-voices.
+exert rightness (and therefore power) downwards onto it, we lose all
+the positive effects I've listed above. When we reward rightness
+people become competitive and sometimes downright hostile. Ultimately
+it rewards the loudest individuals who can make the most convincing
+semblance of being right and stifles all other voices.
 
 This is commonly what we call "leadership", and while I don't want to
 suggest that leadership and teamwork are antagonistic to each other, I
