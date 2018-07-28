@@ -107,7 +107,7 @@ and it looks like this:
 
 There is some truth to this illustration of the polarization of
 feelings felt through coding. However, it is plainly false to think
-that we are every truly one or the other. The two abstract states
+that we are ever truly one or the other. The two abstract states
 represent a continuous and exaggerated part of us all. Having said
 that, I believe that *everyone* is much closer to the second state
 than the first. All of us. It is all too tempting for us to think that
@@ -246,7 +246,7 @@ of this phenomenon in terms of my manifesto, but it is not my
 intention to do so. It is rather that mansplaining reveals a great
 deal about the harm done and intentions behind rectifying behavior.
 
-<p style="text-align:center;">&middot; &middot; &middot;</p>
+### Doing the Right Thing
 
 None of this is to suggest a feeling of superiority - just about every
 harmful behavior I have described above I have engaged in at some
