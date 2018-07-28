@@ -1,0 +1,19 @@
+---
+layout: default
+title: Film
+---
+
+### 2018
+
+- Les Enfants du Paradis (1945)
+- The World of Apu (1959)
+- Aparajito (1956)
+- Pather Panchali (1955)
+- Marie Antoinette (2006)
+- The Third Man (1949)
+- Sweet Smell of Success (1957)
+- The Searchers (1956)
+- Singin' in the Rain (1952)
+- The Seven Samurai (1954)
+- La Regle du Jeu (1939)
+- Leviathan (2017)
