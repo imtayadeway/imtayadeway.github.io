@@ -9,12 +9,12 @@ title: Reading List
 - [The Amateur's Mind][the amateur's mind], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
-- The Road Less Traveled, by M. Scott Peck
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2018
 
+- The Road Less Traveled, by M. Scott Peck
 - [Sabrina][sabrina], by Nick Drnaso
 - [Caca Dolce][caca dolce], by Chelsea Martin
 - [Picture Perfect Lighting][picture perfect lighting], by Roberto Valenzuela
