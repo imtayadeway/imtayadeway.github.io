@@ -151,32 +151,32 @@ on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
 of their refactoring efforts and continues to rework code into a more
 "right" state, often with no tangible benefit while risking
-breakages. Believe it or not, reader, I have been known to cruise in
-this area at different points in my career.
+breakages at every step.
 
 Style is another area that is particularly prone to pointless
-exertions of rightness. It is not unusual for developers to have a
-preference for a certain style in whatever language they are using.
-It is interesting that while opposing styles can seem utterly wrong to
-the developer it seems that this is the area of software development
-in which there are the fewest agreements over what we consider to be
-good or "right". In Ruby there have been attempts to unify divergent
-opinion in the [Ruby Style Guide][] but it has been known to go back and
-forth on some of its specifics (or merely to state that there are
-competing styles), and the fact that teams and organizations
-eventually grow their own style guides (AirBnb, GitHub, thoughtbot,
-Seattle.rb) show that perhaps the only thing we can agree on is that a
-codebase be consistent. Where it lacks consistency there lie
-opportunities to rectify, but this is almost always a bad idea if done
-for its own sake.
+rectification. It is not unusual for developers to have a preference
+for a certain style in whatever language they are using.  It is
+interesting that while opposing styles can seem utterly "wrong" to the
+developer it seems that this is the area of software development in
+which there are the fewest agreements over what we consider to be good
+or "right". In Ruby there have been attempts to unify divergent
+opinion in the [Ruby Style Guide][] but it has been known to go back
+and forth on some of its specifics (or merely to state that there are
+competing styles), and the fact that teams and communities eventually
+grow their own style guides (AirBnb, GitHub, thoughtbot, Seattle.rb)
+shows that perhaps the only thing we can agree on is that a codebase
+be consistent. Where it lacks consistency there lie opportunities to
+rectify, but this is almost always a bad idea if done for its own
+sake.
 
 Finally, being right simply isn't agile. One of the core tenets of the
 Agile Manifesto is that while there is value in following a plan,
 there is more value in responding to change. This seems to suggest
 that our plans, while useful, will inevitably be wrong in crucial
 ways. An obsession with rightness will inevitably waste time -
-accepting that we will be wrong encourages us to get feedback early on
-and iterate to build the right thing in the shortest time.
+accepting that we will be wrong encourages us to move quickly, get
+feedback early on and iterate to build the right thing in the shortest
+time.
 
 ### On Culture
 
