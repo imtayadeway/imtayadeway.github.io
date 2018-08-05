@@ -141,8 +141,8 @@ suggest that leadership and teamwork are antagonistic to each other, I
 do want to suggest that a certain style of leadership, one concerned
 principally with correctness, is harmful to it. A good leader will
 make bold decisions, informed by their team, to move forward in some
-direction, even if sometimes that turns out to be the wrong
-direction. It's OK to acknowledge this and turn things around.
+direction, even if sometimes that turns out to be the wrong one. It's
+OK to acknowledge this and turn things around.
 
 ### On Productivity
 
