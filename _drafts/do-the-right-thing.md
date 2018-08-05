@@ -110,7 +110,7 @@ and it looks like this:
 
 There is some truth to this illustration of the polarization of
 feelings felt through coding. However, it is all too common for
-individuals to wholly identify with one or the other. One the one side
+individuals to wholly identify with one or the other. On the one side
 we have our rock stars, our 10x developers and brogrammers. On the
 other we have people dogged by imposter syndrome.  The two abstract
 states represent a continuous and exaggerated part of us all. Having
