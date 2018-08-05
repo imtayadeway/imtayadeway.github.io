@@ -112,10 +112,10 @@ There is some truth to this illustration of the polarization of
 feelings felt through coding. However, it is all too common for
 individuals to wholly identify with one or the other. On the one side
 we have our rock stars, our 10x developers and brogrammers. On the
-other we have people dogged by imposter syndrome.  The two abstract
-states represent a continuous and exaggerated part of us all. Having
-said that, I believe that *everyone* is in the middle, but much closer
-to the second state than the first. All of us.
+other we have people dogged by imposter syndrome.  In reality, the two
+abstract states represent a continuous and exaggerated part of us
+all. Having said that, I believe that *everyone* is in the middle, but
+much closer to the second state than the first. All of us.
 
 In my personal experience I have felt a strong feeling of teamwork and
 camaraderie when I'm working with people who all humbly admit they
