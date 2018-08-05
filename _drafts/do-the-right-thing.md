@@ -227,10 +227,9 @@ the word "just" (as in "just do it this way") in code review, and I am
 glad that this is undergoing scrutiny. It seems to suggest that not
 only is the recipient wrong, but deeply misguided - the "right" way is
 really quite simple. This serves to exert power in a humiliating way,
-one that diminishes our effort and intellect along the way, and we
-would do good to be wary of its use. Of course, there are countless
-more ways that we can do harm through poorly chosen words, but I am
-glad that we have started to examine this.
+one that minimizes our effort and intellect along the way. Of course,
+there are countless more ways that we can do harm through poorly
+chosen words, but I am glad that we have started to examine this.
 
 ### On Mansplaining
 
@@ -251,11 +250,23 @@ deal about the harm done and intentions behind rectifying behavior.
 
 ### Doing the Right Thing
 
-None of this is to suggest a feeling of superiority - just about every
-harmful behavior I have described above I have engaged in at some
-point or other. I know I will continue to do so, too. But I want this
-to be better, and I want to work with people who are also committed to
-these goals.
+Looking back now to the start of my journey, I'm left wondering if I
+should have trusted the wise, old man at all. After all, what was his
+observation about human behavior, more than some unsolicited advice
+from a person who exploited their maleness and seniority to add more
+weight to their pronouncements than perhaps they deserved? Is this all
+that wise, old men do? Almost certainly. At the same time, I think we
+both acknowledged the irony in our interaction, and accepted that
+there might be some humor and even truth in it. As it turned out, I
+did not wholly embrace it as truth (none of the above makes
+any claims to social science or psychology), but discovered,
+nonetheless, that there were rewards in entertaining it as an idea.
+
+I do not want suggest a feeling of smug superiority - just about every
+harmful behavior I have described above I have also engaged in at some
+point. I know I will continue to do so, too. But I want this to be
+better, and I want to work with people who are also committed to these
+goals.
 
 None of this is to say that *being* right is *wrong*, or to celebrate
 incompetence or reckless behavior. Rather, it is the *desire* to be
@@ -263,7 +274,7 @@ right that colors our judgment, that leads us on the wrong path. It
 is a strange paradox.
 
 Ultimately, being right is not the same thing as doing the right
-thing, and I want to focus more of my efforts now on the latter, and
-to stop rewarding myself for the former.
+thing, and I want to focus my efforts now on the latter, and be less
+concerned with the former.
 
 [Ruby Style Guide]: https://github.com/rubocop-hq/ruby-style-guide
