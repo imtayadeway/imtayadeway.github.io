@@ -117,12 +117,12 @@ abstract states represent a continuous and exaggerated part of us
 all. Having said that, I believe that *everyone* is in the middle, but
 much closer to the second state than the first. All of us.
 
-In my personal experience I have felt a strong feeling of teamwork and
-camaraderie when I'm working with people who all humbly admit they
-don't *really* know what they're doing. Note the qualification there -
-nobody is saying they are incompetent, just that there are distinct
-limits to their knowledge and understanding. There is the sense that
-we don't have all the answers, but we will nonetheless figure it out
+In my personal experience I have felt a strong feeling of camaraderie
+when I'm working with people who all humbly admit they don't *really*
+know what they're doing. This qualification is important - nobody is
+saying they are truly incompetent, just that there are distinct limits
+to their knowledge and understanding. There is the sense that we don't
+have all the answers, but we will nonetheless figure it out
 together. It promotes a culture of learning and teamwork. When
 everyone makes themselves vulnerable in this way great things can
 happen. The problem is that it only takes one asshole to fuck all that
