@@ -130,10 +130,11 @@ up.
 
 When a team loses its collective vulnerability as one person starts to
 exert rightness (and therefore power) downwards onto it, we lose all
-the positive effects I've listed above. When we reward rightness
-people become competitive and sometimes downright hostile. Ultimately
-it rewards the loudest individuals who can make the most convincing
-semblance of being right and stifles all other voices.
+the positive effects I've listed above. I've seen people become
+competitive and sometimes downright hostile under these
+conditions. Ultimately it rewards the loudest individuals who can make
+the most convincing semblance of being right to their peers and
+stifles all other voices.
 
 This is commonly what we call "leadership", and while I don't want to
 suggest that leadership and teamwork are antagonistic to each other, I
