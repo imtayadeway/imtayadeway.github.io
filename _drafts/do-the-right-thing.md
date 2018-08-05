@@ -186,40 +186,40 @@ commonly expressed even among some of the most experienced and
 celebrated engineers. I think that there is both humor and truth in
 this but, while I believe the sentiment is well-intentioned, words are
 important and can sometimes undermine what's being expressed
-here. I've seen people I admire and look up to utter something of the
-form, look, I wrote [some technology you've probably heard of], and I
-still do [something stupid/dumb] - what an idiot! This doesn't
-reassure me at all. All I think is, wow, if you have such a negative
-opinion of yourself, I can't imagine what you'd think of me.
+here. I've seen people I look up to utter something of the form, look,
+I wrote [some technology you've probably heard of], and I still do
+[something stupid/dumb] - what an idiot! This doesn't reassure me at
+all. All I think is, wow, if you have such a negative opinion of
+yourself, I can't imagine what you'd think of me.
 
 Perhaps instead of fostering a culture of self-chastisement we can
-instead celebrate our wrongness. We know that failure can sometimes
-come at great cost for others, but it's almost always because of flaws
-in the systems we have in place. Personal failure really is a cause
-for celebration because it is also a learning, and celebrating creates
-an opportunity to share that learning with others while simultaneously
-destigmatizing its discovery. I am happy that at Heroku we have
-recently formalized this process as part of our weekly
+celebrate our wrongness. We know that failure can sometimes come at
+great cost, but it's almost always because of flaws in the systems we
+have in place. A good system will tolerate certain mistakes well, and
+simply not let us make other kinds of mistakes. A mistake really is a
+cause for celebration because it is also a learning, and celebrating
+creates an opportunity to share that learning with others while
+simultaneously destigmatizing its discovery. I am happy that my team
+has recently formalized this process as part of our weekly
 retrospectives - I would encourage everyone to do this.
 
-One of the most harmful ways I've seen the rightness obsession play
-out is in code reviews. The very medium of the code review (typically
-GitHub) is not well set up for managing feelings when providing close
-criticism of one's work. We can exacerbate this with an obsession with
-being right, especially when there are multiple contenders in the
-conversation.
+One of the most harmful ways I've seen the rectification obsession
+play out is in code reviews. The very medium of the code review
+(typically GitHub) is not well set up for managing feelings when
+providing close criticism of one's work. We can exacerbate this with
+an obsession with being right, especially when there are multiple
+contenders in the conversation.
 
-I have been on teams where the rightness obsession extends into code
-review to the point where, in order for one to get one's code merged,
-a reviewer has to deem it "perfect". Ironically, this seems less an
-indicator of high code quality in the codebase and more of the
-difficulty of ever making changes to the code subsequently.  Having
-your work routinely nitpicked can be a gruelling experience - worse so
-when they take place in multiple timezones and discussions go back and
-forth over multiple days or even weeks. Personally, I've been much
-happier when the team's standard for merging is "good enough",
-encouraging iterative changes and follow up work for anything less
-crucial.
+I have been on teams where this obsession extends into code review to
+the point where, in order for one to get one's code merged, a reviewer
+has to deem it "perfect". Ironically, this seems less an indicator of
+high code quality in the codebase and more of the difficulty of ever
+making changes to the code subsequently.  Having your work routinely
+nitpicked can be a gruelling experience - worse so when review take
+place in multiple timezones and discussions go back and forth over
+multiple days or even weeks. Personally, I've been much happier when
+the team's standard for merging is "good enough", encouraging
+iterative changes and follow up work for anything less crucial.
 
 It is hard to overstate the importance of language when looking at
 these interactions. There has been much talk recently about the use of
