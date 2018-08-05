@@ -80,20 +80,23 @@ I stumbled upon a section in Richard Wiseman's _59 Seconds: Think a
 Little, Change a Lot_ that claimed that children who are praised for
 hard work will be more successful than those that are praised for
 correctness or cleverness (there is some research that supports
-this). It came as a small comfort to learn that I was not alone.
+this). It came as a small comfort to learn that I was not alone. More
+importantly, it planted in me a seed whose growth I continue to
+nurture today.
 
-I still don't fully grasp the extent to which these experiences have
-shaped my thinking and my behavior, but I have understood it well
+I still don't fully grasp the extent to which these early experiences
+have shaped my thinking and my behavior, but I have understood it well
 enough to have turned things around somewhat, applied myself, and have
 some awareness of my rectifying behavior, even if I can't always
 anticipate it.
 
-None of this can happen in isolation, however, and it is most
-interesting when we examine the dynamics of rightness in groups of
-people.  What I'm especially interested in right now is the fact that
-I don't believe I've ever seen such a high concentration of people who
-are utterly driven by the need to be right _all the time_ as in the
-tech industry.
+It is one thing to intervene in your own actions toward others, to
+limit your own harmful behavior. It is quite another when dealing with
+the dynamics of a group of people all competing for rightness.  What
+I'm especially interested in currently is the fact that I don't
+believe I've ever seen such a high concentration of people who are
+utterly driven by the need to be right _all the time_ as in the tech
+industry.
 
 Let's look at some of the different ways that being right has manifest
 itself negatively in the workplace.
