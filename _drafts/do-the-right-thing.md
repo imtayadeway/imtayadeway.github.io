@@ -255,12 +255,10 @@ should have trusted the wise, old man at all. After all, what was his
 observation about human behavior, more than some unsolicited advice
 from a person who exploited their maleness and seniority to add more
 weight to their pronouncements than perhaps they deserved? Is this all
-that wise, old men do? Almost certainly. At the same time, I think we
-both acknowledged the irony in our interaction, and accepted that
-there might be some humor and even truth in it. As it turned out, I
-did not wholly embrace it as truth (none of the above makes
-any claims to social science or psychology), but discovered,
-nonetheless, that there were rewards in entertaining it as an idea.
+that wise, old men do? Almost certainly. As it turned out, I did not
+wholly embrace it as truth (none of the above makes any claims to
+social science or psychology), but discovered, nonetheless, that there
+were rewards in entertaining it as an idea.
 
 I do not want suggest a feeling of smug superiority - just about every
 harmful behavior I have described above I have also engaged in at some
@@ -268,13 +266,11 @@ point. I know I will continue to do so, too. But I want this to be
 better, and I want to work with people who are also committed to these
 goals.
 
-None of this is to say that *being* right is *wrong*, or to celebrate
-incompetence or reckless behavior. Rather, it is the *desire* to be
-right that colors our judgment, that leads us on the wrong path. It
-is a strange paradox.
-
-Ultimately, being right is not the same thing as doing the right
-thing, and I want to focus my efforts now on the latter, and be less
-concerned with the former.
+None of this is to say that there is something *wrong* with *being
+right*. Rather, it is the *desire* to be right that colors our
+judgment, that leads us on the wrong path. Being right is also not the
+same thing as *doing the right thing*. And I want to focus my efforts
+now on this, while trying to free myself from the tyranny of being
+right.
 
 [Ruby Style Guide]: https://github.com/rubocop-hq/ruby-style-guide
