@@ -5,7 +5,7 @@ title: "Do the Right Thing"
 
 Some years ago when I was living in an Ashram in rural Virginia, I met
 a wise, old man. I knew he was a wise, old man because he embodied
-certain stereotypes about wise old men. First, he was a Gray-Bearded
+certain stereotypes about wise, old men. First, he was a Gray-Bearded
 Yogi. Before this he was a New Yorker and a practicing Freudian
 Psychoanalyst. Sometimes he would say a lot of interesting and funny
 things, and at other times he would smile and nod and say nothing at
@@ -59,11 +59,11 @@ easy to see how this might work.
 
 As a child I remember my family's praising me for being 'brainy'. They
 gave me constant positive feedback for being right. As long as I
-appeared to be right all the time I felt like I was winning, but I was
-actually losing. I learned to hide my ignorance of things so as never
-to appear wrong. I've spent most of my life missing answers to questions
-I didn't ask. I became lazy, unconsciously thinking that my smarts
-would allow me to coast through life.
+appeared to be right all the time I felt like I was winning. In
+actuality, though, I was losing. I learned to hide my ignorance of
+things so as never to appear wrong. I've spent most of my life missing
+answers to questions I didn't ask. I became lazy, unconsciously
+thinking that my smarts would allow me to coast through life.
 
 Once I left School, and with it a culture principally concerned with
 measuring and rewarding rightness, I had a hard time knowing how to
@@ -146,7 +146,7 @@ direction. It's OK to acknowledge this and turn things around.
 A preoccupation with being right can have a directly negative effect
 on productivity. One obvious way is what I will call refactoring
 hypnosis - a state wherein the programmer forgets the original intent
-of their refactoring efforts and continue to rework code into a more
+of their refactoring efforts and continues to rework code into a more
 "right" state, often with no tangible benefit while risking
 breakages. Believe it or not, reader, I have been known to cruise in
 this area at different points in my career.
