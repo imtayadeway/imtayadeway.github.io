@@ -27,20 +27,20 @@ those terms before.
 
 I wouldn't expect anyone else to have the same reaction. I suspect
 others would find this to be either obvious, banal, or plainly wrong,
-and if this is you, I don't intend to try to convince you otherwise
-(there might be a certain irony in doing so). What I want to do
-instead is to document what became for me a personal manifesto, and a
+and if this is you, I don't intend to convince you otherwise (there
+might be a certain irony in trying to do so). What I want to do
+instead is document what became for me a personal manifesto, and a
 lens through which I began to look at the world. As a lens, you are
 free to pick it up, take a look through it, and ultimately discard it
 if you wish. But I rather like it a lot.
 
 What happened that day was really only the start of a long
 process. Eventually I would see that a preoccupation with being right
-was essentially an expression of power and that asserting rightness
-(what I will sometimes call "rectifying") was about exerting power
+was essentially an expression of power and that rectifying (from the
+Late Latin _rectificare_ - to "make right") was about exerting power
 over others. I would also see that this preoccupation had perhaps more
 to do with the appearance of being right, and that the cost of
-maintaining it would be in missing opportunities for learning. And I
+maintaining it would be in missed opportunities for learning. And I
 would also see that, while the rectification obsession was not a
 uniquely male problem, there seemed to be a general movement of
 rightness from that direction, and we would do well to examine that
@@ -71,10 +71,10 @@ fit in or do well. It would take years of adjustments before I felt
 any kind of success. Whenever something became hard, I'd try something
 new, and I was always disappointed to find that opportunities were not
 handed to me simply because I was 'smart'. When I didn't get into the
-top colleges I applied to it devastated me, and would later drop out
-of a perfectly good college, got by on minimum wage jobs when I was
-lucky enough to even have one, failed to understand why I didn't get
-any of the much better jobs I applied for.
+top colleges I applied to it devastated me. I would later drop out of
+a perfectly good college, get by on minimum wage jobs when I was lucky
+enough even to have one, fail to understand why I didn't get any of
+the much better jobs I applied for.
 
 I stumbled upon a section in Richard Wiseman's _59 Seconds: Think a
 Little, Change a Lot_ that claimed that children who are praised for
