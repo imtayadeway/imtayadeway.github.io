@@ -109,14 +109,13 @@ and it looks like this:
 <img src="/assets/two-states.png" class="img-responsive" alt="The two states of every programmer">
 
 There is some truth to this illustration of the polarization of
-feelings felt through coding. However, it is plainly false to think
-that we are ever truly one or the other. The two abstract states
-represent a continuous and exaggerated part of us all. Having said
-that, I believe that *everyone* is much closer to the second state
-than the first. All of us. It is all too tempting for us to think that
-these states can become concretized in individuals, and when we do
-this we end up with a culture dominated by rock stars, 10x developers
-and, well, everyone else.
+feelings felt through coding. However, it is all too common for
+individuals to wholly identify with one or the other. One the one side
+we have our rock stars, our 10x developers and brogrammers. On the
+other we have people dogged by imposter syndrome.  The two abstract
+states represent a continuous and exaggerated part of us all. Having
+said that, I believe that *everyone* is in the middle, but much closer
+to the second state than the first. All of us.
 
 In my personal experience I have felt a strong feeling of teamwork and
 camaraderie when I'm working with people who all humbly admit they
