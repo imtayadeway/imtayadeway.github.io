@@ -266,9 +266,9 @@ wise, old men do? Almost certainly.
 As it turned out, I did not wholly embrace it as truth (none of the
 above makes any claims to social science or psychology), but neither
 rejected it wholesale. I discovered that while it may not be literally
-true, I might arrive at smaller truths by entertaining it as an
-idea (the contradiction is probably what made me laugh). As such, I'm
-grateful that it was shared with me.
+true, I might arrive at smaller truths by entertaining it as an idea
+(the contradiction is probably what made me laugh). I'm grateful that
+it was shared with me.
 
 That there is nothing *wrong* with *being right*. Rather, it is the
 *desire* to be right that colors our judgment, that leads us on the
