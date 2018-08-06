@@ -250,14 +250,14 @@ deal about the harm done and intentions behind rectifying behavior.
 
 ### Doing the Right Thing
 
-I do not want suggest a feeling of smug superiority - just about every
+I do not want to suggest a feeling of smug superiority - just about every
 harmful behavior I have described above I have also engaged in at some
 point. I know I will continue to do so, too. But I want this to be
 better, and I want to work with people who are also committed to these
 goals.
 
-Looking back now to the start of my journey, I have to question now
-the intent of the wise, old man in his original assertion about human
+Looking back to the start of my journey, I have to question now the
+intent of the wise, old man in his original assertion about human
 behavior. Was this yet another example of some unsolicited advice from
 a person who exploited their maleness and seniority to add more weight
 to their pronouncements than perhaps they deserved? Is this all that
@@ -267,14 +267,13 @@ As it turned out, I did not wholly embrace it as truth (none of the
 above makes any claims to social science or psychology), but neither
 rejected it wholesale. I discovered that while it may not be literally
 true, I might arrive at smaller truths by entertaining it as an
-idea. This is contradiction was probably why it was also funny at the
-time.
+idea (the contradiction is probably what made me laugh). As such, I'm
+grateful that it was shared with me.
 
-This is to say that there is nothing *wrong* with *being
-right*. Rather, it is the *desire* to be right that colors our
-judgment, that leads us on the wrong path. Being right is also not the
-same thing as *doing the right thing*. And I want to focus my efforts
-now on this, while trying to free myself from the tyranny of being
-right.
+That there is nothing *wrong* with *being right*. Rather, it is the
+*desire* to be right that colors our judgment, that leads us on the
+wrong path. Being right is also not the same thing as *doing the right
+thing*. And I want to focus my efforts now on this, while trying to
+free myself from the tyranny of being right.
 
 [Ruby Style Guide]: https://github.com/rubocop-hq/ruby-style-guide
