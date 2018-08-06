@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Do the Right Thing"
+tags:
+- culture
 date: 2018-08-06 14:15:56
 ---
 
