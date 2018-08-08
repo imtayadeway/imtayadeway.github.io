@@ -14,6 +14,7 @@ title: Reading List
 
 ### 2018
 
+- [The Dangerous Journey: A Tale of Moomin Valley][], by Tove Jansson
 - The Road Less Traveled, by M. Scott Peck
 - [Sabrina][sabrina], by Nick Drnaso
 - [Caca Dolce][caca dolce], by Chelsea Martin
@@ -30,6 +31,7 @@ title: Reading List
 [picture perfect lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [sabrina]: https://www.drawnandquarterly.com/sabrina
 [the amateur's mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
+[The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
 [the pragmatic programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [the sarah book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
 [the tyranny of structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
