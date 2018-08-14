@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Finding Vivian Maier (2013)
 - Dark Money (2018)
 - To Be or Not to Be (1942)
 - Rashomon (1950)
