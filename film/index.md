@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Wordplay (2006)
 - Mission: Impossible - Fallout (2018)
 - Finding Vivian Maier (2013)
 - Dark Money (2018)
