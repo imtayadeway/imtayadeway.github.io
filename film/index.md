@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Sorry to Bother You (2018)
 - Sunrise: A Song of Two Humans (1927)
 - Wordplay (2006)
 - Mission: Impossible - Fallout (2018)
