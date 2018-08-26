@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- The Battle of Algiers (1966)
 - Sorry to Bother You (2018)
 - Sunrise: A Song of Two Humans (1927)
 - Wordplay (2006)
