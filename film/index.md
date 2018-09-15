@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Predator (1987)
 - BlacKkKlansman (2018)
 - The Battle of Algiers (1966)
 - Sorry to Bother You (2018)
