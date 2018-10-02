@@ -5,7 +5,6 @@ title: Reading List
 
 ### Currently Reading
 
-- Games People Play, by Eric Berne, M.D.
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - [The Amateur's Mind][], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
@@ -15,6 +14,7 @@ title: Reading List
 
 ### 2018
 
+- Games People Play, by Eric Berne, M.D.
 - [The Dangerous Journey: A Tale of Moomin Valley][], by Tove Jansson
 - The Road Less Traveled, by M. Scott Peck
 - [Sabrina][], by Nick Drnaso
