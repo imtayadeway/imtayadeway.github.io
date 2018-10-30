@@ -9,6 +9,7 @@ title: Reading List
 - [The Amateur's Mind][], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
+- Cat's Cradle, by Kurt Vonnegut
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
