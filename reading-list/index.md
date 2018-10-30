@@ -14,6 +14,7 @@ title: Reading List
 
 ### 2018
 
+- Picture Perfect Posing, by Roberto Valenzuela
 - Games People Play, by Eric Berne, M.D.
 - [The Dangerous Journey: A Tale of Moomin Valley][], by Tove Jansson
 - The Road Less Traveled, by M. Scott Peck
