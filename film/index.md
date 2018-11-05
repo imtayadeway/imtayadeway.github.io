@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Tristana (1970)
 - Alexander Nevsky (1938)
 - Belle de Jour (1967)
 - Predator (1987)
