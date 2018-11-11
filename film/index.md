@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Days of Being Wild (1990)
 - Tristana (1970)
 - Alexander Nevsky (1938)
 - Belle de Jour (1967)
