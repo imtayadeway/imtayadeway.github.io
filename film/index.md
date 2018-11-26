@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Finding Forrester (2000)
 - Days of Being Wild (1990)
 - Tristana (1970)
 - Alexander Nevsky (1938)
