@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Breaking the Waves (1996)
 - Finding Forrester (2000)
 - Days of Being Wild (1990)
 - Tristana (1970)
