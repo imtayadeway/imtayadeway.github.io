@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Arthur Christmas (2011)
 - Breaking the Waves (1996)
 - Finding Forrester (2000)
 - Days of Being Wild (1990)
