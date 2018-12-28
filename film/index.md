@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Frankenstein (1931)
 - Arthur Christmas (2011)
 - Breaking the Waves (1996)
 - Finding Forrester (2000)
