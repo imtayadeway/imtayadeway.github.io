@@ -14,6 +14,7 @@ title: Reading List
 
 ### 2018
 
+- [Bad][], by Chelsea Martin
 - Cat's Cradle, by Kurt Vonnegut
 - Impostor, by Philip K. Dick
 - Picture Perfect Posing, by Roberto Valenzuela
@@ -30,6 +31,7 @@ title: Reading List
 
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 
+[Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
