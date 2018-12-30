@@ -5,6 +5,7 @@ title: Film
 
 ### 2018
 
+- Weekend (1967)
 - Battleship Potemkin (1925)
 - Frankenstein (1931)
 - Arthur Christmas (2011)
