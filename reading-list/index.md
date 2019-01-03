@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- [What It Is][], by Lynda Barry
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - [The Amateur's Mind][], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
@@ -41,3 +42,4 @@ title: Reading List
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
 [The Tyranny of Structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
+[What It Is]: https://www.drawnandquarterly.com/what-it-is
