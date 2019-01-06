@@ -6,12 +6,18 @@ title: Reading List
 ### Currently Reading
 
 - [What It Is][], by Lynda Barry
+- Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - [The Amateur's Mind][], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
+
+### 2019
+
+- What Can I Be, by Ann Rand & Ingrid Fiksdahl King
+- [The Sound of Silence][], by Katrina Goldsaito & Julia Kuo
 
 ### 2018
 
@@ -41,5 +47,6 @@ title: Reading List
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
+[The Sound of Silence]: http://thesoundofsilence.org/
 [The Tyranny of Structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
 [What It Is]: https://www.drawnandquarterly.com/what-it-is
