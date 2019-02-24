@@ -5,6 +5,9 @@ title: Film
 
 ### 2019
 
+- 100 Vaginas (2019)
+- Fyre (2019)
+- Roma (2018)
 - RBG (2018)
 
 ### 2018
