@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- Free Solo (2018)
 - 100 Vaginas (2019)
 - Fyre (2019)
 - Roma (2018)
