@@ -16,6 +16,7 @@ title: Reading List
 
 ### 2019
 
+- [Photographers on Photography: How the Masters See, Think & Shoot][], by Henry Carroll
 - What Can I Be, by Ann Rand & Ingrid Fiksdahl King
 - [The Sound of Silence][], by Katrina Goldsaito & Julia Kuo
 
@@ -41,6 +42,7 @@ title: Reading List
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
+[Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
