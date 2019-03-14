@@ -5,6 +5,16 @@ title: Film
 
 ### 2019
 
+- One Small Step (2018)
+- Weekends (2018)
+- Sister (2018)
+- The Death, Dad & Son (2018)
+- My Dad (2014)
+- Late Afternoon (2018)
+- Conception: Catie + Jen (2018)
+- Tweet Tweet (2018)
+- Bao (2018)
+- Father and Daughter (2000)
 - Leaving Neverland (2019)
 - The Red Shoes (1948)
 - Clue (1985)
