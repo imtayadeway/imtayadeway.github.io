@@ -16,6 +16,7 @@ title: Reading List
 
 ### 2019
 
+- [SQL Performance Explained][], by Markus Winand
 - [Photographers on Photography: How the Masters See, Think & Shoot][], by Henry Carroll
 - What Can I Be, by Ann Rand & Ingrid Fiksdahl King
 - [The Sound of Silence][], by Katrina Goldsaito & Julia Kuo
@@ -45,6 +46,7 @@ title: Reading List
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
+[SQL Performance Explained]: https://sql-performance-explained.com/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
