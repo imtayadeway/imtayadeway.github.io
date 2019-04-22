@@ -5,6 +5,10 @@ title: Film
 
 ### 2019
 
+- If Beale Street Could Talk (2018)
+- Isle of Dogs (2018)
+- Moonlight (2016)
+- Three Identical Strangers (2018)
 - Tom Jones (1963)
 - One Small Step (2018)
 - Weekends (2018)
