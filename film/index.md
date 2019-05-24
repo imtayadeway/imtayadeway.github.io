@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- Paterson (2016)
 - If Beale Street Could Talk (2018)
 - Isle of Dogs (2018)
 - Moonlight (2016)
