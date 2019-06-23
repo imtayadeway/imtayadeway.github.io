@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- The Dead Don't Die (2019)
 - On the Waterfront (1954)
 - Paterson (2016)
 - If Beale Street Could Talk (2018)
