@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- The Grapes of Wrath (1940)
 - Saturday Night and Sunday Morning (1960)
 - Toy Story 4 (2019)
 - The Bill Murray Stories: Life Lessons Learned from a Mythical Man (2018)
