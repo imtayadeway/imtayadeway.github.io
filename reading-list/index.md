@@ -6,7 +6,6 @@ title: Reading List
 ### Currently Reading
 
 - Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Special Counsel Robert S. Mueller, III
-- [What It Is][], by Lynda Barry
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - [The Amateur's Mind][], by Jeremy Silman
@@ -17,6 +16,7 @@ title: Reading List
 
 ### 2019
 
+- [What It Is][], by Lynda Barry
 - [SQL Performance Explained][], by Markus Winand
 - [Photographers on Photography: How the Masters See, Think & Shoot][], by Henry Carroll
 - What Can I Be, by Ann Rand & Ingrid Fiksdahl King
