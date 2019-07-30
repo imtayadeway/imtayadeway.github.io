@@ -5,7 +5,6 @@ title: Reading List
 
 ### Currently Reading
 
-- Mickey, by Chelsea Martin
 - Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Special Counsel Robert S. Mueller, III
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
@@ -17,6 +16,7 @@ title: Reading List
 
 ### 2019
 
+- [Mickey][], by Chelsea Martin
 - [What It Is][], by Lynda Barry
 - [SQL Performance Explained][], by Markus Winand
 - [Photographers on Photography: How the Masters See, Think & Shoot][], by Henry Carroll
@@ -45,6 +45,7 @@ title: Reading List
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
+[Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
