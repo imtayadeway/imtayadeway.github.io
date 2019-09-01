@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- Leave No Trace (2018)
 - The Great Hack (2019)
 - Great Expectations (1946)
 - The Grapes of Wrath (1940)
