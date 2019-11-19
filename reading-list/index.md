@@ -16,6 +16,7 @@ title: Reading List
 
 ### 2019
 
+- [The Apology][], by Eve Ensler
 - [Mickey][], by Chelsea Martin
 - [What It Is][], by Lynda Barry
 - [SQL Performance Explained][], by Markus Winand
@@ -51,6 +52,7 @@ title: Reading List
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [SQL Performance Explained]: https://sql-performance-explained.com/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
+[The Apology]: https://theapologybook.net/about-the-apology-eve-ensler/
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
