@@ -5,6 +5,7 @@ title: Film
 
 ### 2019
 
+- Stop Making Sense (1984)
 - Parasite (2019)
 - Here's a Piano I Prepared Earlier (2004)
 - El Camino (2019)
