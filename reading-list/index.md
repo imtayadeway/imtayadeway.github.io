@@ -15,6 +15,7 @@ title: Reading List
 
 ### 2019
 
+- The Dramatic Portrait: The Art of Crafting Light and Shadow, by Chris Knight
 - [The Apology][], by Eve Ensler
 - [Mickey][], by Chelsea Martin
 - [What It Is][], by Lynda Barry
