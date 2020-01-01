@@ -7,11 +7,14 @@ title: Reading List
 
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
-- [The Amateur's Mind][], by Jeremy Silman
 - Working Effectively With Legacy Code, by Michael Feathers
 - Blindness, by José Saramago
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
+
+### 2020
+
+- [The Amateur's Mind][], by Jeremy Silman
 
 ### 2019
 
