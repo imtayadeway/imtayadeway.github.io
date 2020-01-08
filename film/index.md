@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Little Women (2019)
 - À Nous la Liberté (1931)
 
 ### 2019
