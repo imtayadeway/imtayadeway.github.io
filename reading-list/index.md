@@ -16,6 +16,7 @@ title: Reading List
 
 ### 2020
 
+- [How to Reassess Your Chess - 4th Edition][], by Jeremy Silman
 - [The Amateur's Mind][], by Jeremy Silman
 
 ### 2019
@@ -51,6 +52,7 @@ title: Reading List
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
+[How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
