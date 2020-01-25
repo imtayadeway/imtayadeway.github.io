@@ -16,6 +16,7 @@ title: Reading List
 
 ### 2020
 
+- Mastering Portrait Photography, by Paul Wilkinson & Sarah Plater
 - [How to Reassess Your Chess - 4th Edition][], by Jeremy Silman
 - [The Amateur's Mind][], by Jeremy Silman
 
