@@ -11,6 +11,7 @@ title: Film
 - Unforgiven (1992)
 - Little Women (2019)
 - À Nous la Liberté (1931)
+- Ashes and Diamonds (1958)
 
 ### 2019
 
