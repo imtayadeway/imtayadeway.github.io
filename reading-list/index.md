@@ -5,7 +5,6 @@ title: Reading List
 
 ### Currently Reading
 
-- The Happiness Trap, by Russ Harris
 - Come As You Are, by Emily Nagoski
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
@@ -16,6 +15,7 @@ title: Reading List
 
 ### 2020
 
+- The Happiness Trap, by Russ Harris
 - Mastering Portrait Photography, by Paul Wilkinson & Sarah Plater
 - [How to Reassess Your Chess - 4th Edition][], by Jeremy Silman
 - [The Amateur's Mind][], by Jeremy Silman
