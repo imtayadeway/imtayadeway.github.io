@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Onward (2020)
 - Baisers Volés (1968)
 - Dimensions of Dialogue (1882)
 - The Vagina Monologues (2001)
