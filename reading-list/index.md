@@ -14,6 +14,7 @@ title: Reading List
 
 ### 2020
 
+- [Get Out Your Hankies][], by Gabrielle Bell
 - Come As You Are, by Emily Nagoski
 - The Happiness Trap, by Russ Harris
 - Mastering Portrait Photography, by Paul Wilkinson & Sarah Plater
@@ -52,6 +53,7 @@ title: Reading List
 
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
+[Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
