@@ -14,6 +14,7 @@ title: Reading List
 
 ### 2020
 
+- [Naughty Bits][] # 2, by Roberta Gregory
 - [Get Out Your Hankies][], by Gabrielle Bell
 - Come As You Are, by Emily Nagoski
 - The Happiness Trap, by Russ Harris
@@ -57,6 +58,7 @@ title: Reading List
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
+[Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
