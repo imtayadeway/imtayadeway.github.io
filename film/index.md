@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Trip to Spain (2017)
 - Onward (2020)
 - Baisers Volés (1968)
 - Dimensions of Dialogue (1882)
