@@ -5,11 +5,13 @@ title: Film
 
 ### 2020
 
+- Goldfinger (1964)
 - Domicile Conjugal (1970)
 - You Only Live Twice (1967)
 - The Trip to Spain (2017)
 - The Empire Strikes Back: The Despecialized Edition (2011)
 - Star Wars: The Despecialized Edition (2011)
+- General Magic (2019)
 - Onward (2020)
 - Baisers Volés (1968)
 - Dimensions of Dialogue (1882)
