@@ -8,12 +8,12 @@ title: Reading List
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - Working Effectively With Legacy Code, by Michael Feathers
-- Blindness, by José Saramago
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2020
 
+- Blindness, by José Saramago
 - [Naughty Bits][] # 2, 4, by Roberta Gregory
 - [Get Out Your Hankies][], by Gabrielle Bell
 - Come As You Are, by Emily Nagoski
