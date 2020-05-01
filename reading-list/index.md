@@ -14,7 +14,7 @@ title: Reading List
 ### 2020
 
 - Blindness, by José Saramago
-- [Naughty Bits][] # 2, 4, by Roberta Gregory
+- [Naughty Bits][] # 2, 4, 5, 6 by Roberta Gregory
 - [Get Out Your Hankies][], by Gabrielle Bell
 - Come As You Are, by Emily Nagoski
 - The Happiness Trap, by Russ Harris
