@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Boogie Nights (1997)
 - The Music Box (1932)
 - Les Vacances de Monsieur Hulot (1953)
 - You're Darn Tootin' (1928)
