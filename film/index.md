@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- A Beautiful Day in the Neighborhood (2019)
 - Boogie Nights (1997)
 - The Music Box (1932)
 - Les Vacances de Monsieur Hulot (1953)
