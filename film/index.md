@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Shirley (2020)
 - Crime + Punishment (2018)
 - 13th (2016)
 - All the President's Men (1976)
