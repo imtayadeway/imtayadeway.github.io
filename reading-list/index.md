@@ -11,6 +11,7 @@ title: Reading List
 
 ### 2020
 
+- The Heart's Eternal Vow, by Thomas Pynchon
 - Love in the Time of Cholera, by Gabriel García Márquez
 - Blindness, by José Saramago
 - [Naughty Bits][] # 2, 4, 5, 6 by Roberta Gregory
