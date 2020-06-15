@@ -5,7 +5,6 @@ title: Reading List
 
 ### Currently Reading
 
-- Love in the Time of Cholera, by Gabriel García Márquez
 - Songwriting Without Boundaries: Lyric Writing Exercises for Finding Your Voice, by Pat Pattison
 - Food of the Gods: The Search for the Original Tree of Knowledge – A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna
 - Working Effectively With Legacy Code, by Michael Feathers
@@ -14,6 +13,7 @@ title: Reading List
 
 ### 2020
 
+- Love in the Time of Cholera, by Gabriel García Márquez
 - Blindness, by José Saramago
 - [Naughty Bits][] # 2, 4, 5, 6 by Roberta Gregory
 - [Get Out Your Hankies][], by Gabrielle Bell
