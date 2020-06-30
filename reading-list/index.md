@@ -5,6 +5,11 @@ title: Reading List
 
 ### Currently Reading
 
+- Mason & Dixon, by Thomas Pynchon
+- Sounding the Territory, by Laurel Goldman
+- [Rusty Brown][], by Chris Ware
+- Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype, by Clarissa Pinkola Estés
+- Selected Poems, by e.e. cummings
 - Working Effectively With Legacy Code, by Michael Feathers
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
@@ -61,6 +66,7 @@ title: Reading List
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
+[Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [SQL Performance Explained]: https://sql-performance-explained.com/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
