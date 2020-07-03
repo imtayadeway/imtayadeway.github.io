@@ -5,6 +5,9 @@ title: Film
 
 ### 2020
 
+- Arabesques on the Pirosmani Theme (1986)
+- Hakob Hovnatanyan (1967)
+- Kiev Frescoes (1966)
 - Notes from the Field (2018)
 - Shirley (2020)
 - Crime + Punishment (2018)
