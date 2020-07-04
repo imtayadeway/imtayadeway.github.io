@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Viskningar och rop (1972)
 - Arabesques on the Pirosmani Theme (1986)
 - Hakob Hovnatanyan (1967)
 - Kiev Frescoes (1966)
