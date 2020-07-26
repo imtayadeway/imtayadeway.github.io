@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Le Notti di Cabiria (1957)
 - Paycheck (2003)
 - Viskningar och rop (1972)
 - Arabesques on the Pirosmani Theme (1986)
