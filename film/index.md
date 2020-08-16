@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Gone with the Wind (1939)
 - The Unwanted: The Secret Windrush Files (2019)
 - Jeffrey Epstein: Filthy Rich (2020)
 - King Kong (1933)
