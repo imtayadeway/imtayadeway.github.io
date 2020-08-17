@@ -9,13 +9,13 @@ title: Reading List
 - Sounding the Territory, by Laurel Goldman
 - [Rusty Brown][], by Chris Ware
 - Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype, by Clarissa Pinkola Estés
-- Selected Poems, by e.e. cummings
 - Working Effectively With Legacy Code, by Michael Feathers
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2020
 
+- Selected Poems, by e.e. cummings
 - The Heart's Eternal Vow, by Thomas Pynchon
 - Love in the Time of Cholera, by Gabriel García Márquez
 - Blindness, by José Saramago
