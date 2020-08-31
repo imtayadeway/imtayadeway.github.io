@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Tinker Tailor Soldier Spy (1979)
 - The Spy Who Came In from the Cold (1965)
 - Il deserto rosso (1964)
 - Gone with the Wind (1939)
