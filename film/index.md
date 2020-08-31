@@ -7,6 +7,7 @@ title: Film
 
 - Tinker Tailor Soldier Spy (1979)
 - A Well Spent Life (1971)
+- The Last Dance (2020)
 - The Spy Who Came In from the Cold (1965)
 - Il deserto rosso (1964)
 - Gone with the Wind (1939)
