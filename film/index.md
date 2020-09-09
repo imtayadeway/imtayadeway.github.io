@@ -5,6 +5,8 @@ title: Film
 
 ### 2020
 
+- Coup 53 (2019)
+- All Quiet on the Western Front (1930)
 - Tinker Tailor Soldier Spy (1979)
 - A Well Spent Life (1971)
 - The Last Dance (2020)
