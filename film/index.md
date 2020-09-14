@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Fanny Och Alexander (1982)
 - Coup 53 (2019)
 - All Quiet on the Western Front (1930)
 - Tinker Tailor Soldier Spy (1979)
