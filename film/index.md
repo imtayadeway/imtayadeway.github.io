@@ -48,7 +48,7 @@ title: Film
 - General Magic (2019)
 - Onward (2020)
 - Baisers Volés (1968)
-- Dimensions of Dialogue (1882)
+- Dimensions of Dialogue (1982)
 - The Vagina Monologues (2001)
 - Antoine et Colette (1962)
 - Unforgiven (1992)
