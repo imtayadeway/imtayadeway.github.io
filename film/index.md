@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Band Wagon (1953)
 - Fanny Och Alexander (1982)
 - Coup 53 (2019)
 - All Quiet on the Western Front (1930)
