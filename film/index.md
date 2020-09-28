@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Brief Encounter (1945)
 - Agents of Chaos (2020)
 - The Band Wagon (1953)
 - Fanny Och Alexander (1982)
