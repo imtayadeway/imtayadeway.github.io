@@ -6,7 +6,6 @@ title: Reading List
 ### Currently Reading
 
 - Mason & Dixon, by Thomas Pynchon
-- [Rusty Brown][], by Chris Ware
 - Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype, by Clarissa Pinkola Estés
 - Working Effectively With Legacy Code, by Michael Feathers
 - XUnit Test Patterns, by Gerard Meszaros
@@ -14,6 +13,7 @@ title: Reading List
 
 ### 2020
 
+- [Rusty Brown][], by Chris Ware
 - Sounding the Territory, by Laurel Goldman
 - Selected Poems, by e.e. cummings
 - The Heart's Eternal Vow, by Thomas Pynchon
