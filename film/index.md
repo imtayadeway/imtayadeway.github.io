@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Tree of Life (2011)
 - Once Upon a Time in America (1984)
 - Brief Encounter (1945)
 - Agents of Chaos (2020)
