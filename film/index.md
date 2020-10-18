@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- High Noon (1952)
 - The Adventures of Robin Hood (1938)
 - Days of Heaven (1978)
 - The Tree of Life (2011)
