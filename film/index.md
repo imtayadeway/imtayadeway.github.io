@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Bad Day at Black Rock (1955)
 - His Girl Friday (1940)
 - Kajillionaire (2020)
 - High Noon (1952)
