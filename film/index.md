@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Henry V (1944)
 - Bad Day at Black Rock (1955)
 - His Girl Friday (1940)
 - Kajillionaire (2020)
