@@ -5,6 +5,9 @@ title: Film
 
 ### 2020
 
+- Easy Street (1917)
+- The Cure (1917)
+- The Adventurer (1917)
 - Henry V (1944)
 - Bad Day at Black Rock (1955)
 - His Girl Friday (1940)
