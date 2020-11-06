@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Der blaue Engel (1930)
 - Z (1969)
 - Easy Street (1917)
 - The Cure (1917)
