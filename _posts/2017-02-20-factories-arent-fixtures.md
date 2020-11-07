@@ -7,25 +7,6 @@ tags:
 date: 2017-02-20 11:48:07
 ---
 
-<div class="well">
-
-<p> Disclaimer! The title of this piece is actually a bit of a lie,
-because factories, or rather the things that they build, are
-technically fixtures, depending on your definition of "fixture". In
-the terminology of Gerard Meszaros, author of <em> xUnit Test
-Patterns</em>, the default Rails fixtures are more specifically
-<em>shared fixtures</em>, meaning they are created in the database at
-the start of your test suite and hang around until the end. Factories,
-on the other hand, are <em>persistent fresh fixtures</em>, meaning
-that they still live in the database (persistent), but their lifecycle
-is confined to individual tests (fresh).</p>
-
-<p> But not everyone uses this terminology, and I'm going to go with
-another convention of referring to the first kind as "fixtures" from
-hereon, and the second kind as "factories".</p>
-
-</div>
-
 As someone who learned both to program and to test for the first time
 with Rails, I was quickly exposed to a lot of opinions about testing
 at once, with a lot of hand-waving. One of these was, as I remember
