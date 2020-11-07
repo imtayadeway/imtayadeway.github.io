@@ -12,5 +12,6 @@ Broken windows analogy
 - it does not follow that broken code windows lead to code crime
 - i'm not convinced that inconsistent code == broken windows
 - no studies have examined the socialogical impact of inconsistent windows (or eclectic?)
+- um, hello? law and order, pfft
 
 Leave no trace (of stylistic concerns)
