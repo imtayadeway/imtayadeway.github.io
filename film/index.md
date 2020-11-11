@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Bridge on the River Kwai (1957)
 - Der blaue Engel (1930)
 - Z (1969)
 - Easy Street (1917)
