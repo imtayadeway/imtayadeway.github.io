@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Butch Cassidy and the Sundance Kid (1969)
 - The Gold Rush (1925)
 - The Bridge on the River Kwai (1957)
 - Der blaue Engel (1930)
