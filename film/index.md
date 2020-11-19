@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Social Dilemma (2020)
 - Kes (1969)
 - The Hustler (1961)
 - Butch Cassidy and the Sundance Kid (1969)
