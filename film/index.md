@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975)
 - Je Tu Il Elle (1974)
 - The Social Dilemma (2020)
 - Kes (1969)
