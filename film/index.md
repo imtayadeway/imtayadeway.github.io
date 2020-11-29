@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- Les Rendez-vous d'Anna (1978)
 - Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975)
 - Je Tu Il Elle (1974)
 - The Social Dilemma (2020)
