@@ -5,6 +5,7 @@ title: Film
 
 ### 2020
 
+- The Black Dog (1987)
 - Living the Light - Robby Müller (2019)
 - Old Joy (2006)
 - Les Rendez-vous d'Anna (1978)
