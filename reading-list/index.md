@@ -6,9 +6,6 @@ title: Reading List
 ### Currently Reading
 
 - Mason & Dixon, by Thomas Pynchon
-- Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype, by Clarissa Pinkola Estés
-- XUnit Test Patterns, by Gerard Meszaros
-- Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
 
 ### 2021
 
