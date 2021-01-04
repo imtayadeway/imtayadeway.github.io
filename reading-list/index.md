@@ -7,9 +7,12 @@ title: Reading List
 
 - Mason & Dixon, by Thomas Pynchon
 - Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype, by Clarissa Pinkola Estés
-- Working Effectively With Legacy Code, by Michael Feathers
 - XUnit Test Patterns, by Gerard Meszaros
 - Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
+
+### 2021
+
+- Working Effectively With Legacy Code, by Michael Feathers
 
 ### 2020
 
