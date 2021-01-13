@@ -5,10 +5,11 @@ title: Reading List
 
 ### Currently Reading
 
-- Mason & Dixon, by Thomas Pynchon
+- Beloved, by Toni Morrison
 
 ### 2021
 
+- Mason & Dixon, by Thomas Pynchon
 - Working Effectively With Legacy Code, by Michael Feathers
 
 ### 2020
