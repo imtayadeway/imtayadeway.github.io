@@ -9,7 +9,7 @@ title: Reading List
 
 ### 2021
 
-- Mason & Dixon, by Thomas Pynchon
+- Mason & Dixon, by Thomas Pynchon ([read my review][mason & dixon review])
 - Working Effectively With Legacy Code, by Michael Feathers
 
 ### 2020
@@ -57,6 +57,7 @@ title: Reading List
 - [Getting Clojure][], by Russ Olsen ([read my review][getting clojure review])
 
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
+[mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
 
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
