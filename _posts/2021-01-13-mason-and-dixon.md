@@ -8,7 +8,7 @@ date: 2021-01-13 10:54:25 -0700
 
 I turned the last page on the wonderful Mason & Dixon, by Thomas Pynchon last night.
 
-I've been reading this for the best part of a year, and, in another sense, for over ten years (I was reading this book, stuffed with Greyhound tickets and other bookmark-shaped mementos, when I met my wife, though I lost the thread about 200 pages in - something I have done more than once before reading Pynchon - and I was approaching its final chapters on the day that she moved out).
+I've been reading this for the best part of a year, and, in another sense, for over ten years (I was reading this book, stuffed with Greyhound tickets and other bookmark-shaped mementos, when I met my wife - though I lost the thread about 200 pages in, something I have done more than once before reading Pynchon - and I was approaching its final chapters on the day that she moved out).
 
 This is the book that taught me how to read again, that demanded I slow down to take everything in, against the at times overwhelming feeling that I might never finish it, or that I was not smart enough to understand it. It's been a hard lesson accepting my reading difficulties. Trying to change the way that I read has only done harm to my understanding and enjoyment of fiction, why I've barely read any in . . . the last ten years.
 
