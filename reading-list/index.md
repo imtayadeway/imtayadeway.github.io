@@ -5,10 +5,11 @@ title: Reading List
 
 ### Currently Reading
 
-- Beloved, by Toni Morrison
+- [Dance the Eagle to Sleep][], by Marge Piercy
 
 ### 2021
 
+- Beloved, by Toni Morrison
 - Mason & Dixon, by Thomas Pynchon ([read my review][mason & dixon review])
 - Working Effectively With Legacy Code, by Michael Feathers
 
@@ -61,6 +62,7 @@ title: Reading List
 
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
+[Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
