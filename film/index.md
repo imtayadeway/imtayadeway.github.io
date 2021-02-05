@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- The Edge of Democracy (2019)
 - My Octopus Teacher (2020)
 - Toni Erdmann (2016)
 - Yours in Sisterhood (2018)
