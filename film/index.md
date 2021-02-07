@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Hustlers (2019)
 - The Edge of Democracy (2019)
 - My Octopus Teacher (2020)
 - Toni Erdmann (2016)
