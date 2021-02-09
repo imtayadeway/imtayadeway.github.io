@@ -5,6 +5,8 @@ title: Reading List
 
 ### Currently Reading
 
+- [After the Witch Hunt][], by Megan Falley
+- [The Testament of Yves Gundron][], by Emily Barton
 - [Dance the Eagle to Sleep][], by Marge Piercy
 
 ### 2021
@@ -60,6 +62,7 @@ title: Reading List
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 [mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
 
+[After the Witch Hunt]: https://www.meganfalley.com/product-page/after-the-witch-hunt
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
@@ -79,5 +82,6 @@ title: Reading List
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
 [The Sound of Silence]: http://thesoundofsilence.org/
+[The Testament of Yves Gundron]: https://www.emilybarton.com/books
 [The Tyranny of Structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
 [What It Is]: https://www.drawnandquarterly.com/what-it-is
