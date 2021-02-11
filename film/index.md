@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Mikey and Nicky (1976)
 - Hustlers (2019)
 - The Edge of Democracy (2019)
 - My Octopus Teacher (2020)
