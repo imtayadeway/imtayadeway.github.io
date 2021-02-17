@@ -5,12 +5,12 @@ title: Reading List
 
 ### Currently Reading
 
-- [After the Witch Hunt][], by Megan Falley
 - [The Testament of Yves Gundron][], by Emily Barton
 - [Dance the Eagle to Sleep][], by Marge Piercy
 
 ### 2021
 
+- [After the Witch Hunt][], by Megan Falley
 - Beloved, by Toni Morrison
 - Mason & Dixon, by Thomas Pynchon ([read my review][mason & dixon review])
 - Working Effectively With Legacy Code, by Michael Feathers
