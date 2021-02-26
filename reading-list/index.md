@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- [milk and honey][], by Rupi Kaur
 - [The Testament of Yves Gundron][], by Emily Barton
 - [Dance the Eagle to Sleep][], by Marge Piercy
 
@@ -70,6 +71,7 @@ title: Reading List
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
+[milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
