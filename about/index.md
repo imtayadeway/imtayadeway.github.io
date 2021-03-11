@@ -14,12 +14,12 @@ I am particularly fond of the duck-rabbit:
 
 This is my blog.
 
-It may cover some of the following topics: Ruby, Emacs, Git, Linux,
-tea, space jazz and aspect ratio-induced anxiety.
-
-Though it's of little use to anyone else, I like to keep track of what I'm reading [here](/reading-list). And I keep track of what I'm watching [here](/film)
+It may or may not cover things about Ruby, Emacs, Git, Linux, tea,
+space jazz and aspect ratio-induced anxiety.
 
 It uses the [Simplex theme](https://bootswatch.com/simplex).
+
+Though it's of little use to anyone else, I like to keep track of what I'm reading [here](/reading-list). And I keep track of what I'm watching [here](/film).
 
 I can be found on [GitHub] or can be [emailed] if you're into that.
 
