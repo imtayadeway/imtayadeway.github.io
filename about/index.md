@@ -19,10 +19,9 @@ tea, dyspraxia, space jazz and aspect ratio-induced anxiety.
 
 It uses the [Simplex theme](https://bootswatch.com/simplex).
 
-I can be found on [GitHub], [LinkedIn], or can be [emailed]
+I can be found on [GitHub] or can be [emailed] if you're into that.
 
 Thanks for stopping by!
 
 [GitHub]: https://github.com/imtayadeway
-[LinkedIn]: http://www.linkedin.com/in/timjimwade
 [emailed]: mailto:hello@timjwade.com
