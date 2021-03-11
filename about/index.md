@@ -5,7 +5,7 @@ title: about me
 
 My name is Tim.
 
-I'm a software engineer at [Heroku](https://www.heroku.com).
+I'm a software engineer at [Heroku].
 
 I like to make music with pianos, guitars, woodwinds and electronics.
 
@@ -26,4 +26,5 @@ I can be found on [GitHub] or can be [emailed] if you're into that.
 Thanks for stopping by!
 
 [GitHub]: https://github.com/imtayadeway
+[Heroku]: https://www.heroku.com
 [emailed]: mailto:hello@timjwade.com
