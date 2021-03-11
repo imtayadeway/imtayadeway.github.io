@@ -15,7 +15,7 @@ I am particularly fond of the duck-rabbit:
 This is my blog.
 
 It may cover some of the following topics: Ruby, Emacs, Git, Linux,
-tea, dyspraxia, space jazz and aspect ratio-induced anxiety.
+tea, space jazz and aspect ratio-induced anxiety.
 
 It uses the [Simplex theme](https://bootswatch.com/simplex).
 
