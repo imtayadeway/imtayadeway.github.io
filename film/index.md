@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Chibusa yo eien nare (1955)
 - The Portrait of a Lady (1996)
 - Mikey and Nicky (1976)
 - Hustlers (2019)
