@@ -5,12 +5,14 @@ title: Reading List
 
 ### Currently Reading
 
-- [milk and honey][], by Rupi Kaur
+- [i shimmer sometimes, too][], by Porsha Olayiwola
+- [teaching my mother how to give birth][], by Warson Shire
 - [The Testament of Yves Gundron][], by Emily Barton
-- [Dance the Eagle to Sleep][], by Marge Piercy
 
 ### 2021
 
+- [Dance the Eagle to Sleep][], by Marge Piercy
+- [milk and honey][], by Rupi Kaur
 - [After the Witch Hunt][], by Megan Falley
 - Beloved, by Toni Morrison
 - Mason & Dixon, by Thomas Pynchon ([read my review][mason & dixon review])
@@ -70,6 +72,7 @@ title: Reading List
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
+[i shimmer sometimes, too]: https://buttonpoetry.com/product/i-shimmer-sometimes-too/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
@@ -78,6 +81,7 @@ title: Reading List
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [SQL Performance Explained]: https://sql-performance-explained.com/
+[teaching my mother how to give birth]: https://flippedeye.net/product/teaching-my-mother-how-to-give-birth/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [The Apology]: https://theapologybook.net/about-the-apology-eve-ensler/
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
