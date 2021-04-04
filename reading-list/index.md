@@ -6,11 +6,11 @@ title: Reading List
 ### Currently Reading
 
 - [i shimmer sometimes, too][], by Porsha Olayiwola
-- [teaching my mother how to give birth][], by Warson Shire
 - [The Testament of Yves Gundron][], by Emily Barton
 
 ### 2021
 
+- [teaching my mother how to give birth][], by Warson Shire
 - [Dance the Eagle to Sleep][], by Marge Piercy
 - [milk and honey][], by Rupi Kaur
 - [After the Witch Hunt][], by Megan Falley
