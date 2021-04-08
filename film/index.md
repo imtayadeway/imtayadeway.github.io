@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Stardust (2007)
 - Wonder Woman (2017)
 - It's a Sin (2021)
 - Heartbreakers (2001)
