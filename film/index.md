@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Master and Commander: The Far Side of the World (2003)
 - Stardust (2007)
 - Wonder Woman (2017)
 - It's a Sin (2021)
