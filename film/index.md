@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- La Folie Almayer (2011)
 - Spice World (1997)
 - Tomboy (2011)
 - Master and Commander: The Far Side of the World (2003)
