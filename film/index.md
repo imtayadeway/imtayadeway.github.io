@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Eighth Grade (2018)
 - Carry On Spying (1964)
 - Dǒng fūrén (1968)
 - La Folie Almayer (2011)
