@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- [Electric Michelangelo][], by Sarah Hall
 - [The Testament of Yves Gundron][], by Emily Barton
 
 ### 2021
@@ -69,6 +70,7 @@ title: Reading List
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
+[Electric Michelangelo]: http://www.sarahhallauthor.com/electric.htm
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
