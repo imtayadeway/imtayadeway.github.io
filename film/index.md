@@ -5,6 +5,8 @@ title: Film
 
 ### 2021
 
+- Ashkenazy Observed (1987)
+- The Lively Arts: Ecstasy (1978)
 - Eighth Grade (2018)
 - Carry On Spying (1964)
 - Dǒng fūrén (1968)
