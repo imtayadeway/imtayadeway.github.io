@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Mr Pascal (1979)
 - Yellow Submarine (1968)
 - Ashkenazy Observed (1987)
 - The Lively Arts: Ecstasy (1978)
