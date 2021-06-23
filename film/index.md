@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Fireball: Visitors from Darker Worlds (2020)
 - American Factory (2019)
 - Mr Pascal (1979)
 - Yellow Submarine (1968)
