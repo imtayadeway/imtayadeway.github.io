@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- First Cow (2019)
 - Pierrot le Fou (1965)
 - Fireball: Visitors from Darker Worlds (2020)
 - American Factory (2019)
