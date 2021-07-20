@@ -6,63 +6,63 @@ title: Reading List
 ### Currently Reading
 
 - Bleeding Edge, by Thomas Pynchon
-- [Drive Here and Devastate Me][], by Megan Falley
-- [The Testament of Yves Gundron][], by Emily Barton
+- [Drive Here and Devastate Me], by Megan Falley
+- [The Testament of Yves Gundron], by Emily Barton
 
 ### 2021
 
-- [i shimmer sometimes, too][], by Porsha Olayiwola
-- [teaching my mother how to give birth][], by Warson Shire
-- [Dance the Eagle to Sleep][], by Marge Piercy
-- [milk and honey][], by Rupi Kaur
-- [After the Witch Hunt][], by Megan Falley
+- [i shimmer sometimes, too], by Porsha Olayiwola
+- [teaching my mother how to give birth], by Warson Shire
+- [Dance the Eagle to Sleep], by Marge Piercy
+- [milk and honey], by Rupi Kaur
+- [After the Witch Hunt], by Megan Falley
 - Beloved, by Toni Morrison
 - Mason & Dixon, by Thomas Pynchon ([read my review][mason & dixon review])
 - Working Effectively With Legacy Code, by Michael Feathers
 
 ### 2020
 
-- [Rusty Brown][], by Chris Ware
+- [Rusty Brown], by Chris Ware
 - Sounding the Territory, by Laurel Goldman
 - Selected Poems, by e.e. cummings
 - The Heart's Eternal Vow, by Thomas Pynchon
 - Love in the Time of Cholera, by Gabriel García Márquez
 - Blindness, by José Saramago
-- [Naughty Bits][] # 2, 4, 5, 6 by Roberta Gregory
-- [Get Out Your Hankies][], by Gabrielle Bell
+- [Naughty Bits] # 2, 4, 5, 6 by Roberta Gregory
+- [Get Out Your Hankies], by Gabrielle Bell
 - Come As You Are, by Emily Nagoski
 - The Happiness Trap, by Russ Harris
 - Mastering Portrait Photography, by Paul Wilkinson & Sarah Plater
-- [How to Reassess Your Chess - 4th Edition][], by Jeremy Silman
-- [The Amateur's Mind][], by Jeremy Silman
+- [How to Reassess Your Chess - 4th Edition], by Jeremy Silman
+- [The Amateur's Mind], by Jeremy Silman
 
 ### 2019
 
 - The Dramatic Portrait: The Art of Crafting Light and Shadow, by Chris Knight
-- [The Apology][], by Eve Ensler
-- [Mickey][], by Chelsea Martin
-- [What It Is][], by Lynda Barry
-- [SQL Performance Explained][], by Markus Winand
-- [Photographers on Photography: How the Masters See, Think & Shoot][], by Henry Carroll
+- [The Apology], by Eve Ensler
+- [Mickey], by Chelsea Martin
+- [What It Is], by Lynda Barry
+- [SQL Performance Explained], by Markus Winand
+- [Photographers on Photography: How the Masters See, Think & Shoot], by Henry Carroll
 - What Can I Be, by Ann Rand & Ingrid Fiksdahl King
-- [The Sound of Silence][], by Katrina Goldsaito & Julia Kuo
+- [The Sound of Silence], by Katrina Goldsaito & Julia Kuo
 
 ### 2018
 
-- [Bad][], by Chelsea Martin
+- [Bad], by Chelsea Martin
 - Cat's Cradle, by Kurt Vonnegut
 - Impostor, by Philip K. Dick
 - Picture Perfect Posing, by Roberto Valenzuela
 - Games People Play, by Eric Berne, M.D.
-- [The Dangerous Journey: A Tale of Moomin Valley][], by Tove Jansson
+- [The Dangerous Journey: A Tale of Moomin Valley], by Tove Jansson
 - The Road Less Traveled, by M. Scott Peck
-- [Sabrina][], by Nick Drnaso
-- [Caca Dolce][], by Chelsea Martin
-- [Picture Perfect Lighting][], by Roberto Valenzuela
-- [The Sarah Book][], by Scott McClanahan
-- [The Tyranny of Structurelessness][], by Jo Freeman
-- [The Pragmatic Programmer][], by Andrew Hunt and David Thomas
-- [Getting Clojure][], by Russ Olsen ([read my review][getting clojure review])
+- [Sabrina], by Nick Drnaso
+- [Caca Dolce], by Chelsea Martin
+- [Picture Perfect Lighting], by Roberto Valenzuela
+- [The Sarah Book], by Scott McClanahan
+- [The Tyranny of Structurelessness], by Jo Freeman
+- [The Pragmatic Programmer], by Andrew Hunt and David Thomas
+- [Getting Clojure], by Russ Olsen ([read my review][getting clojure review])
 
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 [mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
