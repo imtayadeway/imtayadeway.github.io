@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Legally Blonde (2001)
 - First Cow (2019)
 - Pierrot le Fou (1965)
 - Fireball: Visitors from Darker Worlds (2020)
