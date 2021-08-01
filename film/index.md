@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Clueless (1995)
 - Legally Blonde (2001)
 - First Cow (2019)
 - Pierrot le Fou (1965)
