@@ -5,6 +5,9 @@ title: Reading List
 
 ### Currently Reading
 
+- [New American Best Friend], by Olivia Gatwood
+- The Guermantes Way, by Marcel Proust
+- Groucho and Me, by Groucho Marx
 - Bleeding Edge, by Thomas Pynchon
 
 ### 2021
@@ -80,6 +83,7 @@ title: Reading List
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
+[New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
