@@ -6,10 +6,10 @@ title: Reading List
 ### Currently Reading
 
 - Bleeding Edge, by Thomas Pynchon
-- [The Testament of Yves Gundron], by Emily Barton
 
 ### 2021
 
+- [The Testament of Yves Gundron], by Emily Barton
 - [Drive Here and Devastate Me], by Megan Falley
 - [i shimmer sometimes, too], by Porsha Olayiwola
 - [teaching my mother how to give birth], by Warson Shire
