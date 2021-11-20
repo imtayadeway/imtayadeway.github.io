@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- Beautiful Dreamer: Brian Wilson and the Story of Smile (2004)
 - The Mitchells vs. the Machines (2021)
 - In The Loop (2009)
 - The NeverEnding Story (1984)
