@@ -5,6 +5,7 @@ title: Film
 
 ### 2021
 
+- A Night at the Opera (1935)
 - Cocoanuts (1929)
 - National Lampoon's Christmas Vacation (1989)
 - Can't Get You Out of My Head: An Emotional History of the Modern World (2021)
