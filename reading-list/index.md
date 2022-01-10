@@ -10,6 +10,10 @@ title: Reading List
 - Groucho and Me, by Groucho Marx
 - Bleeding Edge, by Thomas Pynchon
 
+### 2022
+
+- The Hanging Stranger, by Philip K. Dick
+
 ### 2021
 
 - [The Testament of Yves Gundron], by Emily Barton
