@@ -5,13 +5,14 @@ title: Reading List
 
 ### Currently Reading
 
-- [New American Best Friend], by Olivia Gatwood
+- The Piper in the Woods, by Philip K. Dick
 - The Guermantes Way, by Marcel Proust
 - Groucho and Me, by Groucho Marx
 - Bleeding Edge, by Thomas Pynchon
 
 ### 2022
 
+- [New American Best Friend], by Olivia Gatwood
 - The Hanging Stranger, by Philip K. Dick
 
 ### 2021
