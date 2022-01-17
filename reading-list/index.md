@@ -5,12 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
+- The Golden Man, by Philip K. Dick
 - The Guermantes Way, by Marcel Proust
-- Groucho and Me, by Groucho Marx
 - Bleeding Edge, by Thomas Pynchon
 
 ### 2022
 
+- Groucho and Me, by Groucho Marx
 - Piper in the Woods, by Philip K. Dick
 - [New American Best Friend], by Olivia Gatwood
 - The Hanging Stranger, by Philip K. Dick
