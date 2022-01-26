@@ -5,12 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
-- The Golden Man, by Philip K. Dick
 - The Guermantes Way, by Marcel Proust
 - Bleeding Edge, by Thomas Pynchon
 
 ### 2022
 
+- [Somewhere at the Edge of the World], by Lauren Withrow
+- The Golden Man, by Philip K. Dick
 - Groucho and Me, by Groucho Marx
 - Piper in the Woods, by Philip K. Dick
 - [New American Best Friend], by Olivia Gatwood
@@ -94,6 +95,7 @@ title: Reading List
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
+[Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
 [SQL Performance Explained]: https://sql-performance-explained.com/
 [teaching my mother how to give birth]: https://flippedeye.net/product/teaching-my-mother-how-to-give-birth/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
