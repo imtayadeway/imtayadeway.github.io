@@ -5,6 +5,8 @@ title: Film
 
 ### 2022
 
+- Aladdin and the Magic Lamp (1954)
+- The Street (1976)
 - Women Make Film (2018)
 - A Day at the Races (1937)
 
