@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2022
 
+- We Can Remember It for You Wholesale, by Philip K. Dick
 - [Somewhere at the Edge of the World], by Lauren Withrow
 - The Golden Man, by Philip K. Dick
 - Groucho and Me, by Groucho Marx
