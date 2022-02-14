@@ -5,6 +5,8 @@ title: Film
 
 ### 2022
 
+- Love and Mercy (2014)
+- Walking with Ellen Fullman (2021)
 - Aladdin and the Magic Lamp (1954)
 - The Street (1976)
 - Women Make Film (2018)
