@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Music Man (1962)
 - JFK (1991)
 - Love and Mercy (2014)
 - Walking with Ellen Fullman (2021)
