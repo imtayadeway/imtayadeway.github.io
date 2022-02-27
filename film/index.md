@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- JFK (1991)
 - Love and Mercy (2014)
 - Walking with Ellen Fullman (2021)
 - Aladdin and the Magic Lamp (1954)
