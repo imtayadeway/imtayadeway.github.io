@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Mr. & Mrs. Smith (2005)
 - The Power of the Dog (2021)
 - The Music Man (1962)
 - JFK (1991)
