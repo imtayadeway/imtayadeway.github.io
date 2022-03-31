@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Popeye (1980)
 - Phoenix Rising (2022)
 - The Trouble with Angels (1966)
 - What Dreams May Come (1998)
