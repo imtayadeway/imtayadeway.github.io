@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Clean and Sober (1988)
 - Beetlejuice (1988)
 - Night Shift (1982)
 - The Crime of the Century (2021)
