@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Batman (1989)
 - Clean and Sober (1988)
 - Beetlejuice (1988)
 - Night Shift (1982)
