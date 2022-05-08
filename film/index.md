@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Miss Americana (2020)
 - Navalny (2022)
 - Batman (1989)
 - Clean and Sober (1988)
