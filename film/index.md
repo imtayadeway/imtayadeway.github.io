@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Trial of the Chicago 7 (2020)
 - Miss Americana (2020)
 - Navalny (2022)
 - Batman (1989)
