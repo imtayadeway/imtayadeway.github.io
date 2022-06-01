@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Trip ot Greece (2020)
 - Normal People (2020)
 - The Trial of the Chicago 7 (2020)
 - Miss Americana (2020)
