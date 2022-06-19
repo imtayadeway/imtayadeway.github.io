@@ -5,6 +5,8 @@ title: Film
 
 ### 2022
 
+- Pleasure (2021)
+- The Janes (2022)
 - We Own This City (2022)
 - The Trip to Greece (2020)
 - Normal People (2020)
