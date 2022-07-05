@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Nightmare Alley (2021)
 - Pleasure (2021)
 - The Janes (2022)
 - We Own This City (2022)
