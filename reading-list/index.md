@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- Girl Teeth, by Christina Brown
 - Why We Sleep, by Matthew Walker, Ph D.
 - The Lathe of Heaven, by Ursula K. Le Guin
 - The Guermantes Way, by Marcel Proust
