@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Big Trouble in Little China (1986)
 - Nightmare Alley (2021)
 - Pleasure (2021)
 - The Janes (2022)
