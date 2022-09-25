@@ -4,7 +4,7 @@ title: Film
 ---
 
 ### 2022
-<!-- - Batman Returns -->
+- Batman Returns (1992)
 - Riotsville, USA (2022)
 - Big Trouble in Little China (1986)
 - Nightmare Alley (2021)
