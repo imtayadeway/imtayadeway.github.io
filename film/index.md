@@ -5,7 +5,7 @@ title: Film
 
 ### 2022
 
-- The General (1927)
+- The General (1926)
 - Jackie Brown (1997)
 - Batman Returns (1992)
 - Riotsville, USA (2022)
