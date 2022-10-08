@@ -13,6 +13,7 @@ title: Reading List
 
 ### 2022
 
+- Houseplant Warrior, by Raffaele Di Lallo
 - Burnout: The Secret to Unlocking the Stress Cycle, by Emily Nagoski & Amelia Nagoski
 - We Can Remember It for You Wholesale, by Philip K. Dick
 - [Somewhere at the Edge of the World], by Lauren Withrow
