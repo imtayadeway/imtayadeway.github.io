@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Witch (2015)
 - The General (1926)
 - Jackie Brown (1997)
 - Batman Returns (1992)
