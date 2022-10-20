@@ -6,13 +6,13 @@ title: Reading List
 ### Currently Reading
 
 - Girl Teeth, by Christina Brown
-- Why We Sleep, by Matthew Walker, Ph D.
 - The Lathe of Heaven, by Ursula K. Le Guin
 - The Guermantes Way, by Marcel Proust
 - Bleeding Edge, by Thomas Pynchon
 
 ### 2022
 
+- Why We Sleep, by Matthew Walker, Ph D.
 - Houseplant Warrior, by Raffaele Di Lallo
 - Burnout: The Secret to Unlocking the Stress Cycle, by Emily Nagoski & Amelia Nagoski
 - We Can Remember It for You Wholesale, by Philip K. Dick
