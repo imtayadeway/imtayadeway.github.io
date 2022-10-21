@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Midsommar (2019)
 - Get Out (2017)
 - The Witch (2015)
 - The General (1926)
