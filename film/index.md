@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Carrie (1976)
 - A Quiet Place (2018)
 - Midsommar (2019)
 - Get Out (2017)
