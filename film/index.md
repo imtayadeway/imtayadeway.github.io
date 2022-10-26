@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- La Cabina (1972)
 - Carrie (1976)
 - A Quiet Place (2018)
 - Midsommar (2019)
