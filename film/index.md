@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Invisible Man (2020)
 - Us (2019)
 - La Cabina (1972)
 - Carrie (1976)
