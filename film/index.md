@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Alien (1979)
 - Nope (2022)
 - The Invisible Man (2020)
 - Us (2019)
