@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Psycho (1960)
 - Alien (1979)
 - Nope (2022)
 - The Invisible Man (2020)
