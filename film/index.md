@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Babadook (2014)
 - Psycho (1960)
 - Alien (1979)
 - Nope (2022)
