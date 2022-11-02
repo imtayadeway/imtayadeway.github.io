@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Silence of the Lambs (1991)
 - The Babadook (2014)
 - Psycho (1960)
 - Alien (1979)
