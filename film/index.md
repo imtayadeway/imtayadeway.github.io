@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 - The Silence of the Lambs (1991)
 - The Babadook (2014)
 - Psycho (1960)
