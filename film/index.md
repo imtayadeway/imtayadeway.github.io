@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- The Sixth Sense (1999)
 - Manhunter (1986)
 - The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 - The Silence of the Lambs (1991)
