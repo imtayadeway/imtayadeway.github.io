@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- A Girl Walks Home Alone at Night (2014)
 - The Thing (1982)
 - The Sixth Sense (1999)
 - Manhunter (1986)
