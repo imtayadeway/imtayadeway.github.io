@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Raising Arizona (1987)
 - A Girl Walks Home Alone at Night (2014)
 - The Thing (1982)
 - The Sixth Sense (1999)
