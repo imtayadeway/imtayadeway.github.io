@@ -5,6 +5,7 @@ title: Film
 
 ### 2022
 
+- Nomadland (2020)
 - Platoon (1986)
 - CODA (2021)
 - The Thin Red Line (1998)
