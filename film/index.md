@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Selma (2014)
 - Seahorse: The Dad Who Gave Birth
 - No Home Movie (2015)
 - WeWork: Or the Making and Breaking of a $47 Billion Unicorn
