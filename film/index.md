@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- True Grit (1969)
 - Selma (2014)
 - Seahorse: The Dad Who Gave Birth
 - No Home Movie (2015)
