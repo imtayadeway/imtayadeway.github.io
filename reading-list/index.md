@@ -5,9 +5,12 @@ title: Reading List
 
 ### Currently Reading
 
-- The Lathe of Heaven, by Ursula K. Le Guin
 - The Guermantes Way, by Marcel Proust
 - Bleeding Edge, by Thomas Pynchon
+
+### 2023
+
+- The Lathe of Heaven, by Ursula K. Le Guin
 
 ### 2022
 
