@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Midnight Cowboy (1969)
 - Super 8 (2011)
 - A Passage To India (1984)
 - True Grit (1969)
