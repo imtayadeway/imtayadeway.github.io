@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Smultronstället (1957)
 - 10 Cloverfield Lane (2016)
 - Cloverfield (2008)
 - Midnight Cowboy (1969)
