@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- The Cloverfield Paradox (2018)
 - Smultronstället (1957)
 - 10 Cloverfield Lane (2016)
 - Cloverfield (2008)
