@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- Picture Perfect Practice, by Roberto Valenzuela
 - The Lathe of Heaven, by Ursula K. Le Guin
 
 ### 2022
