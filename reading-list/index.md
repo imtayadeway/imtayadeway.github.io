@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- [How to be Happy], by Eleanor Davis
 - Picture Perfect Practice, by Roberto Valenzuela
 - The Lathe of Heaven, by Ursula K. Le Guin
 
@@ -94,6 +95,7 @@ title: Reading List
 [Electric Michelangelo]: http://www.sarahhallauthor.com/electric.htm
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
+[How to be Happy]: https://doing-fine.com/?portfolio=3330
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [i shimmer sometimes, too]: https://buttonpoetry.com/product/i-shimmer-sometimes-too/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
