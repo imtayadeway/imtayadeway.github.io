@@ -10,7 +10,7 @@ title: Reading List
 
 ### 2023
 
-- Amsterdam Photos, by Robby Müller
+- [Amsterdam Photos], by Robby Müller
 - [How to be Happy], by Eleanor Davis
 - Picture Perfect Practice, by Roberto Valenzuela
 - The Lathe of Heaven, by Ursula K. Le Guin
@@ -89,6 +89,7 @@ title: Reading List
 [mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
 
 [After the Witch Hunt]: https://www.meganfalley.com/product-page/after-the-witch-hunt
+[Amsterdam Photos]: https://www.ideabooks.nl/9789464460353-robby-mueller-amsterdam-photos
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
