@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- Amsterdam Photos, by Robby Müller
 - [How to be Happy], by Eleanor Davis
 - Picture Perfect Practice, by Roberto Valenzuela
 - The Lathe of Heaven, by Ursula K. Le Guin
