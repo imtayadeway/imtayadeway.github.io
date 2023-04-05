@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- The Master (2012)
 - Paris, Texas (1984)
 - D'Est (1993)
 - Im Lauf der Zeit (1976)
