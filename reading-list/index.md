@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- [You Better Be Lightning], by Andrea Gibson
 - [Amsterdam Photos], by Robby Müller
 - [How to be Happy], by Eleanor Davis
 - Picture Perfect Practice, by Roberto Valenzuela
@@ -120,3 +121,4 @@ title: Reading List
 [The Testament of Yves Gundron]: https://www.emilybarton.com/books
 [The Tyranny of Structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
 [What It Is]: https://www.drawnandquarterly.com/what-it-is
+[You Better Be Lightning]: https://buttonpoetry.com/product/you-better-be-lightning/
