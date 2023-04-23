@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- Fun Home: A Family Tragicomic, by Alison Bechdel
 - [You Better Be Lightning], by Andrea Gibson
 - [Amsterdam Photos], by Robby Müller
 - [How to be Happy], by Eleanor Davis
