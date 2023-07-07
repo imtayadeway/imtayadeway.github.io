@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- The Little One
 - Fun Home: A Family Tragicomic, by Alison Bechdel
 - [You Better Be Lightning], by Andrea Gibson
 - [Amsterdam Photos], by Robby Müller
