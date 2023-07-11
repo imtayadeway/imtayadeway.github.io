@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Tár (2022)
 - Priest (1994)
 - Elizabethtown (2005)
 - Death on the Nile (2022)
