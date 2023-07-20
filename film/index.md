@@ -5,6 +5,10 @@ title: Film
 
 ### 2023
 
+- Mission: Impossible 2 (2000)
+- Mission: Impossible (1996)
+- She Said (2022)
+- Everything Everywhere All at Once (2022)
 - Tár (2022)
 - Priest (1994)
 - Elizabethtown (2005)
