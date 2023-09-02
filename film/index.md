@@ -5,6 +5,14 @@ title: Film
 
 ### 2023
 
+- Encanto (2021)
+- Dirty Dancing (1987)
+- Chocolat (2000)
+- Never Been Kissed (1999)
+- Mission: Impossible - Fallout (2018)
+- Mission: Impossible - Rogue Nation (2015)
+- Mission: Impossible - Ghost Protocol (2011)
+- Mission: Impossible 3 (2006)
 - Mission: Impossible 2 (2000)
 - Mission: Impossible (1996)
 - She Said (2022)
