@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Heart of a Dog (2015)
 - Moana (2016)
 - Encanto (2021)
 - Dirty Dancing (1987)
