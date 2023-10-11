@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Ghost (1990)
 - The Heartbreak Kid (1972)
 - Heart of a Dog (2015)
 - Moana (2016)
