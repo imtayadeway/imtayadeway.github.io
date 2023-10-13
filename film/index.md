@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- High Sierra (1941)
 - Ghost (1990)
 - The Heartbreak Kid (1972)
 - Heart of a Dog (2015)
