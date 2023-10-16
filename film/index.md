@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Relic (2020)
 - Saint Maud (2019)
 - High Sierra (1941)
 - Ghost (1990)
