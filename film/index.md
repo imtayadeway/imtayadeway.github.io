@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Hereditary (2018)
 - The Others (2001)
 - Relic (2020)
 - Saint Maud (2019)
