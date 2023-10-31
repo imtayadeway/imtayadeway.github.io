@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- The Haunting (1963)
 - Hereditary (2018)
 - The Others (2001)
 - Relic (2020)
