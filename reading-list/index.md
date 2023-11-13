@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2023
 
+- Syllabus: Notes from an Accidental Professor, by Lynda Barry
 - The Little One
 - Fun Home: A Family Tragicomic, by Alison Bechdel
 - [You Better Be Lightning], by Andrea Gibson
