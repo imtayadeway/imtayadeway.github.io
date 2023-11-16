@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- День рождения Юлии (1995)
 - Night of the Living Dead (1968)
 - The Haunting (1963)
 - Hereditary (2018)
