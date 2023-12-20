@@ -5,6 +5,7 @@ title: Film
 
 ### 2023
 
+- Nřan guynə (1969)
 - McCabe & Mrs. Miller (1971)
 - День рождения Юлии (1995)
 - Night of the Living Dead (1968)
