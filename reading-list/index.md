@@ -7,6 +7,7 @@ title: Reading List
 
 - The Guermantes Way, by Marcel Proust
 - Bleeding Edge, by Thomas Pynchon
+- Picture This: The Near-sighted Monkey Book, by Lynda Barry
 
 ### 2023
 
