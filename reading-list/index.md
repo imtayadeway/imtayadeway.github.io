@@ -7,11 +7,14 @@ title: Reading List
 
 - The Guermantes Way, by Marcel Proust
 - Bleeding Edge, by Thomas Pynchon
-- Picture This: The Near-sighted Monkey Book, by Lynda Barry
+
+### 2024
+
+- [Picture This], by Lynda Barry
 
 ### 2023
 
-- Syllabus: Notes from an Accidental Professor, by Lynda Barry
+- [Syllabus], by Lynda Barry
 - The Little One
 - Fun Home: A Family Tragicomic, by Alison Bechdel
 - [You Better Be Lightning], by Andrea Gibson
@@ -111,10 +114,12 @@ title: Reading List
 [New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
+[Picture This]: https://drawnandquarterly.com/books/picture-this/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
 [SQL Performance Explained]: https://sql-performance-explained.com/
+[Syllabus]: https://drawnandquarterly.com/books/syllabus/
 [teaching my mother how to give birth]: https://flippedeye.net/product/teaching-my-mother-how-to-give-birth/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [The Apology]: https://theapologybook.net/about-the-apology-eve-ensler/
