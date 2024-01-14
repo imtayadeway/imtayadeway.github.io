@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- Palestine, by Joe Sacco
 - The Guermantes Way, by Marcel Proust
 
 ### 2024
