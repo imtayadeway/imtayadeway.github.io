@@ -6,10 +6,10 @@ title: Reading List
 ### Currently Reading
 
 - The Guermantes Way, by Marcel Proust
-- Bleeding Edge, by Thomas Pynchon
 
 ### 2024
 
+- Bleeding Edge, by Thomas Pynchon
 - [Picture This], by Lynda Barry
 
 ### 2023
