@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- What We Talk About When We Talk About Love, by Raymond Carver
 - Palestine, by Joe Sacco
 - The Guermantes Way, by Marcel Proust
 
