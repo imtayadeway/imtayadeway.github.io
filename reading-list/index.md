@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- [Ducks, Newburyport], by Lucy Ellmann
 - What We Talk About When We Talk About Love, by Raymond Carver
 - Palestine, by Joe Sacco
 - The Guermantes Way, by Marcel Proust
@@ -105,6 +106,7 @@ title: Reading List
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
 [Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
 [Drive Here and Devastate Me]: https://writebloody.com/collections/queer-lit/products/drive-here-and-devastate-me
+[Ducks, Newburyport]: https://www.biblioasis.com/shop/fiction/ducks-newburyport/
 [Electric Michelangelo]: http://www.sarahhallauthor.com/electric.htm
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
