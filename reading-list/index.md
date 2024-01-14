@@ -10,6 +10,7 @@ title: Reading List
 
 ### 2024
 
+- [Polaroid Interior Exterior], by Robby Müller
 - Bleeding Edge, by Thomas Pynchon
 - [Picture This], by Lynda Barry
 
@@ -116,6 +117,7 @@ title: Reading List
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Picture This]: https://drawnandquarterly.com/books/picture-this/
+[Polaroid Interior Exterior]: https://www.annetgelink.com/publications/80/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
