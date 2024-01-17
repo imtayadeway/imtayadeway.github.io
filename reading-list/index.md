@@ -20,7 +20,7 @@ title: Reading List
 ### 2023
 
 - [Syllabus], by Lynda Barry
-- The Little One
+- The Little One, by Kiyo Tanaka
 - Fun Home: A Family Tragicomic, by Alison Bechdel
 - [You Better Be Lightning], by Andrea Gibson
 - [Amsterdam Photos], by Robby Müller
