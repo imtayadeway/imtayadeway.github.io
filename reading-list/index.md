@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- Stag's Leap, by Sharon Olds
 - [Ducks, Newburyport], by Lucy Ellmann
 - What We Talk About When We Talk About Love, by Raymond Carver
 - Palestine, by Joe Sacco
