@@ -9,6 +9,7 @@ date: 2024-03-04 10:33:45 -0700
 a defense of
 quarter of the length? no.
 throbbing, undulating, pulsing
+recoil and leap
 there is no *point* and that is the point
 not to get all freudian or anything
 it contains multitudes, as walt whitman sez
