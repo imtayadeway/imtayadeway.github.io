@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- The Half of It (2020)
 - Là-bas (2006)
 - The Hitch-Hiker (1953)
 - La Pointe Courte (1955)
