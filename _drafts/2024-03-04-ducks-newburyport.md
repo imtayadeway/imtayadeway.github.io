@@ -10,6 +10,7 @@ a defense of
 quarter of the length? no.
 throbbing, undulating, pulsing
 recoil and leap
+like waves on the horizon, crashing
 there is no *point* and that is the point
 not to get all freudian or anything
 it contains multitudes, as walt whitman sez
