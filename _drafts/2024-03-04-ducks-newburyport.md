@@ -13,10 +13,12 @@ recoil and leap
 like waves on the horizon, crashing
 there is no *point* and that is the point
 not to get all freudian or anything
+there is something freudian about the need for a single point or for it to be over as quickly as possible
 it contains multitudes, as walt whitman sez
 the performance of reading
 my alma mata
 emma
+semi autobiographical
 the woman blurring the lines between actors and the parts they play
 to what extend is the woman lucy?
 i love her though she is flawed, because she is flawed
