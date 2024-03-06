@@ -29,3 +29,4 @@ polite but not quite repressed - avoiding the excesses of stream of consciousnes
 charming, lovely, sweet but flawed, because she is flawed
 learning how the stories intertwine, and that she does not support the other narrative
 fat phobia
+the fact that i think i know more about this character than any other fictional character, that she has confided so much in me, more than some of the other people in the book, and i know so many things about her, she's revealed to me things that she may not even know about herself, and i love her dearly more than any other
