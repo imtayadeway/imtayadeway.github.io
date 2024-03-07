@@ -6,6 +6,10 @@ tags:
 date: 2024-03-04 10:33:45 -0700
 ---
 
+I remember distinctly the first time I held a Lucy Ellmann book, unboxing the slim volume in the basement of the bookstore in which I was working in 2003. Initially seduced by the suggestion of smut on its cartoonish cover, I knew that this was not entirely a serious work, and though the unusual stylistic conceit that was obvious from leafing through the first pages seemed to confirm this there was the suggestion of something more to it, a blend of the irreverant and existential. I had to have it, and that copy never made it to the shop floor. I was so enthused with it that I almost immediately sent my copy, via a somewhat dubious inter-branch transfer, to a bookseller friend across the country, and if my unreliable memory serves it was the start of a torrid love affair, that I only mention to illustrate the potency of Ellmann's writing. I got everything else I could find in print, eagerly awaited her next release, and then . . . nothing happened for a while. And so I was surprised discovering in 2022, isolated mid-pandemic, in an effort to reconnect with the reading habits of my younger self, that Ellmann had written a 1000 page stream of consciousness novel, endorsed by my *alma mater* (ah, Goldsmiths, still a reliable champion of so many things I hold dear), had got the attention of the Booker lot even, the panel for which I assume far too timid to promote such an outlandishly ambitious work into its coveted first prize.
+
+Its length and narrative style intimidated me at first, but my fears were soon allayed once I made the commitment to start it. Though it has been widely praised, some I think unfair criticisms have been leveled at it.
+
 a defense of
 quarter of the length? no.
 throbbing, undulating, pulsing
