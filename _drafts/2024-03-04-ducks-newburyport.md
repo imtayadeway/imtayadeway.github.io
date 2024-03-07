@@ -10,6 +10,8 @@ I remember distinctly the first time I held a Lucy Ellmann book, unboxing the sl
 
 Its length and narrative style intimidated me at first, but my fears were soon allayed once I made the commitment to start it. Though it has been widely praised, some I think unfair criticisms have been leveled at it.
 
+being moved to seek out philippa dunne on cameo to read sections to me, finding that she could not, doing my best (bad) impression to myself, reading aloud to myself in the sweetest middle-aged mom voice I could, becoming just momentarily her.
+
 a defense of
 quarter of the length? no.
 throbbing, undulating, pulsing
