@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- The Fugitive (1993)
 - The Half of It (2020)
 - Là-bas (2006)
 - The Hitch-Hiker (1953)
