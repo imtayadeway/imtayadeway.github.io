@@ -6,13 +6,13 @@ title: Reading List
 ### Currently Reading
 
 - Stag's Leap, by Sharon Olds
-- [Ducks, Newburyport], by Lucy Ellmann
 - What We Talk About When We Talk About Love, by Raymond Carver
 - Palestine, by Joe Sacco
 - The Guermantes Way, by Marcel Proust
 
 ### 2024
 
+- [Ducks, Newburyport], by Lucy Ellmann
 - [Polaroid Interior Exterior], by Robby Müller
 - Bleeding Edge, by Thomas Pynchon
 - [Picture This], by Lynda Barry
