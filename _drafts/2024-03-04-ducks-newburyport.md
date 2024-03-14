@@ -26,7 +26,7 @@ charming, lovely, sweet but flawed, because she is flawed
 learning how the stories intertwine, and that she does not support the other narrative
 fat phobia
 the fact that i think i know more about this character than any other fictional character, that she has confided so much in me, more than some of the other people in the book, and i know so many things about her, she's revealed to me things that she may not even know about herself, and i love her dearly more than any other
-love of purple martins and purple martin houses, old black and white movies, the right way to do a lot of things, a kind of condensation of the wisdom of many Ellmann mothers, distillation, of baking, at once proper and unfussy, a litany of massacres and headlines, her little grudges and going back and forth, seeing things from both sides,
+love of purple martins and purple martin houses, old black and white movies, the right way to do a lot of things, a kind of condensation of the wisdom of many Ellmann mothers, distillation, of baking, at once exquisite taste/proper and unfussy, a litany of massacres and headlines, her little grudges and going back and forth, seeing things from both sides, Laura Ingalls Wilder, Amish quilts, friends she admires, people she misses, images, waterlow park
 she is so polite, does not swear, not quite repressed, dodging....death and the pain of loss
 
 a mirror for the mess america is in, and a hint at its salvation - mothers and motherhood
