@@ -12,7 +12,7 @@ title: Reading List
 
 ### 2024
 
-- [Ducks, Newburyport], by Lucy Ellmann
+- [Ducks, Newburyport], by Lucy Ellmann ([read my review][ducks, newburyport review])
 - [Polaroid Interior Exterior], by Robby Müller
 - Bleeding Edge, by Thomas Pynchon
 - [Picture This], by Lynda Barry
@@ -98,6 +98,7 @@ title: Reading List
 - [The Pragmatic Programmer], by Andrew Hunt and David Thomas
 - [Getting Clojure], by Russ Olsen ([read my review][getting clojure review])
 
+[ducks, newburyport review]: {{ site.base_url }}{% post_url 2024-03-04-ducks-newburyport %}
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 [mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
 
