@@ -18,11 +18,11 @@ Though it has been widely praised, it has also attracted some I think unfair cri
 
 "I think these are [...] rules, we are just used to believing that you can't do that, you're not allowed to keep a sentence going, but actually it turned out it is possible, and why not?" she says in her [promotional video] for The Booker Prize. For better or worse I may not have dared to write a review of this or any other book so unashamedly from my own subjective experience without some influence from Ellmann. I can only honestly talk about my performance of it. I hope she is right about women and motherhood, and I sorely miss those qualities which pervaded my consciousness for all too brief a time this year. I hope that they did change me in the process, and I am better for their influence.
 
-i love her though she is flawed, because she is flawed
-learning how the stories intertwine, and that she does not support the other narrative
-fat phobia
-Laura Ingalls Wilder, Amish quilts, friends she admires, people she misses, images, waterlow park
-love of purple martins and purple martin houses, old black and white movies,
+<!-- i love her though she is flawed, because she is flawed -->
+<!-- learning how the stories intertwine, and that she does not support the other narrative -->
+<!-- fat phobia -->
+<!-- Laura Ingalls Wilder, Amish quilts, friends she admires, people she misses, images, waterlow park -->
+<!-- love of purple martins and purple martin houses, old black and white movies, -->
 
 [Kirkus Reviews]: https://www.kirkusreviews.com/book-reviews/lucy-ellmann/ducks-newburyport/
 [promotional video]: https://www.youtube.com/watch?v=iC1KcN8PR-I
