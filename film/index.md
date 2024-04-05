@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Love Has Won: The Cult of Mother God (2023)
 - Air Force One (1997)
 - Восхождение (1977)
 - The Fugitive (1993)
