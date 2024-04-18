@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Double Indemnity (1944)
 - Shane (1953)
 - Being There (1979)
 - Love Has Won: The Cult of Mother God (2023)
