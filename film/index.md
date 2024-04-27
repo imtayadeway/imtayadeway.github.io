@@ -5,7 +5,7 @@ title: Film
 
 ### 2024
 
-<!-- - Around the World in 80 Days (1956) [22:23] -->
+- Around the World in 80 Days (1956)
 - Julie & Julia (2009)
 - It's Complicated (2009)
 - Mission: Impossible - Dead Reckoning Part One (2023)
