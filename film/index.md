@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Shōgun (2024)
 - The Count of Monte Cristo (2002)
 - Around the World in 80 Days (1956)
 - Julie & Julia (2009)
