@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- The Odd Couple (1968)
 - Baby Reindeer (2024)
 - Shōgun (2024)
 - The Count of Monte Cristo (2002)
