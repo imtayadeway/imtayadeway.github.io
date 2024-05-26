@@ -5,12 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
+- Ulysses, by James Joyce
 - Stag's Leap, by Sharon Olds
-- Palestine, by Joe Sacco
 - The Guermantes Way, by Marcel Proust
 
 ### 2024
 
+- Palestine, by Joe Sacco
 - What We Talk About When We Talk About Love, by Raymond Carver
 - [Ducks, Newburyport], by Lucy Ellmann ([read my review][ducks, newburyport review])
 - [Polaroid Interior Exterior], by Robby Müller
