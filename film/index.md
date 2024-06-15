@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Muppet Treasure Island (1996)
 - The Odd Couple (1968)
 - Baby Reindeer (2024)
 - Shōgun (2024)
