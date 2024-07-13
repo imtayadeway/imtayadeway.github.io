@@ -125,9 +125,6 @@ pervaded my consciousness for all too brief a time this year. I hope
 that they did change me in the process, and I am better for their
 influence.
 
-<!-- i love her though she is flawed, because she is flawed -->
-<!-- learning how the stories intertwine, and that she does not support the other narrative -->
-<!-- fat phobia -->
 <!-- Laura Ingalls Wilder, Amish quilts, friends she admires, people she misses, images, waterlow park -->
 <!-- love of purple martins and purple martin houses, old black and white movies, -->
 
