@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- An Cailín Ciúin (The Quiet Girl) (2022)
 - Le Samouraï (1967)
 - Miller's Crossing (1990)
 - STEVE! (martin) a documentary in 2 pieces (2024)
