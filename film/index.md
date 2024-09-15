@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Coraline (2009)
 - The Zone of Interest (2023)
 - An Cailín Ciúin (The Quiet Girl) (2022)
 - Le Samouraï (1967)
