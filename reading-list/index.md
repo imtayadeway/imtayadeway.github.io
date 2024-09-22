@@ -11,6 +11,7 @@ title: Reading List
 
 ### 2024
 
+- Love You Forever, by Robert Munsch and Sheila McGraw
 - Palestine, by Joe Sacco
 - What We Talk About When We Talk About Love, by Raymond Carver
 - [Ducks, Newburyport], by Lucy Ellmann ([read my review][ducks, newburyport review])
