@@ -7,6 +7,7 @@ title: Reading List
 
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
+- Feline Philosophy - Cats and the Meaning of Life, by John Gray
 
 ### 2024
 
