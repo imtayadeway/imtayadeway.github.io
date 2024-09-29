@@ -6,11 +6,11 @@ title: Reading List
 ### Currently Reading
 
 - Ulysses, by James Joyce
-- Stag's Leap, by Sharon Olds
 - The Guermantes Way, by Marcel Proust
 
 ### 2024
 
+- Stag's Leap, by Sharon Olds
 - Love You Forever, by Robert Munsch and Sheila McGraw
 - Palestine, by Joe Sacco
 - What We Talk About When We Talk About Love, by Raymond Carver
