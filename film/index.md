@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Vampyr (1932)
 - The Hunger (1983)
 - Will and Harper (2024)
 - Irma La Douce (1963)
