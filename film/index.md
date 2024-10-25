@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- 28 Days Later (2002)
 - Lakota Nation vs. United States (2022)
 - Vampyr (1932)
 - The Hunger (1983)
