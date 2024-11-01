@@ -5,6 +5,8 @@ title: Film
 
 ### 2024
 
+- Das Cabinet des Dr. Caligari (1920)
+- Bride of Frankenstein (1935)
 - 28 Days Later (2002)
 - Lakota Nation vs. United States (2022)
 - Vampyr (1932)
