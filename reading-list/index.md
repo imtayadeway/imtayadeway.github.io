@@ -7,10 +7,10 @@ title: Reading List
 
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
-- Feline Philosophy - Cats and the Meaning of Life, by John Gray
 
 ### 2024
 
+- Feline Philosophy - Cats and the Meaning of Life, by John Gray
 - Things Are Against Us, by Lucy Ellmann
 - Stag's Leap, by Sharon Olds
 - Love You Forever, by Robert Munsch and Sheila McGraw
