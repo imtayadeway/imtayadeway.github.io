@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- Frog and Toad: The Complete Collection, by Arnold Lobel
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
 
