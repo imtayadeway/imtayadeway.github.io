@@ -5,12 +5,12 @@ title: Reading List
 
 ### Currently Reading
 
-- Frog and Toad: The Complete Collection, by Arnold Lobel
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
 
 ### 2024
 
+- Frog and Toad: The Complete Collection, by Arnold Lobel
 - Feline Philosophy - Cats and the Meaning of Life, by John Gray
 - Things Are Against Us, by Lucy Ellmann
 - Stag's Leap, by Sharon Olds
