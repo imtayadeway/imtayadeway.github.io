@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Being Thunder (2021)
 - Portrait de la jeune fille en feu (2019)
 - Russia 1985–1999: TraumaZone (2022)
 - Das Cabinet des Dr. Caligari (1920)
