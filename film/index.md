@@ -5,6 +5,7 @@ title: Film
 
 ### 2024
 
+- Days of Wine and Roses (1962)
 - Being Thunder (2021)
 - Portrait de la jeune fille en feu (2019)
 - Russia 1985–1999: TraumaZone (2022)
