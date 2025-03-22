@@ -5,7 +5,7 @@ title: Film
 
 ### 2025
 
-- Happy Together (1997)
+- 春光乍洩 (Happy Together) (1997)
 - In Defense of Food (2015)
 - The Weather Man (2005)
 - Sugarcane (2024)
