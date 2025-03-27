@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Baobab: Portrait of a Tree (1973)
 - No Other Land (2024)
 - 春光乍洩 (Happy Together) (1997)
 - In Defense of Food (2015)
