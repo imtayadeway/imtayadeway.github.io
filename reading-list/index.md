@@ -8,6 +8,10 @@ title: Reading List
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
 
+### 2025
+
+- [Fracas], by Paul Violi
+
 ### 2024
 
 - Frog and Toad: The Complete Collection, by Arnold Lobel
@@ -115,6 +119,7 @@ title: Reading List
 [Drive Here and Devastate Me]: https://writebloody.com/collections/queer-lit/products/drive-here-and-devastate-me
 [Ducks, Newburyport]: https://www.biblioasis.com/shop/fiction/ducks-newburyport/
 [Electric Michelangelo]: http://www.sarahhallauthor.com/electric.htm
+[Fracas]: https://www.hangingloosepress.com/book/fracas/
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
 [How to be Happy]: https://doing-fine.com/?portfolio=3330
