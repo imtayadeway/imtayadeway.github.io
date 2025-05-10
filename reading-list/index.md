@@ -5,6 +5,8 @@ title: Reading List
 
 ### Currently Reading
 
+- [The Book of Difficult Fruit], by Kate Lebo
+- [Pond], by Claire-Louise Bennett
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
 
@@ -133,6 +135,7 @@ title: Reading List
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Picture This]: https://drawnandquarterly.com/books/picture-this/
 [Polaroid Interior Exterior]: https://www.annetgelink.com/publications/80/
+[Pond]: https://stingingfly.org/books/pond/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
@@ -141,6 +144,7 @@ title: Reading List
 [teaching my mother how to give birth]: https://flippedeye.net/product/teaching-my-mother-how-to-give-birth/
 [The Amateur's Mind]: https://www.silmanjamespress.com/shop/chess/amateurs-mind-the-2nd-edition/
 [The Apology]: https://theapologybook.net/about-the-apology-eve-ensler/
+[The Book of Difficult Fruit]: https://katelebo.com/the-book-of-difficult-fruit/
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
