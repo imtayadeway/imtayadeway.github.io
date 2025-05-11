@@ -7,6 +7,7 @@ title: Film
 
 - Secret Mall Apartment (2024)
 - Straume (Flow) (2024)
+- Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 - Constellation (2024)
 - Imagination (2025)
 - Anti-Cosmos (2022)
