@@ -5,13 +5,14 @@ title: Reading List
 
 ### Currently Reading
 
+- [Making Comics], by Lynda Barry
 - [The Book of Difficult Fruit], by Kate Lebo
-- [Pond], by Claire-Louise Bennett
 - Ulysses, by James Joyce
 - The Guermantes Way, by Marcel Proust
 
 ### 2025
 
+- [Pond], by Claire-Louise Bennett
 - [Fracas], by Paul Violi
 
 ### 2024
@@ -127,6 +128,7 @@ title: Reading List
 [How to be Happy]: https://doing-fine.com/?portfolio=3330
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [i shimmer sometimes, too]: https://buttonpoetry.com/product/i-shimmer-sometimes-too/
+[Making Comics]: https://drawnandquarterly.com/books/making-comics/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
