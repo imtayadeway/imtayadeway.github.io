@@ -7,8 +7,6 @@ title: Reading List
 
 - [Making Comics], by Lynda Barry
 - [The Book of Difficult Fruit], by Kate Lebo
-- Ulysses, by James Joyce
-- The Guermantes Way, by Marcel Proust
 
 ### 2025
 
