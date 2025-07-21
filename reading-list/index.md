@@ -5,11 +5,11 @@ title: Reading List
 
 ### Currently Reading
 
-- [Making Comics], by Lynda Barry
 - [The Book of Difficult Fruit], by Kate Lebo
 
 ### 2025
 
+- [Making Comics], by Lynda Barry
 - [Pond], by Claire-Louise Bennett
 - [Fracas], by Paul Violi
 
