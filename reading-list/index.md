@@ -5,6 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
+- [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
 - [The Book of Difficult Fruit], by Kate Lebo
 
 ### 2025
@@ -116,6 +117,7 @@ title: Reading List
 [Amsterdam Photos]: https://www.ideabooks.nl/9789464460353-robby-mueller-amsterdam-photos
 [Bad]: https://electricliterature.com/i-call-all-my-exes-darren-5c28cec10e7b
 [Caca Dolce]: https://softskull.com/dd-product/caca-dolce/
+[Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco]: https://citylights.com/general-poetry/covid-vortex-anxiety-opera-kitty/
 [Dance the Eagle to Sleep]: https://margepiercy.com/fiction/#danceTheEagleToSleep
 [Drive Here and Devastate Me]: https://writebloody.com/collections/queer-lit/products/drive-here-and-devastate-me
 [Ducks, Newburyport]: https://www.biblioasis.com/shop/fiction/ducks-newburyport/
