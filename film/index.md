@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Dissolve (2024)
 - Fried Green Tomatoes (1991)
 - Shifty: Living in Britain at the End of the Twentieth Century (2025)
 - Дерево і кішка (A Tree and a Cat) (1983)
