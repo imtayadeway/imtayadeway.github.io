@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Aftersun (2022)
 - Blue Ruin (2013)
 - Dissolve (2024)
 - Fried Green Tomatoes (1991)
