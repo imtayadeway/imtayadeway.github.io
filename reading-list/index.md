@@ -5,11 +5,11 @@ title: Reading List
 
 ### Currently Reading
 
-- [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
 - [The Book of Difficult Fruit], by Kate Lebo
 
 ### 2025
 
+- [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
 - [Making Comics], by Lynda Barry
 - [Pond], by Claire-Louise Bennett
 - [Fracas], by Paul Violi
