@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- The Beach Boys: An American Band (1985)
 - Aftersun (2022)
 - Blue Ruin (2013)
 - Dissolve (2024)
