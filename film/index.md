@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Call Me By Your Name (2021)
 - The Beach Boys: An American Band (1985)
 - Aftersun (2022)
 - Blue Ruin (2013)
