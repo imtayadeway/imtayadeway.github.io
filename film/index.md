@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Perfect Days (2023)
 - Move Over, Darling (1963)
 - Strange Brew (1983)
 - Call Me By Your Name (2021)
