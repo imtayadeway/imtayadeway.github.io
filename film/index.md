@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Dracula (1979)
 - Dracula (1931)
 - Dracula: Pages from a Virgin's Diary (2002)
 - Jess + Moss (2011)
