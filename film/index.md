@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Bram Stoker's Dracula (1992)
 - Dracula (1979)
 - Dracula (1931)
 - Dracula: Pages from a Virgin's Diary (2002)
