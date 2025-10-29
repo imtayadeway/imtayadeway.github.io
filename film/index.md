@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Nosferatu: Phantom der Nacht (1979)
 - Bram Stoker's Dracula (1992)
 - Dracula (1979)
 - Dracula (1931)
