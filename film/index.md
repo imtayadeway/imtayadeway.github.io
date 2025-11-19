@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Nosferatu – Eine Symphonie des Grauens (1922)
 - Conshelf Adventure (1966)
 - The Cardinal & The Corpse (1992)
 - Pee-wee's Big Adventure (1985)
