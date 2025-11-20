@@ -5,10 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
-- [Fighting Fascism: How to Struggle and How to Win], by Clara Zetkin ([read my article][fighting fascism article])
+- [One! Hundred! Demons!], by Lynda Barry
+- [San Francisco Poems], by Lawrence Felinghetti
+- [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
 ### 2025
 
+- [Fighting Fascism: How to Struggle and How to Win], by Clara Zetkin ([read my article][fighting fascism article])
 - [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
 - [Making Comics], by Lynda Barry
 - [Pond], by Claire-Louise Bennett
@@ -135,6 +138,7 @@ title: Reading List
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
+[One! Hundred! Demons!]: https://drawnandquarterly.com/books/one-hundred-demons/
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
 [Picture This]: https://drawnandquarterly.com/books/picture-this/
@@ -142,6 +146,7 @@ title: Reading List
 [Pond]: https://stingingfly.org/books/pond/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
+[San Francisco Poems]: https://citylights.com/foundation-books/san-francisco-poems-poet-laureate-1/
 [Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
 [SQL Performance Explained]: https://sql-performance-explained.com/
 [Syllabus]: https://drawnandquarterly.com/books/syllabus/
@@ -150,6 +155,7 @@ title: Reading List
 [The Apology]: https://theapologybook.net/about-the-apology-eve-ensler/
 [The Book of Difficult Fruit]: https://katelebo.com/the-book-of-difficult-fruit/
 [The Dangerous Journey: A Tale of Moomin Valley]: https://www.drawnandquarterly.com/dangerous-journey-tale-moomin-valley
+[The Journey of Crazy Horse: A Lakota History]: https://www.penguinrandomhouse.com/books/291225/the-journey-of-crazy-horse-by-joseph-m-marshall-iii/
 [The Pragmatic Programmer]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [The Sarah Book]: https://nytyrant.com/collections/titles/products/pre-order-the-sarah-book-by-scott-mcclanahan
 [The Sound of Silence]: http://thesoundofsilence.org/
