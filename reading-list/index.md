@@ -5,7 +5,7 @@ title: Reading List
 
 ### Currently Reading
 
-- [The Book of Difficult Fruit], by Kate Lebo
+- [Fighting Fascism: How to Struggle and How to Win], by Clara Zetkin ([read my article][fighting fascism article])
 
 ### 2025
 
@@ -110,6 +110,7 @@ title: Reading List
 - [Getting Clojure], by Russ Olsen ([read my review][getting clojure review])
 
 [ducks, newburyport review]: {{ site.base_url }}{% post_url 2024-03-04-ducks-newburyport %}
+[fighting fascism article]: {{ site.base_url }}{% post_url 2025-11-20-fighting-fascism %}
 [getting clojure review]: {{ site.base_url }}{% post_url 2018-02-19-getting-clojure-review %}
 [mason & dixon review]: {{ site.base_url }}{% post_url 2021-01-13-mason-and-dixon %}
 
@@ -122,6 +123,7 @@ title: Reading List
 [Drive Here and Devastate Me]: https://writebloody.com/collections/queer-lit/products/drive-here-and-devastate-me
 [Ducks, Newburyport]: https://www.biblioasis.com/shop/fiction/ducks-newburyport/
 [Electric Michelangelo]: http://www.sarahhallauthor.com/electric.htm
+[Fighting Fascism: How to Struggle and How to Win]: https://www.haymarketbooks.org/books/1088-fighting-fascism
 [Fracas]: https://www.hangingloosepress.com/book/fracas/
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
