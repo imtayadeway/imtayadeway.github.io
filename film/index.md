@@ -5,6 +5,8 @@ title: Film
 
 ### 2025
 
+- Nosferatu (2024)
+- Scooby Doo on Zombie Island (1998)
 - Nosferatu – Eine Symphonie des Grauens (1922)
 - Conshelf Adventure (1966)
 - The Cardinal & The Corpse (1992)
