@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Death on the Nile (1978)
 - Murder on the Orient Express (1974)
 - Nosferatu (2024)
 - Scooby Doo on Zombie Island (1998)
