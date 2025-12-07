@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Evil Under the Sun (1982)
 - Death on the Nile (1978)
 - Murder on the Orient Express (1974)
 - Nosferatu (2024)
