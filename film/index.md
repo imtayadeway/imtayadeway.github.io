@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- A Haunting in Venice (2023)
 - Thirteen at Dinner (1985)
 - Evil Under the Sun (1982)
 - Death on the Nile (1978)
