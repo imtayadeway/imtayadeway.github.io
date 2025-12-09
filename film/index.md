@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Dead Man's Folly (1986)
 - A Haunting in Venice (2023)
 - Thirteen at Dinner (1985)
 - Evil Under the Sun (1982)
