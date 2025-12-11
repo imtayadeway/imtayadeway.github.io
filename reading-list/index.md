@@ -11,6 +11,7 @@ title: Reading List
 
 ### 2025
 
+- Secrets of the Setters: How to Solve _The Guardian_ Crossword, by Hugh Stephenson
 - [Fighting Fascism: How to Struggle and How to Win], by Clara Zetkin ([read my article][fighting fascism article])
 - [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
 - [Making Comics], by Lynda Barry
