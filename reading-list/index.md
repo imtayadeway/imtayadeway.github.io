@@ -5,12 +5,12 @@ title: Reading List
 
 ### Currently Reading
 
-- [One! Hundred! Demons!], by Lynda Barry
 - [San Francisco Poems], by Lawrence Felinghetti
 - [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
 ### 2025
 
+- [One! Hundred! Demons!], by Lynda Barry
 - Secrets of the Setters: How to Solve _The Guardian_ Crossword, by Hugh Stephenson
 - [Fighting Fascism: How to Struggle and How to Win], by Clara Zetkin ([read my article][fighting fascism article])
 - [Covid Vortex Anxiety Opera Kitty Kaleidoscope Disco], by Karen Finley
