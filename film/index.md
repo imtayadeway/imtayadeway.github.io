@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- The Thin Man (1934)
 - Appointment With Death (1988)
 - Witness for the Prosecution (1957)
 - Murder in Three Acts (1986)
