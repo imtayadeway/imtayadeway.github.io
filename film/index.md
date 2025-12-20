@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Planes, Trains and Automobiles (1987)
 - Tombstone (1993)
 - And Then There Were None (1945)
 - The Thin Man (1934)
