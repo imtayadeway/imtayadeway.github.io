@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Hamlet (1996)
 - The Dead (1987)
 - Planes, Trains and Automobiles (1987)
 - Tombstone (1993)
