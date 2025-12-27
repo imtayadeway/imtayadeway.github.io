@@ -5,6 +5,7 @@ title: Film
 
 ### 2025
 
+- Little Children (2006)
 - Hamlet (1996)
 - The Dead (1987)
 - Planes, Trains and Automobiles (1987)
