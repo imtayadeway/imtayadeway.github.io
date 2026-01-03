@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Much Ado About Nothing (1993)
 - Holy Smoke! (1999)
 
 ### 2025
