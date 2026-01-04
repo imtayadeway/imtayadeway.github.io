@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Valkyrie (2008)
 - Much Ado About Nothing (1993)
 - Holy Smoke! (1999)
 
