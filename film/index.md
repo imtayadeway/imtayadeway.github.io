@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Desert Hearts (1985)
 - Conspiracy (2001)
 - Valkyrie (2008)
 - Much Ado About Nothing (1993)
