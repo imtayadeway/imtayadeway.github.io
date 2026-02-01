@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The World at War (1973-4)
 - Desert Hearts (1985)
 - Conspiracy (2001)
 - Valkyrie (2008)
