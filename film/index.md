@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Persuasion (1995)
 - Der Untergang (2004)
 - Sense and Sensibility (1995)
 - Henry V (1989)
