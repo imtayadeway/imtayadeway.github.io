@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Erik the Viking (1989)
 - Woof! (2026)
 - Persuasion (1995)
 - Der Untergang (2004)
