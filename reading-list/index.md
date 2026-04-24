@@ -8,6 +8,10 @@ title: Reading List
 - [San Francisco Poems], by Lawrence Felinghetti
 - [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
+### 2026
+
+- [Hamlet: Revised Edition], by William Shakespeare
+
 ### 2025
 
 - [One! Hundred! Demons!], by Lynda Barry
@@ -131,6 +135,7 @@ title: Reading List
 [Fracas]: https://www.hangingloosepress.com/book/fracas/
 [Get Out Your Hankies]: https://uncivilizedbooks.com/get-out-your-hankies/
 [Getting Clojure]: https://pragprog.com/book/roclojure/getting-clojure
+[Hamlet: Revised Edition]: https://www.bloomsbury.com/us/hamlet-9781472518385/
 [How to be Happy]: https://doing-fine.com/?portfolio=3330
 [How to Reassess Your Chess - 4th Edition]: https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/
 [i shimmer sometimes, too]: https://buttonpoetry.com/product/i-shimmer-sometimes-too/
