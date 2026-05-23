@@ -5,11 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
+- [Processing: 100 Comics That Got Me Through It], by Tara Booth
 - [San Francisco Poems], by Lawrence Felinghetti
 - [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
 ### 2026
 
+- [Much Ado About Nothing: Revised Edition], by William Shakespeare
 - [Hamlet: Revised Edition], by William Shakespeare
 
 ### 2025
@@ -142,6 +144,7 @@ title: Reading List
 [Making Comics]: https://drawnandquarterly.com/books/making-comics/
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
+[Much Ado About Nothing: Revised Edition]: https://www.bloomsbury.com/us/much-ado-about-nothing-9781474216104/
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
 [One! Hundred! Demons!]: https://drawnandquarterly.com/books/one-hundred-demons/
@@ -150,6 +153,7 @@ title: Reading List
 [Picture This]: https://drawnandquarterly.com/books/picture-this/
 [Polaroid Interior Exterior]: https://www.annetgelink.com/publications/80/
 [Pond]: https://stingingfly.org/books/pond/
+[Processing: 100 Comics That Got Me Through It]: https://drawnandquarterly.com/books/processing-1100-comics-that-got-me-through-it/
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [San Francisco Poems]: https://citylights.com/foundation-books/san-francisco-poems-poet-laureate-1/
