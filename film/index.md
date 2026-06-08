@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Horse Whisperer (1998)
 - Middlemarch (1994)
 - Erik the Viking (1989)
 - Woof! (2026)
