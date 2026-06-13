@@ -5,12 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
-- [Processing: 100 Comics That Got Me Through It], by Tara Booth
-- [San Francisco Poems], by Lawrence Felinghetti
+- [My Favorite Thing is Monsters], by Emil Ferris
 - [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
 ### 2026
 
+- [San Francisco Poems], by Lawrence Felinghetti
+- [Processing: 100 Comics That Got Me Through It], by Tara Booth
 - [Much Ado About Nothing: Revised Edition], by William Shakespeare
 - [Hamlet: Revised Edition], by William Shakespeare
 
@@ -145,6 +146,7 @@ title: Reading List
 [Mickey]: https://www.etsy.com/listing/476579597/mickey-by-chelsea-martin
 [milk and honey]: https://rupikaur.com/books/milk-and-honey/
 [Much Ado About Nothing: Revised Edition]: https://www.bloomsbury.com/us/much-ado-about-nothing-9781474216104/
+[My Favorite Thing is Monsters]: https://www.fantagraphics.com/collections/emil-ferris/products/my-favorite-thing-is-monsters
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
 [One! Hundred! Demons!]: https://drawnandquarterly.com/books/one-hundred-demons/
