@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- A Midsummer Night's Dream (1999)
 - Witness (1985)
 - Presumed Innocent (1990)
 - The Horse Whisperer (1998)
