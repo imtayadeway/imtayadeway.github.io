@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- A Fish Called Wanda (1988)
 - A Midsummer Night's Dream (1999)
 - Witness (1985)
 - Presumed Innocent (1990)
