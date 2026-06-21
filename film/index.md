@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Richard III (1995)
 - Richard III (1955)
 - A Fish Called Wanda (1988)
 - A Midsummer Night's Dream (1999)
