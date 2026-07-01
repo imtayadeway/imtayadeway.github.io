@@ -5,11 +5,13 @@ title: Reading List
 
 ### Currently Reading
 
+- [Shakespeare's Sonnets: Revised Edition], by William Shakespeare
 - [My Favorite Thing is Monsters], by Emil Ferris
 - [The Journey of Crazy Horse: A Lakota History], by Joseph M. Marshall III
 
 ### 2026
 
+- [Not Today, Celeste! A Dog's Tale about Her Human's Depression], by Liza Stevens
 - [San Francisco Poems], by Lawrence Felinghetti
 - [Processing: 100 Comics That Got Me Through It], by Tara Booth
 - [Much Ado About Nothing: Revised Edition], by William Shakespeare
@@ -149,6 +151,7 @@ title: Reading List
 [My Favorite Thing is Monsters]: https://www.fantagraphics.com/collections/emil-ferris/products/my-favorite-thing-is-monsters
 [Naughty Bits]: https://robertagregory.com/Robertagregory/Naughty_Bits_detail.html
 [New American Best Friend]: https://buttonpoetry.com/product/new-american-best-friend/
+[Not Today, Celeste! A Dog's Tale about Her Human's Depression]: https://us.jkp.com/products/not-today-celeste
 [One! Hundred! Demons!]: https://drawnandquarterly.com/books/one-hundred-demons/
 [Photographers on Photography: How the Masters See, Think & Shoot]: https://www.laurenceking.com/product/photographers-on-photography/
 [Picture Perfect Lighting]: https://rockynook.com/shop/photography/picture-perfect-lighting/
@@ -159,6 +162,7 @@ title: Reading List
 [Rusty Brown]: https://www.penguinrandomhouse.com/books/185704/rusty-brown-by-chris-ware/
 [Sabrina]: https://www.drawnandquarterly.com/sabrina
 [San Francisco Poems]: https://citylights.com/foundation-books/san-francisco-poems-poet-laureate-1/
+[Shakespeare's Sonnets: Revised Edition]: https://www.bloomsbury.com/us/shakespeares-sonnets-9781408017975/
 [Somewhere at the Edge of the World]: https://www.temperbooks.com/books/p/somewhere-at-the-edge-of-the-world
 [SQL Performance Explained]: https://sql-performance-explained.com/
 [Syllabus]: https://drawnandquarterly.com/books/syllabus/
