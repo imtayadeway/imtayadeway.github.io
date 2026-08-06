@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Hamlet (1948)
 - Mission: Impossible – The Final Reckoning (2025)
 - As you Like It (2006)
 - Bang My Box: The Robin Byrd Story (2026)
