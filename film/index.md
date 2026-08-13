@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Macbeth (1971)
 - Hamlet (1948)
 - Mission: Impossible – The Final Reckoning (2025)
 - As you Like It (2006)
