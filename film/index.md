@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Working Girls (1986)
 - Macbeth (1971)
 - Hamlet (1948)
 - Mission: Impossible – The Final Reckoning (2025)
