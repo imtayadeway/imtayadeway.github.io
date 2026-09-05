@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Blood Ties: The Life and Work of Sally Mann (1994)
 - What Remains: The Life and Work of Sally Mann (2005)
 - My Own Private Idaho (1991)
 - Carry On Again Doctor (1969)
