@@ -5,6 +5,8 @@ title: Film
 
 ### 2026
 
+- In the Bleak Midwinter (1995)
+- Nude on the Moon (1961)
 - The Perfect Neighbor (2025)
 - Blood Ties: The Life and Work of Sally Mann (1994)
 - What Remains: The Life and Work of Sally Mann (2005)
