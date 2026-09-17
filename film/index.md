@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Perfect Neighbor (2025)
 - Blood Ties: The Life and Work of Sally Mann (1994)
 - What Remains: The Life and Work of Sally Mann (2005)
 - My Own Private Idaho (1991)
