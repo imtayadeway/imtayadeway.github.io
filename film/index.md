@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Forbidden Planet (1956)
 - The Fifth Element (1997)
 - In the Bleak Midwinter (1995)
 - Nude on the Moon (1961)
