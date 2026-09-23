@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Deadly Weapons (1974)
 - Forbidden Planet (1956)
 - The Fifth Element (1997)
 - In the Bleak Midwinter (1995)
