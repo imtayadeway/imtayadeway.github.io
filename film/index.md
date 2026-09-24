@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Double Agent 73 (1974)
 - Deadly Weapons (1974)
 - Forbidden Planet (1956)
 - The Fifth Element (1997)
