@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Diary of a Nudist (1961)
 - Double Agent 73 (1974)
 - Deadly Weapons (1974)
 - Forbidden Planet (1956)
