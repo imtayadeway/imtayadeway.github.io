@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Taming of the Shrew (1967)
 - Diary of a Nudist (1961)
 - Double Agent 73 (1974)
 - Deadly Weapons (1974)
