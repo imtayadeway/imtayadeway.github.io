@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Thunderball (1965)
 - From Russia with Love (1963)
 - Dr. No (1962)
 - The Taming of the Shrew (1967)
