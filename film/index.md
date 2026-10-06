@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Man with the Golden Gun (1974)
 - Live and Let Die (1973)
 - On Her Majesty's Secret Service (1969)
 - Diamonds Are Forever (1971)
