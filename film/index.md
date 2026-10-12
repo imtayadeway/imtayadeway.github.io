@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Octopussy (1983)
 - For Your Eyes Only (1981)
 - Moonraker (1979)
 - The Spy Who Loved Me (1977)
