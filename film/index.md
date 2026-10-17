@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Living Daylights (1987)
 - A View to a Kill (1985)
 - Never Say Never Again (1983)
 - Octopussy (1983)
