@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- GoldenEye (1995)
 - Licence to Kill (1989)
 - The Living Daylights (1987)
 - A View to a Kill (1985)
