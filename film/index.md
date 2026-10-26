@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Casino Royale (2006)
 - Die Another Day (2002)
 - The World Is Not Enough (1999)
 - Tomorrow Never Dies (1997)
