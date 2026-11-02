@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- The Witches of Eastwick (1987)
 - No Time to Die (2021)
 - Spectre (2015)
 - Skyfall (2012)
