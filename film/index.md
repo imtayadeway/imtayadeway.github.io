@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Cat People (1942)
 - Orgy of the Dead (1965)
 - What Lies Beneath (2000)
 - Carry On Screaming (1966)
