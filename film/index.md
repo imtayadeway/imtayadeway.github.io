@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Cat People (1982)
 - Theatre of Blood (1973)
 - Cat People (1942)
 - Orgy of the Dead (1965)
