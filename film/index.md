@@ -5,6 +5,7 @@ title: Film
 
 ### 2026
 
+- Blood from the Mummy's Tomb (1971)
 - Cat People (1982)
 - Theatre of Blood (1973)
 - Cat People (1942)
